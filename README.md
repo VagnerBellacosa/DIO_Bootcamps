@@ -5,10 +5,16 @@ Meus bootcamps na DIO, suor, menos cabelos, dedos ligeiros e diversao, Modo Ludi
 
 ## 2021-05-29 
 ### https://web.digitalinnovation.one/track/html-web-developer 
-## 2021-06-14
-### https://web.digitalinnovation.one/track/net-fundamentals
+:trophy: 2021-05-21
+
 ## 2021-06-24 
 ### https://web.digitalinnovation.one/track/become-remote?tab=path
+:trophy: 2021-05-25
+
+## 2021-06-14
+### https://web.digitalinnovation.one/track/net-fundamentals
+:trophy: 2021-05-27
+
 ## 2021-07-13
 ### https://web.digitalinnovation.one/track/gft-start-2-java?tab=path
 ## 2021-07-21 
