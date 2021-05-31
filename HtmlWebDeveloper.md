@@ -6,9 +6,6 @@ Aprenda a programar páginas de internet e desenvolver websites utilizando HTML,
 
 ### :clipboard: Básico  :computer: 11 atividades  :clock430: 27 hrs
 
-\begin{tcolorbox}[colback=blue!5,
-colframe=blue!40!black, title=]
-
 | HTML Web Developer                  |
 |-------------------------------------|
 | 1. Bem-vindo à DIO                  |
@@ -22,7 +19,7 @@ colframe=blue!40!black, title=]
 | 9. Construindo páginas para internet com Bootstrap |
 | 10. Fundamentos Aritméticos em JavaScript |
 | 11. Recriando o jogo da cobrinha com JavaScript |
-|   |
+
 
 ####  1. Bem-vindo à DIO 
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades.
