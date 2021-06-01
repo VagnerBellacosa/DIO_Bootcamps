@@ -6,6 +6,9 @@ Tudo o que você precisa saber para ser um profissional de sucesso de forma remo
 
 ### :clipboard: Intermediário  :computer: 5 atividades  :clock430: 17 hrs
 
+- [Link Oficial do Bootcamp](https://web.digitalinnovation.one/track/become-remote).
+
+
 | Become Remote  |
 |---|
 | 1. Boas-vindas da Impulso  |
@@ -19,6 +22,9 @@ Esse bootcamp é uma parceria entre a Digital Innovation One e a Impulso Network
 
 #### 2. Desmistificando o Trabalho Remoto
 Entenda o que faz parte do trabalho remoto e o que você e sua equipe precisam saber para que todos os processos e comunicações funcionem de forma eficaz. A especialista também vai esclarecer sobre o uso de ferramentas para organizar atividades e sobre o conceito "remote first".
+
+
+ - [Apontamentos](https://github.com/VagnerBellacosa/Curso_BecomeRemote).
 
 #### 3. Como se comunicar de forma eficiente e eficaz trabalhando remotamente
 A comunicação é primordial para o andamento de qualquer projeto, em especial para projetos desenvolvidos equipes remotas. Nesse curso você vai aprender sobre os tipos de comunicação envolvidos em trabalhar remotamente e como você deve agir em cada uma delas.
