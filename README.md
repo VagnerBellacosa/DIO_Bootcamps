@@ -18,6 +18,11 @@ Meus bootcamps na DIO, suor, menos cabelos, dedos ligeiros e diversao, Modo Ludi
 :trophy: 2021-05-27
 - [Conteudo programatico](NetFundamentals.md)
 
+## 2021-07-21
+### https://web.digitalinnovation.one/track/localizalabs-net-developer?tab=path
+:trophy: 2021-06-04
+- [Conteudo programatico](LocalizaLabsNetDeveloper.md)
+
 ## 2021-07-13
 ### https://web.digitalinnovation.one/track/gft-start-2-java?tab=path
 - [Conteudo programatico](GFTStart2Java.md)
@@ -33,11 +38,6 @@ Meus bootcamps na DIO, suor, menos cabelos, dedos ligeiros e diversao, Modo Ludi
 ## 2021-07-21
 ### https://web.digitalinnovation.one/track/javascript-game-developer
 - [Conteudo programatico](JavaScriptGameDeveloper.md)
-
-## 2021-07-21
-### https://web.digitalinnovation.one/track/localizalabs-net-developer?tab=path
-- [Conteudo programatico](LocalizaLabsNetDeveloper.md)
-
 
 ## 2021-07-24
 ### https://web.digitalinnovation.one/track/backend-developer-carrefour?tab=path
