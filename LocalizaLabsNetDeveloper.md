@@ -76,7 +76,6 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 - [Codigo entregue](https://github.com/VagnerBellacosa/Curso_C_Sharp/tree/main/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23)
 
-
 #### Criando uma aplicação de transferências bancárias com .NET
 
 Aprenda como criar um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar enums.
@@ -86,8 +85,6 @@ Aprenda como criar um algoritmo simples de transferência bancária para exercer
 #### Fundamentos de Arquitetura de Sistemas
 
 Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conceitos, aplicações e desenvolvimento de operações.
-
-A arquitetura de aplicações móveis e internet das coisas
 
 - [Apontamentos de Arquitetura de Sistemas](https://github.com/VagnerBellacosa/Curso_ArquiteturaDeDados)
 - [Apontamentos WebService](https://github.com/VagnerBellacosa/Curso_WebService)
@@ -159,4 +156,3 @@ Aprenda de forma 100% prática a desenvolver um projeto com .NET Core usando RES
 Construiremos um projeto de uma API em .NET Core integrada a um cluster MongoDB, que também criaremos em tempo real no service cloud Mongo Atlas. Vamos repassar brevemente os conceitos básicos de front-end, back-end, bases de dados, NoSQL e MongoDB para fixar o entendimento e sua aplicabilidade.
 
 - [Projeto entregue](https://github.com/VagnerBellacosa/006_ProjetoNetCrowdfunding)
-
