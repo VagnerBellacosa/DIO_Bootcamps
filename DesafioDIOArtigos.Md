@@ -6,7 +6,7 @@
 
 - [  :heavy_check_mark: ]  Dia 1 - 5 Dicas de como você organiza seus estudos
 - [  :heavy_check_mark: ]  Dia 2 - Do setup ao hello world - Faça um guia de passo a passo de como preparar o ambiente de desenvolvimento da sua linguagem favorita
-- [ ]  Dia 3 - Escreva um artigo sobre os principais tipos de variáveis da sua linguagem favorita
+- [  :heavy_check_mark: ]  Dia 3 - Escreva um artigo sobre os principais tipos de variáveis da sua linguagem favorita
 - [ ]  Dia 4 - Escreva sobre como trabalhar com laços de repetição na sua línguagem favorita
 - [ ]  Dia 5 - Escreva sobre alguma particularidade nova da sua linguagem favorita que você aprendeu hoje
 - [ ]  Dia 6 - Ensine passo a passo algum tema que você domina bem na sua linguagem favorita
