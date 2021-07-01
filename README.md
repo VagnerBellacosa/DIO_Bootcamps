@@ -32,7 +32,7 @@ Meus bootcamps na DIO, suor, menos cabelos, dedos ligeiros e diversao, Modo Ludi
 :trophy: 2021-07-01
 ### https://web.digitalinnovation.one/track/javascript-game-developer
 - [Conteudo programatico](JavaScriptGameDeveloper.md)
-- 
+
 # Work in progress
 
 ## 2021-07-13
@@ -59,6 +59,22 @@ Meus bootcamps na DIO, suor, menos cabelos, dedos ligeiros e diversao, Modo Ludi
 ### https://web.digitalinnovation.one/track/take-blip-fullstack-developer?tab=path
 - [Conteudo programatico](TakeBlipFullStackDeveloper.md)
 
+## 2021-09-06 
+https://web.digitalinnovation.one/track/santander-mobile-developer?tab=path
+- [Conteudo programatico](SantanderMobileDeveloper.md)
+ 
+## 2021-09-09 
+### https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path
+- [Conteudo programatico](BancoCarrefourDataEngineer.md)
+
+## 2021-09-11 
+### https://web.digitalinnovation.one/track/mrv-front-end-spa-developer?tab=path
+- [Conteudo programatico](MRVFrontEndSPADeveloper.md)
+
+## 2021-09-13
+### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
+- [Conteudo programatico](LocalizaLabsReactDeveloper.md)
+ 
 ## 2021-11-18 
 ### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-front-end
 - [Conteudo programatico](SPTechDesenvolvimentoFrontEnd.md)
