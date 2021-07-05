@@ -13,7 +13,7 @@
 - [  :heavy_check_mark: ]  Dia 7 - Escreva sobre a metodologia ou rituais que você utiliza para estudar no dia a dia
 - [  :heavy_check_mark: ]  Dia 8 - Coloque 3 dicas que você diria pra você mesmo se estivesse começando
 - [  :heavy_check_mark: ]  Dia 9 - Pesquise e escreva sobre uma inspiração na área de tecnologia e porque essa pessoa é uma inspiração para você
-- [ ]  Dia 10 - Compartilhe por meio do artigo um resumo do conteúdo do seu curso favorito na DIO
+- [  :heavy_check_mark: ]  Dia 10 - Compartilhe por meio do artigo um resumo do conteúdo do seu curso favorito na DIO
 - [ ]  Dia 11 - 3 Fontes de estudo que você está usando para se manter atualizado
 - [ ]  Dia 12 - Escreva um artigo que envolva dicas para finalizar os bootcamp
 - [ ]  Dia 13 - 3 coisas que você gostaria de saber quando estava começando
