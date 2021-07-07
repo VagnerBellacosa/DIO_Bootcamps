@@ -15,7 +15,7 @@
 - [  :heavy_check_mark: ]  Dia 9 - Pesquise e escreva sobre uma inspiração na área de tecnologia e porque essa pessoa é uma inspiração para você
 - [  :heavy_check_mark: ]  Dia 10 - Compartilhe por meio do artigo um resumo do conteúdo do seu curso favorito na DIO
 - [  :heavy_check_mark: ]  Dia 11 - 3 Fontes de estudo que você está usando para se manter atualizado
-- [ ]  Dia 12 - Escreva um artigo que envolva dicas para finalizar os bootcamp
+- [  :heavy_check_mark: ]  Dia 12 - Escreva um artigo que envolva dicas para finalizar os bootcamp
 - [ ]  Dia 13 - 3 coisas que você gostaria de saber quando estava começando
 - [ ]  Dia 14 -  Escrever um artigo sobre carreira sobre as vantagens que te atraíram para o mundo da programação
 - [ ]  Dia 15 - Escreva sobre um livro ou artigo que mudou a sua visão sobre a área de tecnologia
