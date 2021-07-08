@@ -2,6 +2,8 @@
 
 ## Dio Bootcamp
 
+Os pontos são creditados após uma hora da publicação do artigo e deve ter no mínimo 400 palavras. Ajude a Digital Innovation One crescer divulgue em suas redes sociais e use a hashtag **#Desafio21DiasNaDIO**.
+
 ### ✍ 21 temas de artigos para começar a criar a sua reputação agora mesmo
 
 - [  :heavy_check_mark: ]  Dia 1 - 5 Dicas de como você organiza seus estudos
