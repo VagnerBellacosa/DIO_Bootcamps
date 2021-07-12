@@ -10,9 +10,13 @@
 
 
 <!-- PROJECT LOGO -->
+![Bootcamps na Digital Innovation One](/Images/capa.png "Bootcamps")
 
-# DIO_Bootcamps
-Meus bootcamps na DIO, suor, menos cabelos, dedos ligeiros e diversao, Modo Ludico de aprender novas tecnologias
+
+# DIO - Digital Innovation One : Bootcamps
+
+Meus bootcamps na DIO, suor, menos cabelos, dedos ligeiros e diversao, Modo Ludico de aprender novas tecnologias.
+Surfando no estado da arte em Tecnologia da Informaçao
 
 # Lista de Inscriçao
 
@@ -122,5 +126,6 @@ https://web.digitalinnovation.one/track/santander-mobile-developer?tab=path
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
 [product-screenshot]: images/capa.png
+
 
 
