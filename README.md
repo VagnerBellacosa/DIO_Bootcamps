@@ -38,18 +38,16 @@ Meus bootcamps na DIO, suor, menos cabelos, dedos ligeiros e diversao, Modo Ludi
 ### https://web.digitalinnovation.one/track/gft-start-2-java?tab=path
 - [Conteudo programatico](GFTStart2Java.md)
 
+## 2021-07-24
+:trophy: 2021-07-12
+### https://web.digitalinnovation.one/track/backend-developer-carrefour?tab=path
+- [Conteudo programatico](BackEndDeveloperCarrefour.md)
 
 # Work in progress
-
-
 
 ## 2021-07-21 
 ### https://web.digitalinnovation.one/track/fullstack-developer-banco-carrefour
 - [Conteudo programatico](FullStackDeveloperBancoCarrefour.md)
-
-## 2021-07-24
-### https://web.digitalinnovation.one/track/backend-developer-carrefour?tab=path
-- [Conteudo programatico](BackEndDeveloperCarrefour.md)
 
 ## 2021-07-24
 ### https://web.digitalinnovation.one/track/java-developer?tab=path
