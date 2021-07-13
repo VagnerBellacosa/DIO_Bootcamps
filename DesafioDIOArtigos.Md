@@ -21,7 +21,7 @@ Os pontos são creditados após uma hora da publicação do artigo e deve ter no
 - [  :heavy_check_mark: ]  Dia 13 - 3 coisas que você gostaria de saber quando estava começando
 - [  :heavy_check_mark: ]  Dia 14 -  Escrever um artigo sobre carreira sobre as vantagens que te atraíram para o mundo da programação
 - [  :heavy_check_mark: ]  Dia 15 - Escreva sobre um livro ou artigo que mudou a sua visão sobre a área de tecnologia
-- [ ]  Dia 16 - Escreva sobre quais as principais vantagens da sua linguagem favorita e como ela se destaca das outras
+- [  :heavy_check_mark: ]  Dia 16 - Escreva sobre quais as principais vantagens da sua linguagem favorita e como ela se destaca das outras
 - [ ]  Dia 17 - 6 Métodos para manipular listas ou coleções da sua linguagem favorita
 - [ ]  Dia 18 - 12 Atalhos práticos do seu editor de código favorito
 - [ ]  Dia 19 - Qual foi o maior desafio que você enfrentou até hoje e escreva sobre ele
