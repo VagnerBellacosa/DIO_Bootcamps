@@ -25,63 +25,64 @@ Surfando no estado da arte em Tecnologia da Informaçao
 :trophy: 2021-05-21
 - [Conteudo programatico](HtmlWebDeveloper.md)
 
-- :scroll: [Certificado](../certificados/HtmlWebDeveloper.md)
+- :scroll: [Certificado](./Certificados/HtmlWebDeveloper.md)
+                     
 
 ## 2021-06-24 
 ### https://web.digitalinnovation.one/track/become-remote?tab=path
 :trophy: 2021-05-25
 - [Conteudo programatico](BecomeRemote.md)
 
-- :scroll: [Certificado](../certificados/BecomeRemote.md)
+- :scroll: [Certificado](./Certificados/BecomeRemote.md)
 
 ## 2021-06-14
 ### https://web.digitalinnovation.one/track/net-fundamentals
 :trophy: 2021-05-27
 - [Conteudo programatico](NetFundamentals.md)
 
-- :scroll: [Certificado](../certificados/NetFundamentals.md)
+- :scroll: [Certificado](./Certificados/NetFundamentals.md)
 
 ## 2021-07-21
 ### https://web.digitalinnovation.one/track/localizalabs-net-developer?tab=path
 :trophy: 2021-06-04
 - [Conteudo programatico](LocalizaLabsNetDeveloper.md)
 
-- :scroll: [Certificado](../certificados/LocalizaLabs_NetDeveloper.md)
+- :scroll: [Certificado](./Certificados/LocalizaLabs_NetDeveloper.md)
 
 ## 2021-07-21
 :trophy: 2021-06-07
 ### https://web.digitalinnovation.one/track/gft-start-2-net
 - [Conteudo programatico](GFTStar2DotNet.md)
 
-- :scroll: [Certificado](../certificados/GFT_Star2DotNet.md)
+- :scroll: [Certificado](./Certificados/GFT_Star2DotNet.md)
 
 ## 2021-07-21
 :trophy: 2021-07-01
 ### https://web.digitalinnovation.one/track/javascript-game-developer
 - [Conteudo programatico](JavaScriptGameDeveloper.md)
 
-- :scroll: [Certificado](../certificados/JavaScriptGameDeveloper.md)
+- :scroll: [Certificado](./Certificados/JavaScriptGameDeveloper.md)
 
 ## 2021-07-13
 :trophy: 2021-07-09
 ### https://web.digitalinnovation.one/track/gft-start-2-java?tab=path
 - [Conteudo programatico](GFTStart2Java.md)
 
-- :scroll: [Certificado](../certificados/GFT_Start2Java.md)
+- :scroll: [Certificado](./Certificados/GFT_Start2Java.md)
 
 ## 2021-07-24
 :trophy: 2021-07-12
 ### https://web.digitalinnovation.one/track/backend-developer-carrefour?tab=path
 - [Conteudo programatico](BackEndDeveloperCarrefour.md)
 
-- :scroll: [Certificado](../certificados/Carrefour_BackEndDeveloper.md)
+- :scroll: [Certificado](./Certificados/Carrefour_BackEndDeveloper.md)
 
 ## 2021-07-21 
 :trophy: 2021-07-14
 ### https://web.digitalinnovation.one/track/fullstack-developer-banco-carrefour
 - [Conteudo programatico](FullStackDeveloperBancoCarrefour.md)
 
-- :scroll: [Certificado](../certificados/BancoCarrefour_FullStackDeveloper.md)
+- :scroll: [Certificado](./Certificados/BancoCarrefour_FullStackDeveloper.md)
 
 # Work in progress
 
