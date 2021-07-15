@@ -60,11 +60,12 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/backend-developer-carrefour?tab=path
 - [Conteudo programatico](BackEndDeveloperCarrefour.md)
 
-# Work in progress
-
 ## 2021-07-21 
+:trophy: 2021-07-14
 ### https://web.digitalinnovation.one/track/fullstack-developer-banco-carrefour
 - [Conteudo programatico](FullStackDeveloperBancoCarrefour.md)
+
+# Work in progress
 
 ## 2021-07-24
 ### https://web.digitalinnovation.one/track/java-developer?tab=path
