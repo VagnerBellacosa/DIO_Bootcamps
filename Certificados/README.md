@@ -25,63 +25,45 @@ Surfando no estado da arte em Tecnologia da Informaçao
 :trophy: 2021-05-21
 - :scroll: [Certificado](HtmlWebDeveloper.md)
 
-- :scroll: [Certificado](../certificados/HtmlWebDeveloper.md)
-
 ## 2021-06-24 
 ### https://web.digitalinnovation.one/track/become-remote
 :trophy: 2021-05-25
 - :scroll: [Certificado](BecomeRemote.md)
-
-- :scroll: [Certificado](../certificados/BecomeRemote.md)
 
 ## 2021-06-14
 ### https://web.digitalinnovation.one/track/net-fundamentals
 :trophy: 2021-05-27
 - :scroll: [Certificado](NetFundamentals.md)
 
-- :scroll: [Certificado](../certificados/NetFundamentals.md)
-
 ## 2021-07-21
 ### https://web.digitalinnovation.one/track/localizalabs-net-developer
 :trophy: 2021-06-04
 - :scroll: [Certificado](LocalizaLabs_NetDeveloper.md)
-
-- :scroll: [Certificado](../certificados/LocalizaLabs_NetDeveloper.md)
 
 ## 2021-07-21
 :trophy: 2021-06-07
 ### https://web.digitalinnovation.one/track/gft-start-2-net
 - :scroll: [Certificado](GFT_Star2DotNet.md)
 
-- :scroll: [Certificado](../certificados/GFT_Star2DotNet.md)
-
 ## 2021-07-21
 :trophy: 2021-07-01
 ### https://web.digitalinnovation.one/track/javascript-game-developer
 - :scroll: [Certificado](JavaScriptGameDeveloper.md)
-
-- :scroll: [Certificado](../certificados/JavaScriptGameDeveloper.md)
 
 ## 2021-07-13
 :trophy: 2021-07-09
 ### https://web.digitalinnovation.one/track/gft-start-2-java
 - :scroll: [Certificado](GFT_Start2Java.md)
 
-- :scroll: [Certificado](../certificados/GFT_Start2Java.md)
-
 ## 2021-07-24
 :trophy: 2021-07-12
 ### https://web.digitalinnovation.one/track/backend-developer-carrefour
 - :scroll: [Certificado](Carrefour_BackEndDeveloper.md)
 
-- :scroll: [Certificado](../certificados/Carrefour_BackEndDeveloper.md)
-
 ## 2021-07-21 
 :trophy: 2021-07-14
 ### https://web.digitalinnovation.one/track/fullstack-developer-banco-carrefour
 - :scroll: [Certificado](BancoCarrefour_FullStackDeveloper.md)
-
-- :scroll: [Certificado](../certificados/BancoCarrefour_FullStackDeveloper.md)
 
 #### * DIO - Digital Inovation One *
 ######  [Inscreva-se na Dio](https://digitalinnovation.one/sign-up?ref=R5J3ZLTIFS)  
