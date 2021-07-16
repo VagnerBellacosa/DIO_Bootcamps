@@ -106,6 +106,10 @@ https://web.digitalinnovation.one/track/santander-mobile-developer?tab=path
 ### https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path
 - [Conteudo programatico](BancoCarrefourDataEngineer.md)
 
+## 2021-09-10 
+### https://web.digitalinnovation.one/track/1d1fa88f-665b-41d0-b8a8-3820cc7fd6e5?tab=path
+- [Conteudo programatico](Everis_NewTalents_DotNet.md)
+
 ## 2021-09-11 
 ### https://web.digitalinnovation.one/track/mrv-front-end-spa-developer?tab=path
 - [Conteudo programatico](MRVFrontEndSPADeveloper.md)
