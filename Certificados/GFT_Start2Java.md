@@ -10,7 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-
+![Certificado](images/GFT_Start2_Java.png "GFT : Start 2 Java")
 
 ## 2021-07-13
 :trophy: 2021-07-09
@@ -18,7 +18,6 @@
 - [Conteudo programatico](GFTStart2Java.md)
 
 - ![Certificado](87F2C477.pdf "GFT : Start 2 Java")
-
 
 #### * DIO - Digital Inovation One *
 ######  [Inscreva-se na Dio](https://digitalinnovation.one/sign-up?ref=R5J3ZLTIFS)  
@@ -39,6 +38,6 @@
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/capa.png
+[product-screenshot]: images/GFT_Start2_Java.png
 
 

@@ -1,5 +1,4 @@
 <!-- PROJECT SHIELDS -->
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -7,9 +6,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
+![Certificado](images/BancoCarrefour_FullStackDeveloper.png "Banco Carrefour: Full Stack Developer ")
 
 ## 2021-07-21 
 :trophy: 2021-07-14
@@ -17,7 +15,6 @@
 - [Conteudo programatico](../FullStackDeveloperBancoCarrefour.md)
 
 - ![Certificado](2F3D3776.pdf "Banco Carrefour: Full Stack Developer ")
-
 
 #### * DIO - Digital Inovation One *
 ######  [Inscreva-se na Dio](https://digitalinnovation.one/sign-up?ref=R5J3ZLTIFS)  
@@ -38,6 +35,6 @@
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/capa.png
+[product-screenshot]: images/BancoCarrefour_FullStackDeveloper.png
 
 

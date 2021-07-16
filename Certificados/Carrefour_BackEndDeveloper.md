@@ -10,8 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-
-
+![Certificado](images/Carrefour_BackEndDeveloper.png "Carrefour: BackEnd Developer")
 
 ## 2021-07-24
 :trophy: 2021-07-12
@@ -19,7 +18,6 @@
 - [Conteudo programatico](BackEndDeveloperCarrefour.md)
 
 - ![Certificado](8D04B3BF.pdf "Carrefour: BackEnd Developer")
-
 
 
 #### * DIO - Digital Inovation One *
@@ -41,6 +39,6 @@
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/capa.png
+[product-screenshot]: images/Carrefour_BackEndDeveloper.png
 
 

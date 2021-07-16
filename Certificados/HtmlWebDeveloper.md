@@ -10,6 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
+![Certificado](images/HTML_WebDeveloper.png "HTML WebDeveloper")
 
 ## 2021-05-29 
 ### https://web.digitalinnovation.one/track/html-web-developer 
@@ -38,6 +39,6 @@
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/capa.png
+[product-screenshot]: images/HTML_WebDeveloper.png
 
 

@@ -10,7 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-
+![Certificado](images/DotNet_Fundamentals.png "DotNet Fundamentals")
 
 
 ## 2021-06-14
@@ -41,6 +41,6 @@
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/capa.png
+[product-screenshot]: images/DotNet_Fundamentals.png
 
 

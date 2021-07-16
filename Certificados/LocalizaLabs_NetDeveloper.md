@@ -7,9 +7,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
+![Certificado](images/LocalizaLabs_DotNet_Developer.png "LocalizaLabs : DotNet Developer")
 
 ## 2021-07-21
 ### https://web.digitalinnovation.one/track/localizalabs-net-developer?tab=path
@@ -17,7 +16,6 @@
 - [Conteudo programatico](../LocalizaLabsNetDeveloper.md)
 
 - ![Certificado](542A251F.pdf "LocalizaLabs : DotNet Developer")
-
 
 #### * DIO - Digital Inovation One *
 ######  [Inscreva-se na Dio](https://digitalinnovation.one/sign-up?ref=R5J3ZLTIFS)  
@@ -38,6 +36,5 @@
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/capa.png
-
+[product-screenshot]: images/LocalizaLabs_DotNet_Developer.png
 

@@ -10,6 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
+![Certificado](images/JavaScript_GameDeveloper.png "JavaScript Game Developer")
 
 ## 2021-07-21
 :trophy: 2021-07-01
@@ -39,6 +40,6 @@
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/capa.png
+[product-screenshot]: images/JavaScript_GameDeveloper.png
 
 

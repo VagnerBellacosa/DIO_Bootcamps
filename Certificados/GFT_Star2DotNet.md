@@ -10,7 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-
+![Certificado](images/GFT_Start2_DotNet.png "GFT : Start 2 DotNet")
 
 ## 2021-07-21
 :trophy: 2021-06-07
@@ -39,6 +39,6 @@
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/capa.png
+[product-screenshot]: images/GFT_Start2_DotNet.png
 
 
