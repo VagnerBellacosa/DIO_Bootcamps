@@ -7,13 +7,9 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-#### * DIO - Digital Inovation One *
-######  [Inscreva-se na Dio](https://digitalinnovation.one/sign-up?ref=R5J3ZLTIFS)  
-
-######  [Vagner Bellacosa perfil na Dio](https://web.digitalinnovation.one/users/vagnerbellacosa?tab=achievements)  
-
 <!-- PROJECT LOGO -->
+![Certificado](images/TakeBlip_FullStackDeveloper.png "Take Blip: FullStack Developer")
+
 ## 2021-08-04 
 :trophy: 2021-07-19
 ### https://web.digitalinnovation.one/track/take-blip-fullstack-developer?tab=path
