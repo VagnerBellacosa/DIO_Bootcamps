@@ -84,6 +84,14 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/BancoCarrefour_FullStackDeveloper.md)
 
+## 2021-08-04 
+:trophy: 2021-07-19
+### https://web.digitalinnovation.one/track/take-blip-fullstack-developer?tab=path
+- [Conteudo programatico](TakeBlip_FullStackDeveloper.md)
+
+- :scroll: [Certificado](./Certificados/TakeBlip_FullStackDeveloper.md)
+
+
 # Work in progress
 
 ## 2021-07-24
@@ -93,10 +101,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-08-02
 ### https://web.digitalinnovation.one/track/impulso-fullstack-developer?tab=path
 - [Conteudo programatico](Impulso_FullStackDeveloper.md)
-
-## 2021-08-04 
-### https://web.digitalinnovation.one/track/take-blip-fullstack-developer?tab=path
-- [Conteudo programatico](TakeBlip_FullStackDeveloper.md)
 
 ## 2021-09-06 
 https://web.digitalinnovation.one/track/santander-mobile-developer?tab=path
