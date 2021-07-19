@@ -13,6 +13,7 @@
 ## 2021-08-04 
 :trophy: 2021-07-19
 ### https://web.digitalinnovation.one/track/take-blip-fullstack-developer?tab=path
+- [Conteudo programatico](../TakeBlip_FullStackDeveloper.md)
 
 - :scroll: [Certificado](TakeBlip_FullStackDeveloper.md)
 
