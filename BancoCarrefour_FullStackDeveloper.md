@@ -6,7 +6,7 @@ Aprenda gratuitamente quais são as tecnologias usadas no Banco Carrefour, uma i
 
 ### :clipboard: Intermediário   :computer: 24 atividades  :clock430: 96 hrs
 
-| GFT: START #2 Java |
+| Fullstack Developer Banco Carrefour |
 |-------------------------------------|
 | 1. Bem-vindo à DIO |
 | 2. Conheça o Banco Carrefour |
