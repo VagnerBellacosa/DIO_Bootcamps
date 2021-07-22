@@ -1,4 +1,4 @@
-# BootCamp GFT START #2 .NET
+# BootCamp Javascript Game Developer
 
 ## JavaScript Game Developer
 
