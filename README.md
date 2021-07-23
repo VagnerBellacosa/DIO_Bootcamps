@@ -98,6 +98,8 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/JavaDeveloper.md)
 
+<!-- PROJECT LOGO -->
+![Tiozao Work In Progress](/Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
 
 ## 2021-08-02
