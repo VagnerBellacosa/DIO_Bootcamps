@@ -91,12 +91,14 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/TakeBlip_FullStackDeveloper.md)
 
-
-# Work in progress
-
 ## 2021-07-24
+:trophy: 2021-07-22
 ### https://web.digitalinnovation.one/track/java-developer?tab=path
 - [Conteudo programatico](JavaDeveloper.md)
+
+- :scroll: [Certificado](./Certificados/JavaDeveloper.md)
+
+# Work in progress
 
 ## 2021-08-02
 ### https://web.digitalinnovation.one/track/impulso-fullstack-developer?tab=path
