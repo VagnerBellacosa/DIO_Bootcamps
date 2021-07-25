@@ -130,6 +130,10 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
 - [Conteudo programatico](LocalizaLabs_ReactDeveloper.md)
 
+## 2021-09-23
+### https://web.digitalinnovation.one/track/everis-new-talents-java?tab=path
+- [Conteudo programatico](Everis_NewTalents_Java.Md)
+
 ## 2021-10-08
 ### https://web.digitalinnovation.one/track/avanade-codeanywhere-net?tab=path
 - [Conteudo programatico](Avanade_CodeAnywhereDotNET.Md)
