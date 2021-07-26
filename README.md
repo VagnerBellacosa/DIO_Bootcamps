@@ -96,14 +96,16 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/java-developer?tab=path
 - [Conteudo programatico](JavaDeveloper.md)
 
+- :scroll: [Certificado](./Certificados/JavaDeveloper.md)
+
 ## 2021-09-10 
 :trophy: 2021-07-26
 ### https://web.digitalinnovation.one/track/1d1fa88f-665b-41d0-b8a8-3820cc7fd6e5?tab=path
 - [Conteudo programatico](Everis_NewTalents_DotNet.md)
 
+- :scroll: [Certificado](./Certificados/Everis_NewTalents_DotNET.Md)
 
-
-- :scroll: [Certificado](./Certificados/JavaDeveloper.md)
+---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](/Images/workInProgress.png "Bootcamps em Treino")
