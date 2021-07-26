@@ -106,6 +106,10 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/impulso-fullstack-developer?tab=path
 - [Conteudo programatico](Impulso_FullStackDeveloper.md)
 
+## 2021-08-24
+### https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-2?tab=path
+- [Conteudo programatico](Everis_QualityAssuranceBeginnerNo2.Md)
+
 ## 2021-09-06 
 ### https://web.digitalinnovation.one/track/santander-mobile-developer?tab=path
 - [Conteudo programatico](Santander_MobileDeveloper.md)
@@ -125,6 +129,10 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-09-13
 ### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
 - [Conteudo programatico](LocalizaLabs_ReactDeveloper.md)
+
+## 2021-09-23
+### https://web.digitalinnovation.one/track/everis-new-talents-java?tab=path
+- [Conteudo programatico](Everis_NewTalents_Java.Md)
 
 ## 2021-10-08
 ### https://web.digitalinnovation.one/track/avanade-codeanywhere-net?tab=path
