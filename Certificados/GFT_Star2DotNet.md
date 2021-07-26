@@ -15,7 +15,7 @@
 ## 2021-07-21
 :trophy: 2021-06-07
 ### https://web.digitalinnovation.one/track/gft-start-2-net
-- [Conteudo programatico](../GFTStar2DotNet.md)
+- [Conteudo programatico](../GFT_Start2_DotNet.md)
 
 - ![Certificado](12036C74.pdf "GFT : Start 2 DotNet")
 

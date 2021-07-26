@@ -12,7 +12,6 @@
 <!-- PROJECT LOGO -->
 ![Certificado](images/BecomeRemote.png "Become Remote ")
 
-## 2021-07-21 
 ## 2021-06-24 
 ### https://web.digitalinnovation.one/track/become-remote?tab=path
 :trophy: 2021-05-25
