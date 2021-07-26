@@ -96,6 +96,13 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/java-developer?tab=path
 - [Conteudo programatico](JavaDeveloper.md)
 
+## 2021-09-10 
+:trophy: 2021-07-26
+### https://web.digitalinnovation.one/track/1d1fa88f-665b-41d0-b8a8-3820cc7fd6e5?tab=path
+- [Conteudo programatico](Everis_NewTalents_DotNet.md)
+
+
+
 - :scroll: [Certificado](./Certificados/JavaDeveloper.md)
 
 <!-- PROJECT LOGO -->
@@ -117,10 +124,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-09-09 
 ### https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path
 - [Conteudo programatico](BancoCarrefour_DataEngineer.md)
-
-## 2021-09-10 
-### https://web.digitalinnovation.one/track/1d1fa88f-665b-41d0-b8a8-3820cc7fd6e5?tab=path
-- [Conteudo programatico](Everis_NewTalents_DotNet.md)
 
 ## 2021-09-11 
 ### https://web.digitalinnovation.one/track/mrv-front-end-spa-developer?tab=path
