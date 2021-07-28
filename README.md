@@ -105,6 +105,13 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/Everis_NewTalents_DotNET.Md)
 
+## 2021-10-08
+:trophy: 2021-07-27
+### https://web.digitalinnovation.one/track/avanade-codeanywhere-net?tab=path
+- [Conteudo programatico](Avanade_CodeAnywhereDotNET.Md)
+
+- :scroll: [Certificado](./Certificados/Avanade_CodeAnywhereDotNET.Md)
+
 ---
 
 <!-- PROJECT LOGO -->
@@ -138,10 +145,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-09-23
 ### https://web.digitalinnovation.one/track/everis-new-talents-java?tab=path
 - [Conteudo programatico](Everis_NewTalents_Java.Md)
-
-## 2021-10-08
-### https://web.digitalinnovation.one/track/avanade-codeanywhere-net?tab=path
-- [Conteudo programatico](Avanade_CodeAnywhereDotNET.Md)
 
 ## 2021-11-18 
 ### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-front-end
