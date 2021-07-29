@@ -112,6 +112,13 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/Avanade_CodeAnywhereDotNET.Md)
 
+## 2021-08-24
+:trophy: 2021-07-29
+### https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-2?tab=path
+- [Conteudo programatico](Everis_QualityAssuranceBeginnerNo2.Md)
+
+- :scroll: [Certificado](./Certificados/Everis_QualityAssuranceBeginnerNo2.Md)
+
 ---
 
 <!-- PROJECT LOGO -->
@@ -121,10 +128,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-08-02
 ### https://web.digitalinnovation.one/track/impulso-fullstack-developer?tab=path
 - [Conteudo programatico](Impulso_FullStackDeveloper.md)
-
-## 2021-08-24
-### https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-2?tab=path
-- [Conteudo programatico](Everis_QualityAssuranceBeginnerNo2.Md)
 
 ## 2021-09-06 
 ### https://web.digitalinnovation.one/track/santander-mobile-developer?tab=path
