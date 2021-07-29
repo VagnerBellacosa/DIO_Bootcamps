@@ -146,6 +146,10 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/everis-new-talents-java?tab=path
 - [Conteudo programatico](Everis_NewTalents_Java.Md)
 
+## 2021-10-12
+### https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path
+- [Conteudo programatico](Cognizant_CloudDataEngineer.Md)
+
 ## 2021-11-18 
 ### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-front-end
 - [Conteudo programatico](SPTech_DesenvolvimentoFrontEnd.md)
