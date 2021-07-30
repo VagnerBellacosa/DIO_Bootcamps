@@ -119,6 +119,14 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/Everis_QualityAssuranceBeginnerNo2.Md)
 
+## 2021-09-23
+:trophy: 2021-07-29
+### https://web.digitalinnovation.one/track/everis-new-talents-java?tab=path
+- [Conteudo programatico](Everis_NewTalents_Java.Md)
+
+- :scroll: [Certificado](./Certificados/Everis_NewTalents_Java.Md)
+
+
 ---
 
 <!-- PROJECT LOGO -->
@@ -145,10 +153,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
 - [Conteudo programatico](LocalizaLabs_ReactDeveloper.md)
 
-## 2021-09-23
-### https://web.digitalinnovation.one/track/everis-new-talents-java?tab=path
-- [Conteudo programatico](Everis_NewTalents_Java.Md)
-
 ## 2021-10-12
 ### https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path
 - [Conteudo programatico](Cognizant_CloudDataEngineer.Md)
@@ -164,6 +168,8 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-11-23
 ### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-back-end?tab=path
 - [Conteudo programatico](SPTech_DesenvolvimentoBackEnd.md)
+
+---
 
 #### * DIO - Digital Inovation One *
 ######  [Inscreva-se na Dio](https://digitalinnovation.one/sign-up?ref=R5J3ZLTIFS)  
