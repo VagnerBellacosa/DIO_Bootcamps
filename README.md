@@ -126,6 +126,12 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/Everis_NewTalents_Java.Md)
 
+## 2021-08-28
+:trophy: 2021-07-30
+### https://web.digitalinnovation.one/track/everis-site-reliability-engineer-essentials?tab=path
+- [Conteudo programatico](everis_SiteReliabilityEngineerEssentials.Md)
+
+- :scroll: [Certificado](./Certificados/everis_SiteReliabilityEngineerEssentials.Md)
 
 ---
 
