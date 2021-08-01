@@ -1,4 +1,4 @@
-# DIO
+# DIO - Digital Innovation One
 
 ## Dio Bootcamp
 
@@ -23,7 +23,7 @@ Os pontos são creditados após uma hora da publicação do artigo e deve ter no
 - [  :heavy_check_mark: ]  Dia 15 - Escreva sobre um livro ou artigo que mudou a sua visão sobre a área de tecnologia
 - [  :heavy_check_mark: ]  Dia 16 - Escreva sobre quais as principais vantagens da sua linguagem favorita e como ela se destaca das outras
 - [  :heavy_check_mark: ]  Dia 17 - 6 Métodos para manipular listas ou coleções da sua linguagem favorita
-- [ ]  Dia 18 - 12 Atalhos práticos do seu editor de código favorito
+- [  :heavy_check_mark: ]  Dia 18 - 12 Atalhos práticos do seu editor de código favorito
 - [ ]  Dia 19 - Qual foi o maior desafio que você enfrentou até hoje e escreva sobre ele
 - [ ]  Dia 20 - 'Folheie' a documentação da sua linguagem e faça um resumo de algum conceito novo
 - [ ]  Dia 21 - Faça um resumo das coisas que você aprendeu durante seu primeiro desafio de projeto durante seus estudos na DIO
