@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-![Certificado](images/Impulso_FullStackDeveloper.png.png "Impulso: FullStack Developer")
+![Certificado](images/Impulso_FullStackDeveloper.png "Impulso: FullStack Developer")
 
 ## 2021-08-02
 ### https://web.digitalinnovation.one/track/impulso-fullstack-developer?tab=path 
@@ -37,4 +37,4 @@
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/Impulso_FullStackDeveloper.png.png
+[product-screenshot]: images/Impulso_FullStackDeveloper.png
