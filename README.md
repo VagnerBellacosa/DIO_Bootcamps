@@ -163,6 +163,10 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
 - [Conteudo programatico](LocalizaLabs_ReactDeveloper.md)
 
+## 2021-10-02
+### https://web.digitalinnovation.one/track/decola-tech?tab=path
+- [Conteudo programatico](AvanadeDecolaTech.md)
+
 ## 2021-10-12
 ### https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path
 - [Conteudo programatico](Cognizant_CloudDataEngineer.Md)
