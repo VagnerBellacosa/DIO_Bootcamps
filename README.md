@@ -133,13 +133,19 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/everis_SiteReliabilityEngineerEssentials.Md)
 
-
 ## 2021-08-02
 :trophy: 2021-08-01
 ### https://web.digitalinnovation.one/track/impulso-fullstack-developer?tab=path
 - [Conteudo programatico](Impulso_FullStackDeveloper.md)
 
 - :scroll: [Certificado](./Certificados/Impulso_FullStackDeveloper.md)
+
+## 2021-11-18 
+:trophy: 2021-08-17
+### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-front-end
+- [Conteudo programatico](SPTech_DesenvolvimentoFrontEnd.md)
+
+- :scroll: [Certificado](./Certificados/SPTech_DesenvolvimentoFrontEnd.md)
 
 ---
 
@@ -186,10 +192,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-10-28
 ### https://web.digitalinnovation.one/track/carrefour-android-developer-1?tab=path
 - [Conteudo programatico](CarrefourAndroidDeveloper.Md)
-
-## 2021-11-18 
-### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-front-end
-- [Conteudo programatico](SPTech_DesenvolvimentoFrontEnd.md)
 
 ## 2021-11-21
 ### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-fullstack
