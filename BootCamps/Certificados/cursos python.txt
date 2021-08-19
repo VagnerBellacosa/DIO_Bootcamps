@@ -1,0 +1,527 @@
+<body class="page-template page page-id-9260">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-KNTPB4F"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="site-wrap">
+      <div class="header-wrap">
+        <header class="site-header">
+          <div id="header-row" class="row">
+            <div class="site-logo left">
+              <a href="/" rel="home">
+                <img id="" src="https://hermes.digitalinnovation.one/site/images/logo.png" alt="Digital Innovation One">
+              </a>
+            </div>
+            <div class="logo-free right">
+              <a class="formacao-headline-cta" id="btn-header" href="https://digitalinnovation.one/sign-up/?ref=lp&amp;hidden_text&amp;source=/skills/python&amp;" style="color: #444444">Comece agora</a>
+            </div>
+            <!-- /logo -->
+          </div>
+        </header>
+        <!-- /header -->
+      </div>
+
+      <main class="container-fluid px-0">
+         <section class="container">
+  <div class="row main-banner">
+    <div class="col-md-8 col-sm-12">
+      <h1 class="formacao-headline-titulo">Cursos de Python</h1>
+      <h2 class="formacao-headline-subtitulo">
+        Python é uma linguagem de programação de alto desempenho e bastante indicada tanto para quem está iniciando em programação, por conta da sua curva de aprendizagem, quanto para os mais experientes.
+      </h2>
+      <br>
+      <div class="formacao-header-estimado">
+        <div class="app-links">
+          <a href="https://itunes.apple.com/us/app/digital-innovation-one/id1439709522" rel="nofollow" target="_blank" title="Baixar no App Store">
+            <img id="logo-store" alt="Baixar no App Store" class="img-responsive" src="https://hermes.digitalinnovation.one/site/images/apple.png">
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=one.digitalinnovation.app" rel="nofollow" target="_blank" title="Baixar no google play" style="margin-left: 15px;">
+            <img id="logo-store" alt="Disponível no google play" class="img-responsive" src="https://hermes.digitalinnovation.one/site/images/google.png">
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-12">
+      <img src="https://hermes.digitalinnovation.one/skills/24aac6ed-ee66-4bf8-962a-8e688a61110e.png" alt="Digital Innovation One | Python" width="300" height="300" class="main-image">
+    </div>
+  </div>
+</section>
+
+<section class="header-legend-section">
+  <div class="container" id="container-legend">
+    <div class="pagina-categoria__info-cursos row">
+      <div class=" col-md-4 col-sm-12"></div>
+      <div class="col-md-3 col-sm-12"></div>
+      <div class="col-md-2"></div>
+      <div class="col-md-3 col-sm-12 text-center pagina-categoria__numero">
+        <span class="legend-header">
+          <strong>Convide os amigos:</strong>
+        </span>
+        <a href="javascript: void(0);" onclick="window.open('http://www.facebook.com/sharer.php?u=https://ttej25s8ta.execute-api.sa-east-1.amazonaws.com/production/cursos/python','ventanacompartir', 'toolbar=0, status=0, width=650, height=450');" class="link-social" title="Facebook"><i class="fab fa-facebook-square fa-2x"></i></a>
+        <a href="https://api.whatsapp.com/send?text=Cadastre-se gratuitamente no Digital Innovation One e faça  o curso Python com os maiores especialistas do mercado para conquistar o emprego dos seus sonhos. Clique no link e estude de graça comigo: https://digitalinnovation.one/cursos/python" class="link-social" title="Whatsapp"><i class="fab fa-whatsapp fa-2x" target="_blank"></i></a>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="main-content bg-landing">
+  <section class="container">
+    
+<br>
+
+<div class="row">
+  <div class="col-md-12">
+    <h4 class="formacao-descricao-titulo" style="color: #444444">
+      Cursos Grátis de Python
+    </h4>
+  </div>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/desenvolvimento-avancado-de-rest-api-com-flask/?ref=lp&amp;hidden_text&amp;source=/skills/python&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/47288d46-5127-4c7e-abb7-1bcf274f67e0.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Desenvolvimento avançado Python com Flask e REST API
+              </h3>
+
+              <p>
+                Nesse curso você aprenderá sobre a framework Flask e como desenvolver REST API através dela.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-3.svg">
+                  Avançado 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  5 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/desenvolvimento-para-internet-e-banco-de-dados-com-python-e-django/?ref=lp&amp;hidden_text&amp;source=/skills/python&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/cc94e034-89b3-49ee-970b-f6a3127767e8.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Desenvolvimento para Internet e Banco de Dados com Python e Django
+              </h3>
+
+              <p>
+                Esse curso irá ensinar como gerenciar bancos de dados para internet através da framework Django, da linguagem Python.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  4 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/introducao-a-programacao-com-python/?ref=lp&amp;hidden_text&amp;source=/skills/python&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/3b852834-5d5e-4819-b3b2-8a32a60db205.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução à programação com Python
+              </h3>
+
+              <p>
+                O curso trará todo o embasamento da linguagem Python, quando e onde é mais indicado aplicá-la.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  8 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/seguranca-da-informacao-com-python/?ref=lp&amp;hidden_text&amp;source=/skills/python&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/4fd2851a-7c9d-4352-bef3-41c75fc9ede4.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Segurança da informação com Python
+              </h3>
+
+              <p>
+                Este curso vai te ensinar a trabalhar com segurança da informação com a linguagem Python, uma das mais usadas por desenvolvedores de todo o mundo e que é de fácil aprendizado.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  5 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/criando-pipelines-de-dados-eficientes-com-spark-e-python/?ref=lp&amp;hidden_text&amp;source=/skills/python&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/465784aa-192f-4fee-a9db-2eabc19b82a6.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Criando pipelines de dados eficientes com Spark e Python
+              </h3>
+
+              <p>
+                Eleve seus conhecimentos com Spark e Python (PySpark) para processar grandes quantidades de dados, explorando o conceito de streaming em tempo real. Além disso, conheça boas práticas para aproveitar ao máximo os dados do seu domínio de aplicação.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  4 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/fundamentos-de-etl-com-python/?ref=lp&amp;hidden_text&amp;source=/skills/python&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/c49de573-2514-49f7-bdb8-c739b0e337df.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Fundamentos de ETL com Python
+              </h3>
+
+              <p>
+                Aprenda sobre o processo de Extract Transform and Load (ETL) e como transformar seus dados e deixa-los prontos para seus projetos.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  5 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/boas-vindas-ao-bootcamp-banco-carrefour-data-engineer/?ref=lp&amp;hidden_text&amp;source=/skills/python&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/dc604684-b29a-490b-b98d-be239d52fa03.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Boas-vindas ao Bootcamp Banco Carrefour Data Engineer
+              </h3>
+
+              <p>
+                Conheça alguns colaboradores do Banco Carrefour e descubra por que ele é referência em inovação e tecnologia.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  1 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/introducao-a-engenharia-de-dados/?ref=lp&amp;hidden_text&amp;source=/skills/python&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/7b4b7cf1-49c4-4c7b-b035-8df1c251f54d.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução a Engenharia de Dados
+              </h3>
+
+              <p>
+                Comece a entender os principais elementos do vocabulário de engenharia de dados.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+  </section>
+  <div data-role="footer" data-position="fixed" class="call-to-action">
+    <div class="first-column">
+      Gratuito
+    </div>
+    <div class="second-column">
+      <a class="formacao-headline-cta-footer" href="https://digitalinnovation.one/sign-up/?ref=lp&amp;hidden_text&amp;source=/skills/python&amp;" style="color: #444444; text-transform: inherit;  ">Comece agora</a>
+    </div>
+  </div>
+</div>
+<div class="footer-wrap landing">
+    <div class="row d-flex flex-content-center align-items-center py-3">
+      <div class="col-6 d-flex justify-content-center">
+        <img class="logo" src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="160" height="60" alt="logo">
+      </div>
+      <div class="col-6 d-flex justify-content-center">
+        <div id="row-about" class="text d-flex flex-direction-column justify-content-between flex-column">
+          <p>(16) 3508-5250</p>
+          <div>
+            <p>
+              Av. Sete de Setembro, 371
+            </p>
+            <p>Araraquara - SP - 14800-390</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <footer class="site-footer">
+    <p class="copyright text-center">
+      2019 © DIGITAL INNOVATION ONE. Todos os direitos reservados.
+    </p>
+  </footer>
+</div> 
+      </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+     
+    <!-- Facebook Pixel Code -->
+    <script>
+      !(function(f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function() {
+          n.callMethod
+            ? n.callMethod.apply(n, arguments)
+            : n.queue.push(arguments);
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = "2.0";
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+      })(
+        window,
+        document,
+        "script",
+        "https://connect.facebook.net/en_US/fbevents.js"
+      );
+      fbq("init", "529970670506180");
+      fbq("track", "PageView");
+    </script>
+    <noscript><img
+        height="1"
+        width="1"
+        style="display:none"
+        src="https://www.facebook.com/tr?id=529970670506180&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+    <!-- Hotjar Tracking Code for https://digitalinnovation.one -->
+    <script>
+      (function(h, o, t, j, a, r) {
+        h.hj =
+          h.hj ||
+          function() {
+            (h.hj.q = h.hj.q || []).push(arguments);
+          };
+        h._hjSettings = { hjid: 1255605, hjsv: 6 };
+        a = o.getElementsByTagName("head")[0];
+        r = o.createElement("script");
+        r.async = 1;
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+        a.appendChild(r);
+      })(window, document, "https://static.hotjar.com/c/hotjar-", ".js?sv=");
+    </script>
+  
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-25a418976ea02a6f393fbbe77cec94bb.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","614551849008360");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=614551849008360&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:1255605,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script><script type="text/javascript" id="">(function(a,d,e,f,g,b,c){a.visitorGlobalObjectAlias=f;a[a.visitorGlobalObjectAlias]=a[a.visitorGlobalObjectAlias]||function(){(a[a.visitorGlobalObjectAlias].q=a[a.visitorGlobalObjectAlias].q||[]).push(arguments)};a[a.visitorGlobalObjectAlias].l=(new Date).getTime();b=d.createElement("script");b.src=e;b.async=!0;c=d.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");vgo("setAccount","475833027");
+vgo("setTrackByDefault",!0);vgo("process");</script><script type="text/javascript" id="">(function(a,e,f,g,b,c,d){a.MauticTrackingObject=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://mautic.digitalinnovation.one/mtc.js","mt");mt("send","pageview");</script>
+<script type="text/javascript" id="" src="https://www.googletagmanager.com/gtag/js?id=AW-769359912"></script><script type="text/javascript" id="">(function(a,e,b,f,g,c,d){a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};c=e.createElement(f);c.async=1;c.src="https://www.clarity.ms/tag/"+g;d=e.getElementsByTagName(f)[0];d.parentNode.insertBefore(c,d)})(window,document,"clarity","script","5q1spn4z03");</script>
+<script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","AW-769359912");</script>
+</body>

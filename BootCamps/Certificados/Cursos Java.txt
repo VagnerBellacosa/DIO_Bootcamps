@@ -1,0 +1,1302 @@
+<body class="page-template page page-id-9260">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-KNTPB4F"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="site-wrap">
+      <div class="header-wrap">
+        <header class="site-header">
+          <div id="header-row" class="row">
+            <div class="site-logo left">
+              <a href="/" rel="home">
+                <img id="" src="https://hermes.digitalinnovation.one/site/images/logo.png" alt="Digital Innovation One">
+              </a>
+            </div>
+            <div class="logo-free right">
+              <a class="formacao-headline-cta" id="btn-header" href="https://digitalinnovation.one/sign-up/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" style="color: #444444">Comece agora</a>
+            </div>
+            <!-- /logo -->
+          </div>
+        </header>
+        <!-- /header -->
+      </div>
+
+      <main class="container-fluid px-0">
+         <section class="container">
+  <div class="row main-banner">
+    <div class="col-md-8 col-sm-12">
+      <h1 class="formacao-headline-titulo">Cursos de Java</h1>
+      <h2 class="formacao-headline-subtitulo">
+        <p>Java é uma linguagem orientada a objetos e uma das mais usadas por ser rápida, segura e confiável, além de ser utilizada para programar páginas em qualquer plataforma.</p>
+      </h2>
+      <br>
+      <div class="formacao-header-estimado">
+        <div class="app-links">
+          <a href="https://itunes.apple.com/us/app/digital-innovation-one/id1439709522" rel="nofollow" target="_blank" title="Baixar no App Store">
+            <img id="logo-store" alt="Baixar no App Store" class="img-responsive" src="https://hermes.digitalinnovation.one/site/images/apple.png">
+          </a>
+          <a href="https://play.google.com/store/apps/details?id=one.digitalinnovation.app" rel="nofollow" target="_blank" title="Baixar no google play" style="margin-left: 15px;">
+            <img id="logo-store" alt="Disponível no google play" class="img-responsive" src="https://hermes.digitalinnovation.one/site/images/google.png">
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 col-sm-12">
+      <img src="https://hermes.digitalinnovation.one/skills/673301b6-8edf-44b0-9097-0c540dba0a22.png" alt="Digital Innovation One | Java" width="300" height="300" class="main-image">
+    </div>
+  </div>
+</section>
+
+<section class="header-legend-section">
+  <div class="container" id="container-legend">
+    <div class="pagina-categoria__info-cursos row">
+      <div class=" col-md-4 col-sm-12"></div>
+      <div class="col-md-3 col-sm-12"></div>
+      <div class="col-md-2"></div>
+      <div class="col-md-3 col-sm-12 text-center pagina-categoria__numero">
+        <span class="legend-header">
+          <strong>Convide os amigos:</strong>
+        </span>
+        <a href="javascript: void(0);" onclick="window.open('http://www.facebook.com/sharer.php?u=https://ttej25s8ta.execute-api.sa-east-1.amazonaws.com/production/cursos/java','ventanacompartir', 'toolbar=0, status=0, width=650, height=450');" class="link-social" title="Facebook"><i class="fab fa-facebook-square fa-2x"></i></a>
+        <a href="https://api.whatsapp.com/send?text=Cadastre-se gratuitamente no Digital Innovation One e faça  o curso Java com os maiores especialistas do mercado para conquistar o emprego dos seus sonhos. Clique no link e estude de graça comigo: https://digitalinnovation.one/cursos/java" class="link-social" title="Whatsapp"><i class="fab fa-whatsapp fa-2x" target="_blank"></i></a>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="main-content bg-landing">
+  <section class="container">
+    
+<br>
+
+<div class="row">
+  <div class="col-md-12">
+    <h4 class="formacao-descricao-titulo" style="color: #444444">
+      Cursos Grátis de Java
+    </h4>
+  </div>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/spring-webflux/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/8d4e5b96-4295-4766-a41e-ca67a3e436a6.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Programação reativa com Spring Web Flux
+              </h3>
+
+              <p>
+                A Spring WebFlux dá suporte para aplicações web e permite definir componentes server-side de forma tradicional e funcional.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-3.svg">
+                  Avançado 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/projetos-java-com-gradle/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/7be82ae5-173f-4ca4-a33e-5b0cc18299f9.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Projetos Java com Gradle
+              </h3>
+
+              <p>
+                Neste curso você conhecerá tudo sobre o Gradle, que é uma ferramenta para desenvolvimento Java open source e que permite a configuração de arquivos build.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  4 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/introducao-a-sistemas-de-mensagerias-com-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/424bc543-3477-4c73-96a7-bd0e7e1acbfa.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução a sistemas de mensagerias com Java
+              </h3>
+
+              <p>
+                Descubra o poder da Programação Orientada a Eventos. Nesse contexto, o expert aborda conceitos introdutórios a respeito dos sistemas de mensagerias mais utilizados no mercado.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/desenvolvimento-avancado-em-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/5a71425d-2ca3-4dde-bca2-a53a947e4185.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Desenvolvimento avançado em Java
+              </h3>
+
+              <p>
+                Aprenda em 8 horas de curso a executar de forma eficaz e ágil a linguagem Java e ainda conheça quais são as novidades nas versões da tecnologia: Java 10 e Java 11.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-3.svg">
+                  Avançado 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  8 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/desenvolvimento-basico-em-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/88bb39be-4055-4d4c-ae22-c11c25ca6016.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Desenvolvimento básico em Java
+              </h3>
+
+              <p>
+                A linguagem Java é orientada a objetos e uma das mais usadas por desenvolvedores no mundo. Aprenda desde os conceitos e instalação até a execução de projetos em Java.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  9 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/criando-aplicacoes-web-com-spring-web-mvc/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/a9bfb6e0-83cb-4e33-b463-8605c7b57f18.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Criando aplicações web com Spring Web MVC
+              </h3>
+
+              <p>
+                Considerado um dos frameworks mais conhecido e utilizado de Java, o Spring Web MVC reúne várias funções em apenas uma ferramenta que otimiza o trabalho do desenvolvedor.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  7 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/spring-boot/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/1dcc883a-37fa-42a9-a2a1-1cf012ffb34e.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução ao framework Spring Boot
+              </h3>
+
+              <p>
+                Spring Boot é um micro framework que tem como finalidade reaproveitar tecnologias já aplicadas a fim de otimizar o trabalho do desenvolvedor.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/resolvendo-desafios-de-codigo-em-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/ffd40f3e-17c9-4ccd-9140-8f44b6add39f.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Resolvendo Desafios de Código em Java
+              </h3>
+
+              <p>
+                Antes de seguir para os Desafios de Código, entenda melhor o que são eles, qual a importância, como solucioná-los na plataforma e alguns conceitos básicos que envolvem a codificação.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  1 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/gft-start-2-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/4bfc5642-682a-4fd2-b996-913e6e01821f.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Boas-vindas ao Bootcamp GFT START #2 Java
+              </h3>
+
+              <p>
+                Conheça alguns colaboradores da GFT Brasil e descubra por que ela é referência em inovação e tecnologia.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  1 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/aprenda-collection-e-streams-na-linguagem-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/8eb094f8-f8dc-4cdd-8f15-1d63669010ae.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Implementando Collections e Streams com Java
+              </h3>
+
+              <p>
+                Aprenda a trabalhar com collections e streams, usadas para implementar estrutura de dados da linguagem Java.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  6 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/aprenda-aplicar-testes-com-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/b8ee0e3e-14f9-4952-884f-3382338f22e3.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Aprenda a aplicar testes com Java
+              </h3>
+
+              <p>
+                Saiba como criar testes e utilizar as principais ferramentas usadas no mercado de trabalho que oferecem segurança e qualidade no código.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/introducao-jsf-para-aplicacao-web/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/60903be0-75c9-44b4-9b15-fa2a41067de1.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução a JSF para aplicação web
+              </h3>
+
+              <p>
+                Aprenda como trabalhar com a linguagem Java para aplicações web e desenvolva um projeto passo a passo usando o framework JSF, que otimiza a criação de User Interface.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/trabalhando-com-banco-de-dados-utilizando-jdbc-e-jpa/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/98e52508-d41b-455f-9294-2c124cc21510.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Trabalhando com Banco de Dados utilizando JDBC e JPA
+              </h3>
+
+              <p>
+                Aprenda sobre JDBC e JPA, frameworks da linguagem Java para otimização na hora de trabalhar com banco de dados.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  4 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/java-trabalhando-com-collections/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/b6be69f1-9af6-4606-91ca-df0157834afe.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Java - Trabalhando com Collections
+              </h3>
+
+              <p>
+                Aprenda o que é o Collections Framework e a aplicabilidade das suas principais interfaces: List, Set e Map. Além disso, conheça mais sobre Stream API e como ela pode nos ajudar na manipulação das collections.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  6 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/introducao-arquitetura-hexagonal-com-spring-boot-e-kotlin/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/a7e6fe88-7a35-441e-99d6-e41a9fc929fc.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução a Arquitetura Hexagonal com Spring Boot e Kotlin
+              </h3>
+
+              <p>
+                Aprenda como criar uma arquitetura robusta e de baixo nível de acoplamento em suas soluções. Para isso, o expert explora os conceitos de arquitetura hexagonal com Spring Boot e Kotlin.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-3.svg">
+                  Avançado 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  6 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/java-introducao-a-microsservicos/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/a3ee03cd-158b-4d55-ba91-7a3e558fcb40.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução a microsserviços
+              </h3>
+
+              <p>
+                Neste curso, você terá uma base introdutória sobre os conceitos relacionados aos famosos Microsserviços. E não só isso, também irá conhecer um pouco sobre Arquitetura Monolítica, BDD, BFF, TDD e DDD.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/introducao-a-automacao-web-com-selenium-e-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/924fb4e3-df0d-4076-96c1-dd33f6bd8a35.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução a automação web com Selenium e Java
+              </h3>
+
+              <p>
+                Conheça o Selenium, a principal ferramenta de automação de páginas Web. Nesse contexto, explore a linguagem de programação Java e entenda como o Selenium automatiza as ações diretamente em seu browser.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  3 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/aumente-sua-produtividade-com-spring-boot-e-lombok/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/745292f7-19e5-47af-848b-e8696ee12dbb.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Aumente sua Produtividade com Spring Boot e Lombok
+              </h3>
+
+              <p>
+                Veja como reduzir a quantidade de código digitado em qualquer projeto Java usando o Lombok.
+Simplifique a geração de Getters, Setters e Construtores, além de muitos outros padrões e convenções da linguagem Java.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-3.svg">
+                  Avançado 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/introducao-a-orientacao-a-objetos-com-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/bc2c4fe0-3538-4ca0-9e11-3bc1a9a70e83.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução a orientação a objetos com Java
+              </h3>
+
+              <p>
+                Aprenda de modo totalmente prático os principais pilares da Programação Orientada a Objetos (POO).  Nesse contexto, o expert explora os conceitos de Abstração, Encapsulamento, Herança e Polimorfismo com exemplos reais.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/estrutura-de-dados-em-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/7ce0034f-7e1d-4312-9092-5eb2b8d309cb.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Estrutura de dados em Java
+              </h3>
+
+              <p>
+                Aprenda o que são estruturas de dados, qual a importância desse conhecimento para o mundo da tecnologia e implementações dos principais conceitos de estruturas de dados utilizando a linguagem Java.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  10 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/introducao-ao-junit-5/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/59161b2d-8bd3-42f7-a4ed-32d90a6e3d76.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução ao Junit 5
+              </h3>
+
+              <p>
+                Aprenda na prática sobre o framework de testes mais difundido da plataforma Java, o JUnit. Nesse contexto, o expert explora uma série de conceitos essenciais criando casos de teste na prática com o JUnit 5.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/introducao-behavior-driven-development-bdd-com-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/d16cb886-238e-491d-ac39-427be30c9004.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução a Behavior Driven Development (BDD) com Java
+              </h3>
+
+              <p>
+                Conheça o BDD,  uma técnica de desenvolvimento Ágil que encoraja colaboração entre desenvolvedores, setores de qualidade e pessoas não-técnicas ou de negócios num projeto de software, relaciona-se com o conceito de verificação e validação.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-2.svg">
+                  Intermediário 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/dominando-ides-java/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/6c201cba-ff90-4a8e-8b08-77ec0ddcffe1.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Dominando IDEs Java
+              </h3>
+
+              <p>
+                Instale e configure os principais Ambientes de Desenvolvimento Integrado (IDE) da linguagem de programação Java, passando por IntelliJ e eclipse. Para isso, a expert apresenta todo o processo de instalação além das primeiras dicas de uso dessas ferramentas poderosas de desenvolvimento.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  4 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/introducao-qualidade-de-software/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/d934b07f-3f4a-4034-9bcd-bf4b9a6898a1.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Introdução a Qualidade de Software
+              </h3>
+
+              <p>
+                Conheça uma das áreas do desenvolvimento de software mais importantes para a criação de soluções estáveis e seguras, a Garantia de Qualidade ou simplesmente QA. Entenda os principais fundamentos de qualidade de software, bem como a importância de suas respectivas atividades.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/variaveis-tipos-de-data-operadores-matematicos/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/f6876045-9350-4b83-af75-b455fd437d13.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Variáveis, Tipos de Data, Operadores Matemáticos
+              </h3>
+
+              <p>
+                Neste curso você vai entender o que são as variáveis e aprender a manipulá-las.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  2 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="row">
+  <a href="https://digitalinnovation.one/cursos/entrada-e-saida-de-arquivos-io/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" target="_blank">
+    <div class="col-md-12">
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="course-row row">
+            <div class="col-md-2">
+              <img src="https://hermes.digitalinnovation.one/courses/badge/256f13a1-7354-4809-8df8-6677c4b62763.png" height="140" width="140">
+            </div>
+            <div class="col-md-7 d-flex flex-wrap">
+              <h3 class="title-course">
+                Entrada e Saída de Arquivos (I/O)
+              </h3>
+
+              <p>
+                Neste curso, você compreenderá os componentes mais importantes do pacote java.io e outros recursos da linguagem Java relacionados à leitura (input) e escrita (output) de arquivos.
+              </p>
+            </div>
+            <div class="col-md-3">
+              <ul class="list-course float-right">
+                <li class="itens-list-course">
+                  
+                  <img src="https://hermes.digitalinnovation.one/site/images/signal-cellular-1.svg">
+                  Básico 
+                </li>
+                <li class="itens-list-course">
+                  <i class="far fa-clock"></i>
+                  4 horas
+                </li>
+                <li class="itens-list-course">
+                  <button class="formacao-headline-cta mt-0 saiba-mais-button">
+                    Saiba Mais
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+  
+  </section>
+  <div data-role="footer" data-position="fixed" class="call-to-action">
+    <div class="first-column">
+      Gratuito
+    </div>
+    <div class="second-column">
+      <a class="formacao-headline-cta-footer" href="https://digitalinnovation.one/sign-up/?ref=lp&amp;hidden_text&amp;source=/skills/java&amp;" style="color: #444444; text-transform: inherit;  ">Comece agora</a>
+    </div>
+  </div>
+</div>
+<div class="footer-wrap landing">
+    <div class="row d-flex flex-content-center align-items-center py-3">
+      <div class="col-6 d-flex justify-content-center">
+        <img class="logo" src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="160" height="60" alt="logo">
+      </div>
+      <div class="col-6 d-flex justify-content-center">
+        <div id="row-about" class="text d-flex flex-direction-column justify-content-between flex-column">
+          <p>(16) 3508-5250</p>
+          <div>
+            <p>
+              Av. Sete de Setembro, 371
+            </p>
+            <p>Araraquara - SP - 14800-390</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <footer class="site-footer">
+    <p class="copyright text-center">
+      2019 © DIGITAL INNOVATION ONE. Todos os direitos reservados.
+    </p>
+  </footer>
+</div> 
+      </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+     
+    <!-- Facebook Pixel Code -->
+    <script>
+      !(function(f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function() {
+          n.callMethod
+            ? n.callMethod.apply(n, arguments)
+            : n.queue.push(arguments);
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = "2.0";
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+      })(
+        window,
+        document,
+        "script",
+        "https://connect.facebook.net/en_US/fbevents.js"
+      );
+      fbq("init", "529970670506180");
+      fbq("track", "PageView");
+    </script>
+    <noscript><img
+        height="1"
+        width="1"
+        style="display:none"
+        src="https://www.facebook.com/tr?id=529970670506180&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+    <!-- Hotjar Tracking Code for https://digitalinnovation.one -->
+    <script>
+      (function(h, o, t, j, a, r) {
+        h.hj =
+          h.hj ||
+          function() {
+            (h.hj.q = h.hj.q || []).push(arguments);
+          };
+        h._hjSettings = { hjid: 1255605, hjsv: 6 };
+        a = o.getElementsByTagName("head")[0];
+        r = o.createElement("script");
+        r.async = 1;
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+        a.appendChild(r);
+      })(window, document, "https://static.hotjar.com/c/hotjar-", ".js?sv=");
+    </script>
+  
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-25a418976ea02a6f393fbbe77cec94bb.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","614551849008360");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=614551849008360&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:1255605,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script><script type="text/javascript" id="">(function(a,d,e,f,g,b,c){a.visitorGlobalObjectAlias=f;a[a.visitorGlobalObjectAlias]=a[a.visitorGlobalObjectAlias]||function(){(a[a.visitorGlobalObjectAlias].q=a[a.visitorGlobalObjectAlias].q||[]).push(arguments)};a[a.visitorGlobalObjectAlias].l=(new Date).getTime();b=d.createElement("script");b.src=e;b.async=!0;c=d.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");vgo("setAccount","475833027");
+vgo("setTrackByDefault",!0);vgo("process");</script><script type="text/javascript" id="">(function(a,e,f,g,b,c,d){a.MauticTrackingObject=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://mautic.digitalinnovation.one/mtc.js","mt");mt("send","pageview");</script>
+<script type="text/javascript" id="" src="https://www.googletagmanager.com/gtag/js?id=AW-769359912"></script><script type="text/javascript" id="">(function(a,e,b,f,g,c,d){a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};c=e.createElement(f);c.async=1;c.src="https://www.clarity.ms/tag/"+g;d=e.getElementsByTagName(f)[0];d.parentNode.insertBefore(c,d)})(window,document,"clarity","script","5q1spn4z03");</script>
+<script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","AW-769359912");</script>
+</body>

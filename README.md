@@ -8,198 +8,35 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
-![Bootcamps na Digital Innovation One](/Images/capa.png "Bootcamps")
+![Bootcamps na Digital Innovation One](BootCamps/Images/capa.png "Bootcamps")
 
 
 # DIO - Digital Innovation One : Bootcamps
 
-Meus bootcamps na DIO, suor, menos cabelos, dedos ligeiros e diversao, Modo Ludico de aprender novas tecnologias.
-Surfando no estado da arte em Tecnologia da Informaçao
+**Bem-vindo ao meus Bootcamps** este repositorio serve como mapa estrategico de todos os Bootcamps, que encontrei na **Digital Innovation One**.
 
-# Lista de Inscriçao
+Armazenando documentos uteis, plnaos e estrategias para conclui-los, links dos Bootcamps, também servindo como catalogo arqueologico dos Bootcamps extintos e eliminados.
 
-## 2021-05-29 
-### https://web.digitalinnovation.one/track/html-web-developer 
-:trophy: 2021-05-21
-- [Conteudo programatico](HtmlWebDeveloper.md)
+Fique a vontade para navegar, qualquer duvida chame aqui, no Discord, no Linkedin ou mesmo na DIO.
 
-- :scroll: [Certificado](./Certificados/HtmlWebDeveloper.md)
-                     
+## Index
 
-## 2021-06-24 
-### https://web.digitalinnovation.one/track/become-remote?tab=path
-:trophy: 2021-05-25
-- [Conteudo programatico](BecomeRemote.md)
+### Meus Bootcamps
+[Meu repositorio](BootCamps/)  - **Bootcamps da Digital Innovation One** que estou matriculado e os concluidos
 
-- :scroll: [Certificado](./Certificados/BecomeRemote.md)
+### Manuais
+[Manuais praticos](BootCamps/Manuais)  - Manuais de apoio fornecidos pela DIO Aceleraçao
+### Stick man Gif animado
+[Animacao Stickman](BootCamps/Animacao)  - Animacao em GIF do Stick Man resiliente
+### Partilha de conhecimentos em Artigos DIO
+[Artigos publicados na DIO](BootCamps/ArtigosDIO)  - Repositorio dos artigos que venho publicando na comunidade DIO
+### Curiosidade: Bootcamps extintos
+[Bootcamps Extintos DIO](BootCamps/BootcampsEncerrados)  - Velhos Bootcamps, pioneiros que iniciaram os primeiros alunos da DIO
+### Diplomas e certificados 
+[Certificados de conclusao do Bootcamp](BootCamps/Certificados)  - Diretorio com os certificados em formato pdf e png dos Bootcamps concluidos na DIO
 
-## 2021-06-14
-### https://web.digitalinnovation.one/track/net-fundamentals
-:trophy: 2021-05-27
-- [Conteudo programatico](NetFundamentals.md)
 
-- :scroll: [Certificado](./Certificados/NetFundamentals.md)
-
-## 2021-07-21
-### https://web.digitalinnovation.one/track/localizalabs-net-developer?tab=path
-:trophy: 2021-06-04
-- [Conteudo programatico](LocalizaLabsNetDeveloper.md)
-
-- :scroll: [Certificado](./Certificados/LocalizaLabs_NetDeveloper.md)
-
-## 2021-07-21
-:trophy: 2021-06-07
-### https://web.digitalinnovation.one/track/gft-start-2-net
-- [Conteudo programatico](GFT_Start2DotNet.md)
-
-- :scroll: [Certificado](./Certificados/GFT_Star2_DotNet.md)
-
-## 2021-07-21
-:trophy: 2021-07-01
-### https://web.digitalinnovation.one/track/javascript-game-developer
-- [Conteudo programatico](JavaScriptGameDeveloper.md)
-
-- :scroll: [Certificado](./Certificados/JavaScriptGameDeveloper.md)
-
-## 2021-07-13
-:trophy: 2021-07-09
-### https://web.digitalinnovation.one/track/gft-start-2-java?tab=path
-- [Conteudo programatico](GFT_Start2_Java.md)
-
-- :scroll: [Certificado](./Certificados/GFT_Start2Java.md)
-
-## 2021-07-24
-:trophy: 2021-07-12
-### https://web.digitalinnovation.one/track/backend-developer-carrefour?tab=path
-- [Conteudo programatico](Carrefour_BackEndDeveloper.md)
-
-- :scroll: [Certificado](./Certificados/Carrefour_BackEndDeveloper.md)
-
-## 2021-07-21 
-:trophy: 2021-07-14
-### https://web.digitalinnovation.one/track/fullstack-developer-banco-carrefour
-- [Conteudo programatico](BancoCarrefour_FullStackDeveloper.md)
-
-- :scroll: [Certificado](./Certificados/BancoCarrefour_FullStackDeveloper.md)
-
-## 2021-08-04 
-:trophy: 2021-07-19
-### https://web.digitalinnovation.one/track/take-blip-fullstack-developer?tab=path
-- [Conteudo programatico](TakeBlip_FullStackDeveloper.md)
-
-- :scroll: [Certificado](./Certificados/TakeBlip_FullStackDeveloper.md)
-
-## 2021-07-24
-:trophy: 2021-07-22
-### https://web.digitalinnovation.one/track/java-developer?tab=path
-- [Conteudo programatico](JavaDeveloper.md)
-
-- :scroll: [Certificado](./Certificados/JavaDeveloper.md)
-
-## 2021-09-10 
-:trophy: 2021-07-26
-### https://web.digitalinnovation.one/track/1d1fa88f-665b-41d0-b8a8-3820cc7fd6e5?tab=path
-- [Conteudo programatico](Everis_NewTalents_DotNet.md)
-
-- :scroll: [Certificado](./Certificados/Everis_NewTalents_DotNET.Md)
-
-## 2021-10-08
-:trophy: 2021-07-27
-### https://web.digitalinnovation.one/track/avanade-codeanywhere-net?tab=path
-- [Conteudo programatico](Avanade_CodeAnywhereDotNET.Md)
-
-- :scroll: [Certificado](./Certificados/Avanade_CodeAnywhereDotNET.Md)
-
-## 2021-08-24
-:trophy: 2021-07-29
-### https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-2?tab=path
-- [Conteudo programatico](Everis_QualityAssuranceBeginnerNo2.Md)
-
-- :scroll: [Certificado](./Certificados/Everis_QualityAssuranceBeginnerNo2.Md)
-
-## 2021-09-23
-:trophy: 2021-07-29
-### https://web.digitalinnovation.one/track/everis-new-talents-java?tab=path
-- [Conteudo programatico](Everis_NewTalents_Java.Md)
-
-- :scroll: [Certificado](./Certificados/Everis_NewTalents_Java.Md)
-
-## 2021-08-28
-:trophy: 2021-07-30
-### https://web.digitalinnovation.one/track/everis-site-reliability-engineer-essentials?tab=path
-- [Conteudo programatico](everis_SiteReliabilityEngineerEssentials.Md)
-
-- :scroll: [Certificado](./Certificados/everis_SiteReliabilityEngineerEssentials.Md)
-
-## 2021-08-02
-:trophy: 2021-08-01
-### https://web.digitalinnovation.one/track/impulso-fullstack-developer?tab=path
-- [Conteudo programatico](Impulso_FullStackDeveloper.md)
-
-- :scroll: [Certificado](./Certificados/Impulso_FullStackDeveloper.md)
-
-## 2021-11-18 
-:trophy: 2021-08-17
-### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-front-end
-- [Conteudo programatico](SPTech_DesenvolvimentoFrontEnd.md)
-
-- :scroll: [Certificado](./Certificados/SPTech_DesenvolvimentoFrontEnd.md)
-
----
-
-<!-- PROJECT LOGO -->
-![Tiozao Work In Progress](/Images/workInProgress.png "Bootcamps em Treino")
-# Work in progress
-
-## 2021-09-06 
-### https://web.digitalinnovation.one/track/santander-mobile-developer?tab=path
-- [Conteudo programatico](Santander_MobileDeveloper.md)
- 
-## 2021-09-09 
-### https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path
-- [Conteudo programatico](BancoCarrefour_DataEngineer.md)
-
-## 2021-09-11 
-### https://web.digitalinnovation.one/track/mrv-front-end-spa-developer?tab=path
-- [Conteudo programatico](MRV_FrontEndSPADeveloper.md)
-
-## 2021-09-13
-### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
-- [Conteudo programatico](LocalizaLabs_ReactDeveloper.md)
-
-## 2021-10-02
-### https://web.digitalinnovation.one/track/decola-tech?tab=path
-- [Conteudo programatico](AvanadeDecolaTech.md)
-
-## 2021-10-12
-### https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path
-- [Conteudo programatico](Cognizant_CloudDataEngineer.Md)
-
-## 2021-10-14
-### https://web.digitalinnovation.one/track/inter-android-developer?tab=path
-- [Conteudo programatico](Inter_AndroidDeveloper.Md)
-
-## 2021-10-24
-### https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path
-- [Conteudo programatico](Santander_FullstackDeveloper.Md)
-
-## 2021-10-28
-### https://web.digitalinnovation.one/track/capgemini-fullstack-java-and-angular?tab=path
-- [Conteudo programatico](CapgeminiFullstackJavaAndAngular.Md)
-
-## 2021-10-28
-### https://web.digitalinnovation.one/track/carrefour-android-developer-1?tab=path
-- [Conteudo programatico](CarrefourAndroidDeveloper.Md)
-
-## 2021-11-21
-### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-fullstack
-- [Conteudo programatico](SPTech_DesenvolvimentoFullStack.md)
-
-## 2021-11-23
-### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-back-end?tab=path
-- [Conteudo programatico](SPTech_DesenvolvimentoBackEnd.md)
 
 ---
 
@@ -222,7 +59,4 @@ Surfando no estado da arte em Tecnologia da Informaçao
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/capa.png
-
-
-
+[product-screenshot]: BootCamps/images/capa.png
