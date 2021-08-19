@@ -10,7 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-![Bootcamps na Digital Innovation One](/Images/capa.png "Bootcamps")
+![Bootcamps na Digital Innovation One](Images/capa.png "Bootcamps")
 
 
 # DIO - Digital Innovation One : Bootcamps
@@ -150,7 +150,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ---
 
 <!-- PROJECT LOGO -->
-![Tiozao Work In Progress](/Images/workInProgress.png "Bootcamps em Treino")
+![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
 
 ## 2021-09-06 

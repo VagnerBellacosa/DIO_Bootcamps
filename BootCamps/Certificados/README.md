@@ -10,7 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-![Bootcamps na Digital Innovation One](/Images/capa.png "Bootcamps")
+![Bootcamps na Digital Innovation One](./Images/capa.png "Bootcamps")
 
 
 # DIO - Digital Innovation One : Bootcamps
@@ -64,6 +64,51 @@ Surfando no estado da arte em Tecnologia da Informaçao
 :trophy: 2021-07-14
 ### https://web.digitalinnovation.one/track/fullstack-developer-banco-carrefour
 - :scroll: [Certificado](BancoCarrefour_FullStackDeveloper.md)
+
+## 2021-08-04 
+:trophy: 2021-07-19
+### https://web.digitalinnovation.one/track/take-blip-fullstack-developer?tab=path
+- :scroll: [Certificado](TakeBlip_FullStackDeveloper.md)
+
+## 2021-07-24
+:trophy: 2021-07-22
+### https://web.digitalinnovation.one/track/java-developer?tab=path
+- :scroll: [Certificado](JavaDeveloper.md)
+
+## 2021-09-10 
+:trophy: 2021-07-26
+### https://web.digitalinnovation.one/track/1d1fa88f-665b-41d0-b8a8-3820cc7fd6e5?tab=path
+- :scroll: [Certificado](Everis_NewTalents_DotNET.Md)
+
+## 2021-10-08
+:trophy: 2021-07-27
+### https://web.digitalinnovation.one/track/avanade-codeanywhere-net?tab=path
+- :scroll: [Certificado](Avanade_CodeAnywhereDotNET.Md)
+
+## 2021-08-24
+:trophy: 2021-07-29
+### https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-2?tab=path
+- :scroll: [Certificado](Everis_QualityAssuranceBeginnerNo2.Md)
+
+## 2021-09-23
+:trophy: 2021-07-29
+### https://web.digitalinnovation.one/track/everis-new-talents-java?tab=path
+- :scroll: [Certificado](Everis_NewTalents_Java.Md)
+
+## 2021-08-28
+:trophy: 2021-07-30
+### https://web.digitalinnovation.one/track/everis-site-reliability-engineer-essentials?tab=path
+- :scroll: [Certificado](everis_SiteReliabilityEngineerEssentials.Md)
+
+## 2021-08-02
+:trophy: 2021-08-01
+### https://web.digitalinnovation.one/track/impulso-fullstack-developer?tab=path
+- :scroll: [Certificado](Impulso_FullStackDeveloper.md)
+
+## 2021-11-18 
+:trophy: 2021-08-17
+### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-front-end
+- :scroll: [Certificado](SPTech_DesenvolvimentoFrontEnd.md)
 
 #### * DIO - Digital Inovation One *
 ######  [Inscreva-se na Dio](https://digitalinnovation.one/sign-up?ref=R5J3ZLTIFS)  
