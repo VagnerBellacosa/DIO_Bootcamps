@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-![Artigos na Digital Innovation One](Images/ArtigosNaDio.png "Artigos")
+![Artigos na Digital Innovation One](Image/ArtigosNaDio.png "Artigos")
 
 # DIO - Digital Innovation One : Artigos
 
@@ -17,309 +17,460 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 # Indice de Artigos 
 
 Fluxograma na pratica e pseudocódigo em linguagem natural
+
 https://web.digitalinnovation.one/articles/fluxograma-na-pratica-e-pseudocodigo-em-linguagem-natural
- @Informática Básica @Boas práticas @Arquitetura de Sistemas
+
+ "Informática Básica" "Boas práticas" "Arquitetura de Sistemas"
 
 Meu primeiro curso de informática, qual foi o seu????
+
 https://web.digitalinnovation.one/articles/meu-primeiro-curso-de-informatica-qual-foi-o-seu
- @Informática Básica @Arquitetura de Sistemas
+
+ "Informática Básica" "Arquitetura de Sistemas"
 
 Colapso do Banco TBS erro na migraçao e shutdown do sistema legado
+
 https://web.digitalinnovation.one/articles/colapso-do-banco-tbs-erro-na-migracao-e-shutdown-do-sistema-legado
- @Informática Básica @Modelagem de Negócios @Arquitetura de Sistemas
+
+ "Informática Básica" "Modelagem de Negócios" "Arquitetura de Sistemas"
 
 Vamos codar? Crie um velocimetro em Html CSS e Javascript
+
 https://web.digitalinnovation.one/articles/vamos-codar-crie-um-velocimetro-em-html-css-e-javascript
- @JavaScript @HTML @CSS
+
+ "JavaScript" "HTML" "CSS"
 
 10 dicas para conquistar um emprego dos sonhos em T.I.
+
 https://web.digitalinnovation.one/articles/10-dicas-para-conquistar-um-emprego-dos-sonhos-em-ti
- @Marketing Pessoal @Equipe Motivada @Soft Skill
+
+ "Marketing Pessoal" "Equipe Motivada" "Soft Skill"
 
 O COBOL morreu? Vida longa ao Cobol!
+
 https://web.digitalinnovation.one/articles/o-cobol-morreu-vida-longa-ao-cobol
- @Informática Básica @Boas práticas @Arquitetura de Sistemas
+
+ "Informática Básica" "Boas práticas" "Arquitetura de Sistemas"
 
 Aprenda a fazer uma nuvem de etiquetas em Html CSS e Javascript
+
 https://web.digitalinnovation.one/articles/aprenda-a-fazer-uma-nuvem-de-etiquetas-em-html-css-e-javascript 
- @HTML @JavaScript @CSS
+
+ "HTML" "JavaScript" "CSS"
 
 Spaghetti Code um codigo sem nexo, o emaranhado de comandos que acabara com sua sanidade
+
 https://web.digitalinnovation.one/articles/spaghetti-code-um-codigo-sem-nexo-emaranhado-de-comandos
- @Programação para Internet @Boas práticas @Arquitetura de Sistemas
+
+ "Programação para Internet" "Boas práticas" "Arquitetura de Sistemas"
 
 17 dicas para JavaScript, Otimize e melhore a performance do seu código.
+
 https://web.digitalinnovation.one/articles/javascript-otimize-e-melhore-a-performance-do-seu-codigo
- @Programação para Internet @JavaScript @Boas práticas
+
+ "Programação para Internet" "JavaScript" "Boas práticas"
 
 Seja resiliente evolua seus soft skills em T.I.
+
 https://web.digitalinnovation.one/articles/seja-resiliente-evolua-seus-soft-skills-em-ti
- @Marketing Pessoal @Liderança de Equipe @Soft Skill
+
+ "Marketing Pessoal" "Liderança de Equipe" "Soft Skill"
 
 Prestaçao de Serviço e SLA, saiba mais sobre as garantias
+
 https://web.digitalinnovation.one/articles/prestacao-de-servico-e-sla-saiba-mais-sobre-as-garantias
- @Informática Básica @Controle de gastos @Boas práticas
+
+ "Informática Básica" "Controle de gastos" "Boas práticas"
 
 GITHub: O que colocar? Como criar um repositorio profissional?
+
 https://web.digitalinnovation.one/articles/github-o-que-colocar-como-criar-um-repositorio-profissional
- @Marketing Pessoal @GitHub @Arquitetura de Sistemas
+
+ "Marketing Pessoal" "GitHub" "Arquitetura de Sistemas"
 
 Saiba como indexar seu WebSite com uso de Robots.TXT [Tutorial]
+
 https://web.digitalinnovation.one/articles/saiba-como-indexar-seu-website-com-uso-de-robotstxt-tutorial
- @HTML @Boas práticas @Marketing Digital
+
+ "HTML" "Boas práticas" "Marketing Digital"
 
 Javascript o poder da animaçao em Sprite Sheets
+
 https://web.digitalinnovation.one/articles/javascript-o-poder-da-animacao-em-sprite-sheets
- @JavaScript
+
+ "JavaScript"
 
 Um computador com sotaque inglês: Colossus e o inicio da computaçao
+
 https://web.digitalinnovation.one/articles/um-computador-com-sotaque-ingles-colossus-e-o-inicio-da-computacao
- @Informática Básica @Arquitetura de Sistemas
+
+ "Informática Básica" "Arquitetura de Sistemas"
 
 Ganhe dinheiro para realizar seus sonhos: Incubadoras, Aceleradoras e acionistas
+
 https://web.digitalinnovation.one/articles/ganhe-dinheiro-para-realizar-seus-sonhos-incubadoras-aceleradoras-e-acionistas
- @Marketing Pessoal @Intraempreendedorismo @Marketing Digital
+
+ "Marketing Pessoal" "Intraempreendedorismo" "Marketing Digital"
 
 Dia 18 - Atalhos práticos do VS Code programe melhor
+
 https://web.digitalinnovation.one/articles/dia-18-atalhos-praticos-do-vs-code-programe-melhor 
- @Informática Básica @Boas práticas @Arquitetura de Sistemas
+
+ "Informática Básica" "Boas práticas" "Arquitetura de Sistemas"
 
 Como nomear variáveis num programa?
+
 https://web.digitalinnovation.one/articles/como-nomear-variaveis-num-programa
- @Programação para Internet @Boas práticas @Arquitetura de Sistemas
+
+ "Programação para Internet" "Boas práticas" "Arquitetura de Sistemas"
 
 Leilão Reverso e mas praticas na seleção de RH
+
 https://web.digitalinnovation.one/articles/como-nomear-variaveis-num-programa
- @Marketing Pessoal @Liderança de Equipe @Soft Skill
+
+ "Marketing Pessoal" "Liderança de Equipe" "Soft Skill"
 
 Estilo CamelCase PascalCase nomeando direitinho.
+
 https://web.digitalinnovation.one/articles/como-nomear-variaveis-num-programa
- @Programação para Internet @Informática Básica @Boas práticas
+
+ "Programação para Internet" "Informática Básica" "Boas práticas"
 
 Historias do Tiozão em Mainframe
+
 https://web.digitalinnovation.one/articles/historias-do-tiozao-em-mainframe
- @Equipe Motivada @Arquitetura de Sistemas @Soft Skill
+
+ "Equipe Motivada" "Arquitetura de Sistemas" "Soft Skill"
 
 Netflix Clone: Como fazer um Deploy do seu WebSite em 3 passos . [Tutorial]
+
 https://web.digitalinnovation.one/articles/netflix-clone-como-fazer-um-deploy-do-seu-website
- @Programação para Internet @GitHub @HTML
+
+ "Programação para Internet" "GitHub" "HTML"
 
 Hard Skill : Origens do Computador [Hardware]
+
 https://web.digitalinnovation.one/articles/hard-skill-origens-do-computador
- @Informática Básica @Arquitetura de Sistemas
+
+ "Informática Básica" "Arquitetura de Sistemas"
 
 Soft Skill: aprenda 5 regras para um bom convívio social
+
 https://web.digitalinnovation.one/articles/soft-skill-aprenda-5-regras-para-um-bom-convivio-social
- @Desperte o potencial @Marketing Pessoal @Soft Skill
+
+ "Desperte o potencial" "Marketing Pessoal" "Soft Skill"
 
 Roteiro teorico para trabalhar com Mainframe
+
 https://web.digitalinnovation.one/articles/roteiro-teorico-para-trabalhar-com-mainframe
- @Informática Básica @Lógica de Programação @Arquitetura de Sistemas
+
+ "Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas"
 
 Mainframe, conheça um pouco sobre Sistemas Centrais
+
 https://web.digitalinnovation.one/articles/mainframe-conheca-um-pouco-sobre-sistemas-centrais
- @Boas práticas @Arquitetura de Sistemas
+
+ "Boas práticas" "Arquitetura de Sistemas"
 
 Dia 17: Não faça confusão com arrays, conheça coleções indexadas e chaveadas no JavaScript
+
 https://web.digitalinnovation.one/articles/dia-17-nao-faca-confusao-com-arrays-listas-e-colecoes-no-javascript 
- @Informática Básica @JavaScript @Arquitetura de Sistemas
+
+ "Informática Básica" "JavaScript" "Arquitetura de Sistemas"
 
 Dia 16 : Vantagens do Javascript
+
 https://web.digitalinnovation.one/articles/dia-16-vantagens-do-javascript
- @HTML @JavaScript @CSS
+
+ "HTML" "JavaScript" "CSS"
 
 Bootcamp e Técnica Pomodoro
+
 https://web.digitalinnovation.one/articles/bootcamp-e-tecnica-pomodoro 
- @Marketing Pessoal
+
+ "Marketing Pessoal"
 
 Você ainda vai ouvir falar muito de DART.
+
 https://web.digitalinnovation.one/articles/bootcamp-e-tecnica-pomodoro
- @Programação para Internet @Dart @UI/UX
+
+ "Programação para Internet" "Dart" "UI/UX"
 
 ASCII ART - Quando simples caracteres viram arte
+
 https://web.digitalinnovation.one/articles/ascii-art-quando-simples-caracteres-viram-arte
- @Marketing Digital
+
+ "Marketing Digital"
 
 Dia 15: A Resposta é 42, minha homenagem ao Guia do Mochileiro das Galáxias
+
 https://web.digitalinnovation.one/articles/dia15-a-resposta-e-42-minha-homenagem-ao-guia-do-mochileiro-das-galaxias 
- @Desperte o potencial
+
+ "Desperte o potencial"
 
 Dia 14: Liberdade de criar aliada a uma boa remuneração.
+
 https://web.digitalinnovation.one/articles/dia-14-liberdade-de-criar-aliada-a-uma-boa-remuneracao 
- @Marketing Pessoal @Boas práticas @Soft Skill
+
+ "Marketing Pessoal" "Boas práticas" "Soft Skill"
 
 Ah seu eu soubesse... Dia 13 – 3 Dicas para ser um dos top 10
+
 https://web.digitalinnovation.one/articles/ah-seu-eu-soubesse-dia-13-3-dicas-para-ser-um-dos-top-10
- @Marketing Pessoal @Boas práticas @Soft Skill
+
+ "Marketing Pessoal" "Boas práticas" "Soft Skill"
 
 Como incluir um video do YouTube em sua pagina HTML? [Tutorial]]
+
 https://web.digitalinnovation.one/articles/como-incluir-um-video-do-youtube-em-sua-pagina-html-tutorial
- @Programação para Internet @HTML @Boas práticas
+
+ "Programação para Internet" "HTML" "Boas práticas"
 
 Dia 12: Dicas campeãs para terminar um Bootcamp [24 passos]
+
 https://web.digitalinnovation.one/articles/dia-12-dicas-campeas-para-terminar-um-bootcamp
- @Equipe Motivada @Consultoria de Contratação @Boas práticas
+
+ "Equipe Motivada" "Consultoria de Contratação" "Boas práticas"
 
 Como fazer o Desafio 21 dias 21 artigos ?  @Desafio21DiasNaDIO
+
 https://web.digitalinnovation.one/articles/desafio-21-dias-21-artigos-desafio21diasnadio
- @Programação para Internet @Marketing Pessoal @Soft Skill
+
+ "Programação para Internet" "Marketing Pessoal" "Soft Skill"
 
 Dia 11 - Como me atualizo? 3 Fontes de Estudos
+
 https://web.digitalinnovation.one/articles/dia-11-como-me-atualizo-3-fontes-de-estudos
- @Desperte o potencial @Marketing Pessoal
+
+ "Desperte o potencial" "Marketing Pessoal"
 
 SOFT SKILLS o que um bom DEV necessita ter e expandir.
+
 https://web.digitalinnovation.one/articles/soft-skills-o-que-um-bom-dev-necessita-ter-e-expandir
- @Marketing Pessoal @Boas práticas @Soft Skill
+
+ "Marketing Pessoal" "Boas práticas" "Soft Skill"
 
 Desafio convide 5 amigos e ajude a construir a maior Comunidade de DEVs do Brasil
+
 https://web.digitalinnovation.one/articles/desafio-convide-5-amigos-e-ajude-a-construir-a-maior-comunidade-de-devs-do-brasil
- @Desperte o potencial @Marketing Pessoal @Soft Skill
+
+ "Desperte o potencial" "Marketing Pessoal" "Soft Skill"
 
 ETICA em Informatica.
+
 https://web.digitalinnovation.one/articles/etica-em-informatica
- @Marketing Pessoal @Intraempreendedorismo @Negócios Exponenciais
+
+ "Marketing Pessoal" "Intraempreendedorismo" "Negócios Exponenciais"
 
 Dia 10 - Um dos melhores bootcamps: JS Game Developers
+
 https://web.digitalinnovation.one/articles/dia-10-um-dos-melhores-bootcamps-js-game-developers
- @JavaScript @Marketing Digital @Soft Skill
+
+ "JavaScript" "Marketing Digital" "Soft Skill"
 
 Bugou? Por que dizemos isso a erros no aplicativo? [Você sabia?]
+
 https://web.digitalinnovation.one/articles/bugou-por-que-dizemos-isso-a-erros-no-aplicativo-voce-sabia
- @Jira @Marketing Pessoal @Arquitetura de Sistemas
+
+ "Jira" "Marketing Pessoal" "Arquitetura de Sistemas"
 
 Cheguei agora, que curso devo fazer?
+
 https://web.digitalinnovation.one/articles/cheguei-agora-que-curso-devo-fazer
- @Liderança de Equipe @Soft Skill
+
+ "Liderança de Equipe" "Soft Skill"
 
 Dia 9 - Homenagem a Incrivel Grace
+
 https://web.digitalinnovation.one/articles/dia-9-homenagem-a-incrivel-grace
- @Desperte o potencial @Marketing Digital
+
+ "Desperte o potencial" "Marketing Digital"
 
 Desmitificando o LINKEDIN.
+
 https://web.digitalinnovation.one/articles/desmitificando-o-linkedin
- @Marketing Pessoal @Liderança de Equipe @Marketing Digital
+
+ "Marketing Pessoal" "Liderança de Equipe" "Marketing Digital"
 
 To do Data Science
+
 https://web.digitalinnovation.one/articles/to-do-data-science
 
 Hackathon, seja um as na programação [Você sabia?]
+
 https://web.digitalinnovation.one/articles/hackathon-seja-um-as-na-programacao-voce-sabia
- @Informática Básica @Soft Skill @Live Coding
+
+ "Informática Básica" "Soft Skill" "Live Coding"
 
 Nove gestantes nao geram um bebe em apenas um mes
+
 https://web.digitalinnovation.one/articles/nove-gravidas-nao-geram-um-bebe-em-apenas-um-mes
- @Desperte o potencial @Arquitetura de Sistemas @Soft Skill
+
+ "Desperte o potencial" "Arquitetura de Sistemas" "Soft Skill"
 
 Seja visível, aumente sua Reputação [Você sabia?]
- @Desperte o potencial @Marketing Pessoal @Informática Básica
+
+ "Desperte o potencial" "Marketing Pessoal" "Informática Básica"
 
 O que são entities HTML? [Você Sabia?]
+
 https://web.digitalinnovation.one/articles/o-que-sao-entities-html-voce-sabia
- @HTML @Boas práticas @Soft Skill
+
+ "HTML" "Boas práticas" "Soft Skill"
 
 Dia 8 - Se eu fosse eu no inicio, faria...
+
 https://web.digitalinnovation.one/articles/dia-8-se-eu-fosse-eu-no-inicio-faria
- @Desperte o potencial @Marketing Pessoal @Soft Skill
+
+ "Desperte o potencial" "Marketing Pessoal" "Soft Skill"
 
 Troll nao é tão divertido assim. [Você sabia?]
+
 https://web.digitalinnovation.one/articles/troll-nao-e-tao-divertido-assim-voce-sabia
- @Marketing Pessoal
+
+ "Marketing Pessoal"
 
 SPAM! SPAM! SPAM! [Você sabia?]
+
 https://web.digitalinnovation.one/articles/spam-spam-spam-voce-sabia
- @Marketing Pessoal @Soft Skill
+
+ "Marketing Pessoal" "Soft Skill"
 
 A importância do código de conduta. [Você sabia?]
+
 https://web.digitalinnovation.one/articles/a-importancia-do-codigo-de-conduta-voce-sabia
- @Marketing Pessoal @Boas práticas @Soft Skill
+
+ "Marketing Pessoal" "Boas práticas" "Soft Skill"
 
 Saiba como ganhar 350 reais da DIO
+
 https://web.digitalinnovation.one/articles/saiba-como-ganhar-350-reais-da-dio
 
 Padawan na Plataforma? Esta perdido? Nao sabe o que fazer?
+
 https://web.digitalinnovation.one/articles/padawan-na-plataforma-esta-perdido-nao-sabe-o-que-fazer
- @Marketing Pessoal @Informática Básica @Soft Skill
+
+ "Marketing Pessoal" "Informática Básica" "Soft Skill"
 
 Conceitos funcionais: WORKFLOW
+
 https://web.digitalinnovation.one/articles/conceitos-funcionais-workflow
- @Desperte o potencial @Liderança de Equipe
+
+ "Desperte o potencial" "Liderança de Equipe"
 
 Dia 7: JavaScript & Plano de Estudos
+
 https://web.digitalinnovation.one/articles/dia-7-javascript-plano-de-estudos
- @Marketing Pessoal @JavaScript @Node.js
+
+ "Marketing Pessoal" "JavaScript" "Node.js"
 
 Seja visível, aumente sua Reputação
+
 https://web.digitalinnovation.one/articles/seja-visivel-aumente-sua-reputacao-voce-sabia
- @Desperte o potencial @Marketing Pessoal
+
+ "Desperte o potencial" "Marketing Pessoal"
 
 Nao sabe emitir certificado de Bootcamp?
+
 https://web.digitalinnovation.one/articles/nao-sabe-emitir-certificado-de-bootcamp
- @Marketing Pessoal
+
+ "Marketing Pessoal"
 
 FAQ : Segredos e bastidores da DIO [Você sabia?]
+
 https://web.digitalinnovation.one/articles/faq-segredos-e-bastidores-da-dio-voce-sabia
- @Marketing Digital @Soft Skill @UI/UX
+
+ "Marketing Digital" "Soft Skill" "UI/UX"
 
 Triplice alicerce da informatica: PEOPLEWARE
+
 https://web.digitalinnovation.one/articles/triplice-alicerce-da-informatica-peopleware
- @Marketing Pessoal @Arquitetura de Sistemas @Soft Skill
+
+ "Marketing Pessoal" "Arquitetura de Sistemas" "Soft Skill"
 
 Following e sua importância na comunidade DIO.
+
 https://web.digitalinnovation.one/articles/following-e-sua-importancia-na-comunidade-dio
- @Marketing Pessoal
+
+ "Marketing Pessoal"
 
 Dia 6 – Uma conversa sobre JavaScript
+
 https://web.digitalinnovation.one/articles/dia-6-uma-conversa-sobre-javascript
- @Programação para Internet @JavaScript @UI/UX
+
+ "Programação para Internet" "JavaScript" "UI/UX"
 
 V8 a engine do Chrome: Turbinando seu Javascript
+
 https://web.digitalinnovation.one/articles/v8-a-engine-do-chrome-turbinando-seu-javascript
- @Programação para Internet @JavaScript @Arquitetura de Sistemas
+
+ "Programação para Internet" "JavaScript" "Arquitetura de Sistemas"
 
 Dia 5 – Explorando além do JS, mas dentro do JS: conheça o NODE.JS
+
 https://web.digitalinnovation.one/articles/dia-5-explorando-alem-do-js-mas-dentro-do-js-conheca-o-nodejs
- @Informática Básica @JavaScript @Node.js
+
+ "Informática Básica" "JavaScript" "Node.js"
 
 Preciso de você!!! Desenhista, ilustrador, alguém cheio de imaginação
+
 https://web.digitalinnovation.one/articles/preciso-de-voce-desenhista-ilustrador-e-cheio-de-imaginacao
- @Desperte o potencial @Marketing Pessoal @Intraempreendedorismo
+
+ "Desperte o potencial" "Marketing Pessoal" "Intraempreendedorismo"
 
 Dia 4 – JavaScript e laços de repetição
+
 https://web.digitalinnovation.one/articles/dia-4-javascript-e-lacos-de-repeticao
- @Programação para Internet @JavaScript @Arquitetura de Sistemas
+
+ "Programação para Internet" "JavaScript" "Arquitetura de Sistemas"
 
 Dia 3 – JAVASCRIPT: Variáveis
+
 https://web.digitalinnovation.one/articles/dia-3-javascript-variaveis
- @Programação para Internet @HTML @JavaScript
+
+ "Programação para Internet" "HTML" "JavaScript"
 
 Dia 2 - Do setup ao hello world em BASIC - MSX 1988
+
 https://web.digitalinnovation.one/articles/dia-2-do-setup-ao-hello-world-em-basic-msx-1988
- @Programação para Internet @Testes unitários @Arquitetura de Sistemas
+
+ "Programação para Internet" "Testes unitários" "Arquitetura de Sistemas"
 
 Dia 1 - 5 Dicas de como você pode organizar seus estudos
+
 https://web.digitalinnovation.one/articles/dia-1-5-dicas-de-como-voce-organiza-seus-estudos
- @Programação para Internet @Informática Básica @Produto Digital
+
+ "Programação para Internet" "Informática Básica" "Produto Digital"
 
 Coding Dojo
+
 https://web.digitalinnovation.one/articles/coding-dojo
- @Programação para Internet @Estrutura de dados @Lógica de Programação
+
+ "Programação para Internet" "Estrutura de dados" "Lógica de Programação"
 
 HTML Tricks: Como navegar em diretorios?
+
 https://web.digitalinnovation.one/articles/html-tricks-como-navegar-em-diretorios 
- @HTML @JavaScript @CSS
+
+ "HTML" "JavaScript" "CSS"
 
 Você sabe o que são bits bytes kilobytes?
+
 https://web.digitalinnovation.one/articles/voce-sabe-o-que-sao-bits-bytes-kilobytes
- @Programação para Internet @Arquitetura de Sistemas
+
+ "Programação para Internet" "Arquitetura de Sistemas"
 
 Dilema da Seringa em programação de sistemas
+
 https://web.digitalinnovation.one/articles/dilema-da-seringa-em-programacao-de-sistemas
- @Informática Básica @Arquitetura de Sistemas @Soft Skill
+
+ "Informática Básica" "Arquitetura de Sistemas" "Soft Skill"
 
 Deu ruim no levantamento de Requisitos: A Síndrome de Dr. Ivon SaF.
+
 https://web.digitalinnovation.one/articles/deu-ruim-no-levantamento-de-requisitos-a-sindrome-de-dr-ivon-saf
- @Logística @Produto Digital @Arquitetura de Sistemas
+
+ "Logística" "Produto Digital" "Arquitetura de Sistemas"
  
 
 ---
@@ -343,7 +494,7 @@ https://web.digitalinnovation.one/articles/deu-ruim-no-levantamento-de-requisito
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/ArtigosNaDio.png.png
+[product-screenshot]: Image/ArtigosNaDio.png.png
 
 
 
