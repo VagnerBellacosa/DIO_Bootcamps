@@ -16,6 +16,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 
 # Indice de Artigos 
 
+O fim da Big Blue gerou centenas de artigos, sera o Fim da IBM?
+
+https://web.digitalinnovation.one/articles/epoca-de-mudancas-no-mainframe-e-a-possivel-derrocada-da-big-blue-sera
+
+"Informática Básica" "Arquitetura de Sistemas" "Soft Skill"
+
 Fluxograma na pratica e pseudocódigo em linguagem natural
 
 https://web.digitalinnovation.one/articles/fluxograma-na-pratica-e-pseudocodigo-em-linguagem-natural
