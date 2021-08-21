@@ -52,7 +52,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-07-21
 :trophy: 2021-06-07
 ### https://web.digitalinnovation.one/track/gft-start-2-net
-- [Conteudo programatico](GFT_Start2DotNet.md)
+- [Conteudo programatico](GFT_Start2_DotNet.md)
 
 - :scroll: [Certificado](./Certificados/GFT_Star2_DotNet.md)
 
