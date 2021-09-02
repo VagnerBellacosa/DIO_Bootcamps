@@ -161,6 +161,13 @@ Surfando no estado da arte em Tecnologia da Informaçao
  
 - :scroll: [Certificado](./Certificados/everis_NewTalents2Java.md)
 
+## 2021-11-19 
+:trophy: 2021-09-01
+### https://web.digitalinnovation.one/track/everis-new-talents-2-net?tab=path
+- [Conteudo programatico](everis_NewTalents2DotNet.md)
+ 
+- :scroll: [Certificado](./Certificados/everis_NewTalents2DotNet.md)
+- 
 ---
 
 <!-- PROJECT LOGO -->
