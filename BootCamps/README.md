@@ -186,6 +186,10 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
 - [Conteudo programatico](LocalizaLabs_ReactDeveloper.md)
 
+## 2021-09-13
+### https://web.digitalinnovation.one/track/capgemini-fullstack-java-and-angular?tab=path
+- [Conteudo programatico](capgemini_FullstackJavaAngular.md)
+- 
 ## 2021-10-02
 ### https://web.digitalinnovation.one/track/decola-tech?tab=path
 - [Conteudo programatico](AvanadeDecolaTech.md)
