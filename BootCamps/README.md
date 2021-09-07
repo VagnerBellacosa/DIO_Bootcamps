@@ -165,18 +165,23 @@ Surfando no estado da arte em Tecnologia da Informaçao
 :trophy: 2021-09-01
 ### https://web.digitalinnovation.one/track/everis-new-talents-2-net?tab=path
 - [Conteudo programatico](everis_NewTalents2DotNet.md)
- 
+
 - :scroll: [Certificado](./Certificados/everis_NewTalents2DotNet.md)
-- 
+
+## 2021-09-09 
+:trophy: 2021-09-07
+### https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path
+- [Conteudo programatico](BancoCarrefour_DataEngineer.md)
+
+- :scroll: [Certificado](./Certificados/BancoCarrefour_DataEngineer.md)
+
 ---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
 
-## 2021-09-09 
-### https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path
-- [Conteudo programatico](BancoCarrefour_DataEngineer.md)
+
 
 ## 2021-09-11 
 ### https://web.digitalinnovation.one/track/mrv-front-end-spa-developer?tab=path
