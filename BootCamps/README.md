@@ -175,17 +175,18 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/BancoCarrefour_DataEngineer.md)
 
+## 2021-09-11 
+:trophy: 2021-09-09
+### https://web.digitalinnovation.one/track/mrv-front-end-spa-developer?tab=path
+- [Conteudo programatico](MRV_FrontEndSPADeveloper.md)
+
+- :scroll: [Certificado](./Certificados/MRV_FrontEndSPADeveloper.md)
+
 ---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
-
-
-
-## 2021-09-11 
-### https://web.digitalinnovation.one/track/mrv-front-end-spa-developer?tab=path
-- [Conteudo programatico](MRV_FrontEndSPADeveloper.md)
 
 ## 2021-09-13
 ### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
