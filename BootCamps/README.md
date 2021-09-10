@@ -182,6 +182,13 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/MRV_FrontEndSPADeveloper.md)
 
+## 2021-10-04 
+:trophy: 2021-09-10
+### https://web.digitalinnovation.one/track/decola-tech?tab=path
+- [Conteudo programatico](DecolaTech.md)
+
+- :scroll: [Certificado](./Certificados/DecolaTech.md)
+
 ---
 
 <!-- PROJECT LOGO -->
