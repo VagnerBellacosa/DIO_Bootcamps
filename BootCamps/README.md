@@ -236,7 +236,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - [Conteudo programatico](SPTech_DesenvolvimentoBackEnd.md)
 
 ## 2022-01-08
-### https://web.digitalinnovation.one/course/boas-vindas-ao-bootcamp-take-blip-fullstack-developer-2?tab=path
+### https://web.digitalinnovation.one/track/take-blip-fullstack-developer-2?tab=path
 - [Conteudo programatico](TakeBlip_FullstackDeveloper2.md)
  
 ---
