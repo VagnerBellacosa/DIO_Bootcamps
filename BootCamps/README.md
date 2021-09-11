@@ -219,6 +219,10 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path
 - [Conteudo programatico](Santander_FullstackDeveloper.Md)
 
+## 2021-10-27
+### https://web.digitalinnovation.one/track/gft-java-aws-developer?tab=path
+- [Conteudo programatico](GFT_JavaAwsDeveloper.Md)
+
 ## 2021-10-28
 ### https://web.digitalinnovation.one/track/capgemini-fullstack-java-and-angular?tab=path
 - [Conteudo programatico](CapgeminiFullstackJavaAndAngular.Md)
@@ -261,6 +265,4 @@ Surfando no estado da arte em Tecnologia da Informaçao
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
 [product-screenshot]: images/capa.png
-
-
 
