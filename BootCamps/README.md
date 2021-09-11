@@ -202,7 +202,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-09-13
 ### https://web.digitalinnovation.one/track/capgemini-fullstack-java-and-angular?tab=path
 - [Conteudo programatico](capgemini_FullstackJavaAngular.md)
-- 
+ 
 ## 2021-10-02
 ### https://web.digitalinnovation.one/track/decola-tech?tab=path
 - [Conteudo programatico](AvanadeDecolaTech.md)
@@ -235,6 +235,10 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-back-end?tab=path
 - [Conteudo programatico](SPTech_DesenvolvimentoBackEnd.md)
 
+## 2022-01-08
+### https://web.digitalinnovation.one/track/take-blip-fullstack-developer-2?tab=path
+- [Conteudo programatico](TakeBlip_FullstackDeveloper2.md)
+ 
 ---
 
 #### * DIO - Digital Inovation One *
