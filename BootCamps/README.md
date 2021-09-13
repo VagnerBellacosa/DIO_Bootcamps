@@ -239,6 +239,10 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-back-end?tab=path
 - [Conteudo programatico](SPTech_DesenvolvimentoBackEnd.md)
 
+## 2021-11-30
+### https://web.digitalinnovation.one/track/eduzz-fullstack-developer?tab=path
+- [Conteudo programatico](Eduzz_FullstackDeveloper.md)
+
 ## 2022-01-08
 ### https://web.digitalinnovation.one/track/take-blip-fullstack-developer-2?tab=path
 - [Conteudo programatico](TakeBlip_FullstackDeveloper2.md)
