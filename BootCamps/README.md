@@ -189,15 +189,17 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/DecolaTech.md)
 
+## 2021-09-10
+### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
+- [Conteudo programatico](LocalizaLabs_ReactDeveloper.md)
+
+- :scroll: [Certificado](./Certificados/LocalizaLabs_ReactDeveloper.md)
+
 ---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
-
-## 2021-09-13
-### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
-- [Conteudo programatico](LocalizaLabs_ReactDeveloper.md)
 
 ## 2021-09-13
 ### https://web.digitalinnovation.one/track/capgemini-fullstack-java-and-angular?tab=path
