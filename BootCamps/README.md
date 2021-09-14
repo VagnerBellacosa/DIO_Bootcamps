@@ -195,6 +195,12 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/LocalizaLabs_ReactDeveloper.md)
 
+## 2021-10-02
+### https://web.digitalinnovation.one/track/decola-tech?tab=path
+- [Conteudo programatico](AvanadeDecolaTech.md)
+
+- :scroll: [Certificado](./Certificados/AvanadeDecolaTech.md)
+
 ---
 
 <!-- PROJECT LOGO -->
@@ -205,10 +211,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.digitalinnovation.one/track/capgemini-fullstack-java-and-angular?tab=path
 - [Conteudo programatico](capgemini_FullstackJavaAngular.md)
  
-## 2021-10-02
-### https://web.digitalinnovation.one/track/decola-tech?tab=path
-- [Conteudo programatico](AvanadeDecolaTech.md)
-
 ## 2021-10-12
 ### https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path
 - [Conteudo programatico](Cognizant_CloudDataEngineer.Md)
