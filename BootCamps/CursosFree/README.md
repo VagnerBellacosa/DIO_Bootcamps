@@ -23,23 +23,7 @@ Fique a vontade para navegar, qualquer duvida chame aqui, no Discord, no Linkedi
 ## Index
 
 ### Meus Bootcamps
-[Meu repositorio](BootCamps/)  - **Bootcamps da Digital Innovation One** que estou matriculado e os concluidos
-
-### Aceleraçao
-[Aceleraçoes](BootCamps/Aceleracao)  - DIO Aceleraçao
-### Manuais
-[Manuais praticos](BootCamps/Manuais)  - Manuais de apoio fornecidos pela DIO Aceleraçao
-### Stick man Gif animado
-[Animacao Stickman](BootCamps/Animacao)  - Animacao em GIF do Stick Man resiliente
-### Partilha de conhecimentos em Artigos DIO
-[Artigos publicados na DIO](BootCamps/ArtigosDIO)  - Repositorio dos artigos que venho publicando na comunidade DIO
-### Curiosidade: Bootcamps extintos
-[Bootcamps Extintos DIO](BootCamps/BootcampsEncerrados)  - Velhos Bootcamps, pioneiros que iniciaram os primeiros alunos da DIO
-### Cursos 
-[Cursos livres](BootCamps/CursosFree)  - Diversos cursos livres disponibilizados 
-### Diplomas e certificados 
-[Certificados de conclusao do Bootcamp](BootCamps/Certificados)  - Diretorio com os certificados em formato pdf e png dos Bootcamps concluidos na DIO
-
+[Lista de Cursos](CursoDio2021Set17.Md)  - **Cursos da Digital Innovation One** livres
 
 
 ---
