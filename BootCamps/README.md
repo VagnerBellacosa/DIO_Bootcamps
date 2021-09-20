@@ -190,31 +190,32 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - :scroll: [Certificado](./Certificados/DecolaTech.md)
 
 ## 2021-09-10
+:trophy: 2021-09-10
 ### https://web.digitalinnovation.one/track/localizalabs-react-developer?tab=path
 - [Conteudo programatico](LocalizaLabs_ReactDeveloper.md)
 
 - :scroll: [Certificado](./Certificados/LocalizaLabs_ReactDeveloper.md)
 
 ## 2021-10-02
+:trophy: 2021-09-10
 ### https://web.digitalinnovation.one/track/decola-tech?tab=path
 - [Conteudo programatico](AvanadeDecolaTech.md)
 
 - :scroll: [Certificado](./Certificados/AvanadeDecolaTech.md)
+
+## 2021-10-12
+:trophy: 2021-09-19
+### https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path
+- [Conteudo programatico](Cognizant_CloudDataEngineer.Md)
+
+- :scroll: [Certificado](./Certificados/Cognizant_CloudDataEngineer.md)
 
 ---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
-
-## 2021-09-13
-### https://web.digitalinnovation.one/track/capgemini-fullstack-java-and-angular?tab=path
-- [Conteudo programatico](capgemini_FullstackJavaAngular.md)
  
-## 2021-10-12
-### https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path
-- [Conteudo programatico](Cognizant_CloudDataEngineer.Md)
-
 ## 2021-10-14
 ### https://web.digitalinnovation.one/track/inter-android-developer?tab=path
 - [Conteudo programatico](Inter_AndroidDeveloper.Md)
