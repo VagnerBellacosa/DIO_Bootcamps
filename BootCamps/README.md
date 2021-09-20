@@ -210,15 +210,20 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/Cognizant_CloudDataEngineer.md)
 
+## 2021-10-14
+:trophy: 2021-09-20
+### https://web.digitalinnovation.one/track/inter-android-developer?tab=path
+- [Conteudo programatico](Inter_AndroidDeveloper.Md)
+
+- :scroll: [Certificado](./Certificados/Inter_AndroidDeveloper.md)
+
+
 ---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
-## 2021-10-14
-### https://web.digitalinnovation.one/track/inter-android-developer?tab=path
-- [Conteudo programatico](Inter_AndroidDeveloper.Md)
 
 ## 2021-10-24
 ### https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path
