@@ -16,6 +16,45 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 
 # Indice de Artigos 
 
+
+https://web.digitalinnovation.one/articles/responda-rapido-o-que-e-computacao-e-computadores?back=/articles
+
+https://web.digitalinnovation.one/articles/som-na-caixa-javascript-gruppen-atividade-009?back=/articles
+
+https://web.digitalinnovation.one/articles/javascript-gruppen-atividade-008-mao-na-massa?back=/articles
+
+https://web.digitalinnovation.one/articles/os-misterios-da-cli-computacao-no-seculo-xxi?back=/articles
+
+https://web.digitalinnovation.one/articles/bisbilhotando-as-bases-de-dados-no-mainframe?back=/articles
+
+https://web.digitalinnovation.one/articles/qual-o-nome-do-diagrama-usado-em-fluxos-e-processos?back=/articles
+
+https://web.digitalinnovation.one/articles/o-que-e-e-para-que-serve-a-extensao-de-arquivos?back=/articles
+
+https://web.digitalinnovation.one/articles/desenvolva-habilidades-gratuitamente-no-microsoft-azure-virtual-training-day-modernize-net-apps?back=/articles
+
+https://web.digitalinnovation.one/articles/divulgacao-de-parcas-ajude-nos-a-fazer-nossa-rede-crescer?back=/articles
+
+https://web.digitalinnovation.one/articles/aprenda-a-fazer-processos-batch-em-ms-dos?back=/articles
+
+https://web.digitalinnovation.one/articles/vida-ou-morte-conheca-o-system-integration-testing?back=/articles
+
+https://web.digitalinnovation.one/articles/conheca-mainframe-no-ibm-z-day?back=/articles
+
+https://web.digitalinnovation.one/articles/aprenda-ms-dos-e-seus-scripts-bat-no-windows?back=/articles
+
+https://web.digitalinnovation.one/articles/algoritmos-para-classificacao-de-listas-e-arrays?back=/articles
+
+https://web.digitalinnovation.one/articles/10-segredos-da-longevidade-do-cobol?back=/articles
+
+https://web.digitalinnovation.one/articles/a-forca-de-um-gruppen-torne-se-um-lider-evoluindo-suas-equipes?back=/articles
+
+https://web.digitalinnovation.one/articles/ajude-o-tiozao-afinal-o-que-e-um-developer-advocate?back=/articles
+
+https://web.digitalinnovation.one/articles/rumo-1000000-devs-sua-ajuda-e-fundamental?back=/articles
+
+https://web.digitalinnovation.one/articles/cobol-para-padawans-uma-rapida-olhadela?back=/articles
+
 :rocket: O fim da Big Blue gerou centenas de artigos, sera o Fim da IBM?
 
 https://web.digitalinnovation.one/articles/epoca-de-mudancas-no-mainframe-e-a-possivel-derrocada-da-big-blue-sera
