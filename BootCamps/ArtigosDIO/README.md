@@ -282,14 +282,14 @@ https://web.digitalinnovation.one/articles/como-nomear-variaveis-num-programa
 
 :rocket: Leilão Reverso e mas praticas na seleção de RH
 
-https://web.digitalinnovation.one/articles/como-nomear-variaveis-num-programa
+https://web.digitalinnovation.one/articles/leilao-reverso-e-mas-praticas-na-selecao-de-rh
 
  "Marketing Pessoal" "Liderança de Equipe" "Soft Skill"
 
 
 :rocket: Estilo CamelCase PascalCase nomeando direitinho.
 
-https://web.digitalinnovation.one/articles/como-nomear-variaveis-num-programa
+https://web.digitalinnovation.one/articles/estilo-camelcase-pascalcase-nomeando-direitinho
 
  "Programação para Internet" "Informática Básica" "Boas práticas"
 
@@ -708,6 +708,3 @@ https://web.digitalinnovation.one/articles/deu-ruim-no-levantamento-de-requisito
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
 [product-screenshot]: Image/ArtigosNaDio.png.png
-
-
-
