@@ -16,6 +16,13 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 
 # Indice de Artigos 
 
+:rocket: Poderosa tecnica para salvar seu emprego. Use e abuse dos Testes Unitarios
+
+https://web.digitalinnovation.one/articles/poderosa-tecnica-para-salvar-seu-emprego-testes-unitarios?back=%2Farticles
+
+"Testes unitários" "Boas práticas" "QA"
+
+
 :rocket: Responda rapido o que é computaçao e computadores
 
 https://web.digitalinnovation.one/articles/responda-rapido-o-que-e-computacao-e-computadores?back=/articles
