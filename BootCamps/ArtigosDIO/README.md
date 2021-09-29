@@ -16,6 +16,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 
 # Indice de Artigos 
 
+:rocket: Javascript : Testes condicionais, Arrow Functions e Operadores condicionais
+
+https://web.digitalinnovation.one/articles/javascript-testes-condicionais-arrow-functions-e-operadores-condicionais
+
+"Programação para Internet" "JavaScript" "Boas práticas"
+
 :rocket: Poderosa tecnica para salvar seu emprego. Use e abuse dos Testes Unitarios
 
 https://web.digitalinnovation.one/articles/poderosa-tecnica-para-salvar-seu-emprego-testes-unitarios?back=%2Farticles
