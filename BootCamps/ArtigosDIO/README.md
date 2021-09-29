@@ -608,6 +608,8 @@ https://web.digitalinnovation.one/articles/following-e-sua-importancia-na-comuni
 
  "Marketing Pessoal"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: Dia 6 – Uma conversa sobre JavaScript
 
@@ -615,6 +617,8 @@ https://web.digitalinnovation.one/articles/dia-6-uma-conversa-sobre-javascript
 
  "Programação para Internet" "JavaScript" "UI/UX"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: V8 a engine do Chrome: Turbinando seu Javascript
 
@@ -622,6 +626,8 @@ https://web.digitalinnovation.one/articles/v8-a-engine-do-chrome-turbinando-seu-
 
  "Programação para Internet" "JavaScript" "Arquitetura de Sistemas"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: Dia 5 – Explorando além do JS, mas dentro do JS: conheça o NODE.JS
 
@@ -629,6 +635,8 @@ https://web.digitalinnovation.one/articles/dia-5-explorando-alem-do-js-mas-dentr
 
  "Informática Básica" "JavaScript" "Node.js"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: Preciso de você!!! Desenhista, ilustrador, alguém cheio de imaginação
 
@@ -636,6 +644,8 @@ https://web.digitalinnovation.one/articles/preciso-de-voce-desenhista-ilustrador
 
  "Desperte o potencial" "Marketing Pessoal" "Intraempreendedorismo"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: Dia 4 – JavaScript e laços de repetição
 
@@ -643,6 +653,8 @@ https://web.digitalinnovation.one/articles/dia-4-javascript-e-lacos-de-repeticao
 
  "Programação para Internet" "JavaScript" "Arquitetura de Sistemas"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: Dia 3 – JAVASCRIPT: Variáveis
 
@@ -650,6 +662,8 @@ https://web.digitalinnovation.one/articles/dia-3-javascript-variaveis
 
  "Programação para Internet" "HTML" "JavaScript"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: Dia 2 - Do setup ao hello world em BASIC - MSX 1988
 
@@ -657,6 +671,8 @@ https://web.digitalinnovation.one/articles/dia-2-do-setup-ao-hello-world-em-basi
 
  "Programação para Internet" "Testes unitários" "Arquitetura de Sistemas"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: Dia 1 - 5 Dicas de como você pode organizar seus estudos
 
@@ -664,6 +680,8 @@ https://web.digitalinnovation.one/articles/dia-1-5-dicas-de-como-voce-organiza-s
 
  "Programação para Internet" "Informática Básica" "Produto Digital"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: Coding Dojo
 
@@ -671,12 +689,17 @@ https://web.digitalinnovation.one/articles/coding-dojo
 
  "Programação para Internet" "Estrutura de dados" "Lógica de Programação"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
+
 :rocket: HTML Tricks: Como navegar em diretorios?
 
 https://web.digitalinnovation.one/articles/html-tricks-como-navegar-em-diretorios 
 
  "HTML" "JavaScript" "CSS"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: Você sabe o que são bits bytes kilobytes?
 
@@ -684,6 +707,8 @@ https://web.digitalinnovation.one/articles/voce-sabe-o-que-sao-bits-bytes-kiloby
 
  "Programação para Internet" "Arquitetura de Sistemas"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
 
 :rocket: Dilema da Seringa em programação de sistemas
 
@@ -691,13 +716,19 @@ https://web.digitalinnovation.one/articles/dilema-da-seringa-em-programacao-de-s
 
  "Informática Básica" "Arquitetura de Sistemas" "Soft Skill"
 
+| --- | --- |
+| Republicado | :white_check_mark: |
+
 
 :rocket: Deu ruim no levantamento de Requisitos: A Síndrome de Dr. Ivon SaF.
 
 https://web.digitalinnovation.one/articles/deu-ruim-no-levantamento-de-requisitos-a-sindrome-de-dr-ivon-saf
 
  "Logística" "Produto Digital" "Arquitetura de Sistemas"
- 
+
+| --- | --- |
+| Republicado | :white_check_mark: |
+
 
 ---
 
