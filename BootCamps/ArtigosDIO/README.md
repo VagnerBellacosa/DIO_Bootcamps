@@ -16,6 +16,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 
 # Indice de Artigos 
 
+:rocket: Dia 19 Vencendo a procrastinaçao e derrotando a inercia
+
+https://web.digitalinnovation.one/articles/dia-19-vencendo-a-procrastinacao-e-derrotando-a-inercia
+
+"Marketing Pessoal" "Marketing Digital" "Soft Skill"
+
 :rocket: Javascript : Testes condicionais, Arrow Functions e Operadores condicionais
 
 https://web.digitalinnovation.one/articles/javascript-testes-condicionais-arrow-functions-e-operadores-condicionais
