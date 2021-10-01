@@ -12,8 +12,8 @@
 <!-- PROJECT LOGO -->
 ![Certificado](images/GFT_JavaAwsDeveloper.png "GFT : Java Aws Developer")
 
-## 2021-07-21
-:trophy: 2021-06-07
+## 2021-10-27
+:trophy: 2021-10-01
 ### https://web.digitalinnovation.one/track/gft-java-aws-developer
 - [Conteudo programatico](../GFT_JavaAwsDeveloper.md)
 
