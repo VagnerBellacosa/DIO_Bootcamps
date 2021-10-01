@@ -218,17 +218,19 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - :scroll: [Certificado](./Certificados/Inter_AndroidDeveloper.md)
 
 
+## 2021-10-24
+:trophy: 2021-10-01
+### https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path
+- [Conteudo programatico](Santander_FullstackDeveloper.Md)
+
+- :scroll: [Certificado](./Certificados/Santander_FullstackDeveloper.Md)
+
 ---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
-
-## 2021-10-24
-### https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path
-- [Conteudo programatico](Santander_FullstackDeveloper.Md)
-
 ## 2021-10-27
 ### https://web.digitalinnovation.one/track/gft-java-aws-developer?tab=path
 - [Conteudo programatico](GFT_JavaAwsDeveloper.Md)
