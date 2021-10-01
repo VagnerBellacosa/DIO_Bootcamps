@@ -8,31 +8,31 @@ Para você que deseja desenvolver aplicações back-end de alto nível utilizand
 
 [Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/santander-fullstack-developer?tab=path)
 
-| Santander Bootcamp | Fullstack Developer      |
+| Santander Bootcamp : Fullstack Developer      |
 |-------------------------------------|
-| 1. Boas-vindas ao Bootcamp Santander Fullstack Developer | 
-| 2. Bem-vindo à DIO | 
-| 3. Lógica de programação essencial | 
-| 4. Introdução ao Git e ao GitHub | 
-| 5. Conceitos e melhores práticas com bancos de dados PostgreSQL | 
-| 6. Desenvolvimento básico em Java | 
-| 7. Desenvolvimento avançado em Java | 
-| 8. Aprenda o que são Estrutura de Dados e Algoritmos | 
-| 9. Implementando Collections e Streams com Java | 
-| 10. Resolvendo Desafios de Código em Java | 
-| 11. Primeiros passos em Java | 
-| 12. Trabalhando com Banco de Dados utilizando JDBC e JPA | 
-| 13. Introdução ao framework Spring Boot | 
-| 14. Construindo um sistema de controle de ponto e acesso com Spring Boot | 
-| 15. Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot | 
-| 16. Construindo um projeto com arquitetura baseada em microsserviços usando Spring Cloud | 
-| 17. Desafios numéricos em Java | 
-| 18. Introdução a criação de websites com HTML5 e CSS3 | 
-| 19. Introdução ao Angular 8 | 
-| 20. Técnicas avançadas em Angular 8 | 
-| 21. Aplicações avançadas com Angular | 
-| 22. Solucionando Desafios em Java | 
-| 23. Crie seu gerenciador de salas de reuniões com Java e Angular | 
+| 1. Boas-vindas ao Bootcamp Santander Fullstack Developer |
+| 2. Bem-vindo à DIO |
+| 3. Lógica de programação essencial |
+| 4. Introdução ao Git e ao GitHub |
+| 5. Conceitos e melhores práticas com bancos de dados PostgreSQL |
+| 6. Desenvolvimento básico em Java |
+| 7. Desenvolvimento avançado em Java |
+| 8. Aprenda o que são Estrutura de Dados e Algoritmos |
+| 9. Implementando Collections e Streams com Java |
+| 10. Resolvendo Desafios de Código em Java |
+| 11. Primeiros passos em Java |
+| 12. Trabalhando com Banco de Dados utilizando JDBC e JPA |
+| 13. Introdução ao framework Spring Boot |
+| 14. Construindo um sistema de controle de ponto e acesso com Spring Boot |
+| 15. Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot |
+| 16. Construindo um projeto com arquitetura baseada em microsserviços usando Spring Cloud |
+| 17. Desafios numéricos em Java |
+| 18. Introdução a criação de websites com HTML5 e CSS3 |
+| 19. Introdução ao Angular 8 |
+| 20. Técnicas avançadas em Angular 8 |
+| 21. Aplicações avançadas com Angular |
+| 22. Solucionando Desafios em Java |
+| 23. Crie seu gerenciador de salas de reuniões com Java e Angular |
 
 https://hermes.digitalinnovation.one/courses/badge/1bc691b4-fb46-4561-a302-d55fb94fe297.png
 ####  1. Boas-vindas ao Bootcamp Santander Fullstack Developer
