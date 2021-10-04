@@ -294,6 +294,11 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 - [Conteudo programatico](SPTech_DesenvolvimentoBackEnd.md)
 <br>
 
+## 2021-11-29
+### https://web.digitalinnovation.one/track/tqi-java-developer?tab=path#
+- [Conteudo programatico](TQI_JavaDeveloper.md)
+<br>
+
 ## 2021-11-30
 ### https://web.digitalinnovation.one/track/eduzz-fullstack-developer?tab=path
 - [Conteudo programatico](Eduzz_FullstackDeveloper.md)
