@@ -16,6 +16,18 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 
 # Indice de Artigos 
 
+:rocket: Dia 20 : Espionando o Javascript, saiba sobre o Async e Await
+
+https://web.digitalinnovation.one/articles/dia-20-espionando-o-javascript-saiba-sobre-o-async-e-await?back=%2Farticles&page=1&order=oldest
+
+"Informática Básica" "JavaScript" "Boas práticas"
+
+:rocket: Frutos da Aceleraçao GFT QA: falando sobre erros
+
+https://web.digitalinnovation.one/articles/frutos-da-aceleracao-gft-qa-falando-sobre-erros?
+
+"Testes unitários" "Boas práticas" "QA"
+
 :rocket: Dia 19 Vencendo a procrastinaçao e derrotando a inercia
 
 https://web.digitalinnovation.one/articles/dia-19-vencendo-a-procrastinacao-e-derrotando-a-inercia
