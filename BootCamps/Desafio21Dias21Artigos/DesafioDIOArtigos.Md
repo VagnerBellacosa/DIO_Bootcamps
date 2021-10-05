@@ -1,3 +1,5 @@
+![Desafio Dio](C:\Workspace\DIO_Bootcamps\BootCamps\Desafio21Dias21Artigos\Image\Desafio21Dias21Artigos.png)
+
 # DIO - Digital Innovation One
 
 ## Dio Bootcamp
@@ -32,7 +34,17 @@ Os pontos são creditados após uma hora da publicação do artigo e deve ter no
 ## 🦾 Dicas de como melhorar a qualidade dos seus artigos
 
 - Escreva títulos chamativos e de possível especifique a sua linguagem favorita nele`(ex: Aprendendo sobre variáveis em Kotlin)`
+
 - Para melhorar a qualidade dos seus artigos, escreva artigos com no mínimo 400 palavras
+
 - Compartilhe seu artigo no Linkedin com a #Desafio21DiasNaDIO e marque a página da Digital innovation one
+
+  
+
+---
+
+
+
+[TOC]
 
 [Artigo original](https://www.notion.so/Desafio-DIO-21-dias-de-artigos-para-come-ar-a-criar-sua-marca-pessoal-9bb7c0b2b7bc4facb43ae875cba400cd)
