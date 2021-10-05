@@ -1,4 +1,4 @@
-![Desafio Dio](C:\Workspace\DIO_Bootcamps\BootCamps\Desafio21Dias21Artigos\Image\Desafio21Dias21Artigos.png)
+![Desafio Dio](Image/Desafio21Dias21Artigos.png)
 
 # DIO - Digital Innovation One
 
