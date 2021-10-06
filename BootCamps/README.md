@@ -259,6 +259,16 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - :scroll: [Certificado](./Certificados/GFT_JavaAwsDeveloper.Md)
 <br>
 
+## 2021-11-23
+:trophy: 2021-10-06
+### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-back-end?tab=path
+- [Conteudo programatico](SPTech_DesenvolvimentoBackEnd.md)
+
+- :scroll: [Certificado](./Certificados/SPTech_DesenvolvimentoBackEnd.md)
+
+
+<br>
+
 ---
 
 <!-- PROJECT LOGO -->
@@ -292,11 +302,6 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 ## 2021-11-21
 ### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-fullstack
 - [Conteudo programatico](SPTech_DesenvolvimentoFullStack.md)
-<br>
-
-## 2021-11-23
-### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-back-end?tab=path
-- [Conteudo programatico](SPTech_DesenvolvimentoBackEnd.md)
 <br>
 
 ## 2021-11-29
