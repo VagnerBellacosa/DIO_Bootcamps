@@ -16,6 +16,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 
 # Indice de Artigos 
 
+:rocket: Pontos de Função: um pouco sobre métricas. Parte I
+
+https://web.digitalinnovation.one/articles/pontos-de-funcao-um-pouco-sobre-metricas-parte-i
+
+"Lógica de Programação" "Boas práticas" "Arquitetura de Sistemas"
+
 :rocket: Dia 20 : Espionando o Javascript, saiba sobre o Async e Await
 
 https://web.digitalinnovation.one/articles/dia-20-espionando-o-javascript-saiba-sobre-o-async-e-await?back=%2Farticles&page=1&order=oldest
