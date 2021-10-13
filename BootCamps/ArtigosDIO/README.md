@@ -16,6 +16,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 
 # Indice de Artigos 
 
+:rocket: Vencendo o Desafio 21 dias 21 artigos.
+
+https://web.digitalinnovation.one/articles/vencendo-o-desafio-21-dias-21-artigos
+
+"Marketing Pessoal" "Marketing Digital" "Soft Skill"
+
 :rocket: Dia 21: Minha incrível aventura nos Desafios da DIO
 
 https://web.digitalinnovation.one/articles/dia-21-minha-incrivel-aventura-nos-desafios-da-dio
