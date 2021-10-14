@@ -299,6 +299,11 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 - [Conteudo programatico](Impulso_ReactWebDeveloper.Md)
 <br>
 
+## 2021-11-19
+### https://web.digitalinnovation.one/track/everis-new-talents-3-net?
+- [Conteudo programatico](Everis_NewTalents3Net.Md)
+<br>
+
 ## 2021-11-21
 ### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-fullstack
 - [Conteudo programatico](SPTech_DesenvolvimentoFullStack.md)
