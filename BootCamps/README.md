@@ -265,8 +265,14 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - [Conteudo programatico](SPTech_DesenvolvimentoBackEnd.md)
 
 - :scroll: [Certificado](./Certificados/SPTech_DesenvolvimentoBackEnd.md)
+<br>
 
+## 2021-10-28
+:trophy: 2021-10-16
+### https://web.digitalinnovation.one/track/capgemini-fullstack-java-and-angular?tab=path
+- [Conteudo programatico](CapgeminiFullstackJavaAndAngular.Md)
 
+- :scroll: [Certificado](./Certificados/CapgeminiFullstackJavaAndAngular.Md)
 <br>
 
 ---
@@ -275,11 +281,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
-## 2021-10-28
-### https://web.digitalinnovation.one/track/capgemini-fullstack-java-and-angular?tab=path
-- [Conteudo programatico](CapgeminiFullstackJavaAndAngular.Md)
-<br>
-
 ## 2021-10-28
 ### https://web.digitalinnovation.one/track/carrefour-android-developer-1?tab=path
 - [Conteudo programatico](CarrefourAndroidDeveloper.Md)
