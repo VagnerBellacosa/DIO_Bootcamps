@@ -275,17 +275,20 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - :scroll: [Certificado](./Certificados/CapgeminiFullstackJavaAndAngular.Md)
 <br>
 
+## 2021-10-28
+:trophy: 2021-10-16
+### https://web.digitalinnovation.one/track/carrefour-android-developer-1?tab=path
+- [Conteudo programatico](CarrefourAndroidDeveloper.Md)
+
+- :scroll: [Certificado](./Certificados/CarrefourAndroidDeveloper.Md)
+<br>
+
 ---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
-## 2021-10-28
-### https://web.digitalinnovation.one/track/carrefour-android-developer-1?tab=path
-- [Conteudo programatico](CarrefourAndroidDeveloper.Md)
-<br>
-
 ## 2021-10-31
 https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 - [Conteudo programatico](everis_NewTalents3_Java.Md)
