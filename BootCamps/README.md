@@ -283,6 +283,14 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - :scroll: [Certificado](./Certificados/CarrefourAndroidDeveloper.Md)
 <br>
 
+## 2021-11-05
+:trophy: 2021-10-23
+### https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-3?tab=path
+- [Conteudo programatico](Everis_QualityAssuranceBeginner3.Md)
+
+- :scroll: [Certificado](./Certificados/Everis_QualityAssuranceBeginner3.Md)
+- <br>
+
 ---
 
 <!-- PROJECT LOGO -->
@@ -292,11 +300,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-10-31
 https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 - [Conteudo programatico](everis_NewTalents3_Java.Md)
-
-## 2021-11-05
-### https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-3?tab=path
-- [Conteudo programatico](Everis_QualityAssuranceBeginner3.Md)
-<br>
 
 ## 2021-11-11
 ### https://web.digitalinnovation.one/track/impulso-react-web-developer?tab=path
