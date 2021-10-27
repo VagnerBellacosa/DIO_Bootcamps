@@ -16,6 +16,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 
 # Indice de Artigos 
 
+:rocket: 30° Level pela primeira vez na DIO
+
+https://web.digitalinnovation.one/articles/30-level-pela-primeira-vez-na-dio?back=/articles
+
+"Marketing Pessoal" "Marketing Digital" "Soft Skill"
+
 :rocket: Vencendo o Desafio 21 dias 21 artigos.
 
 https://web.digitalinnovation.one/articles/vencendo-o-desafio-21-dias-21-artigos
