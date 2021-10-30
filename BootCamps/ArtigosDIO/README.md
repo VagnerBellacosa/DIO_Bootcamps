@@ -14,7 +14,19 @@
 
 Indice de artigos publicados no Forum da Comunidade da Digital Innovation One. 
 
-# Indice de Artigos 
+# Indice de Artigos  <br><br>
+
+:rocket:O que é um Diagrama de Fluxo de Dados.
+
+https://web.digitalinnovation.one/articles/o-que-e-um-diagrama-de-fluxo-de-dados
+
+"Informática Básica" "Banco de dados relacional" "Banco de dados não relacional"
+
+:rocket: 30° Level pela primeira vez na DIO
+
+https://web.digitalinnovation.one/articles/30-level-pela-primeira-vez-na-dio
+
+"Marketing Pessoal" "Marketing Digital" "Soft Skill"
 
 :rocket: Vencendo o Desafio 21 dias 21 artigos.
 
