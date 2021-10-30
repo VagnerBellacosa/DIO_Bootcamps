@@ -8,7 +8,7 @@ Aqui você aprenderá a desenvolver plataformas web utilizando a linguagem PHP e
 
 [Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-back-end?tab=path)
 
-| SPTech Desenvolvimento Back-end                  | 
+| SPTech Desenvolvimento Back-end     | 
 |-------------------------------------|
 | 1. Bem-vindo à DIO | 
 | 2. Lógica de Programação Essencial | 
