@@ -289,7 +289,15 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - [Conteudo programatico](Everis_QualityAssuranceBeginner3.Md)
 
 - :scroll: [Certificado](./Certificados/Everis_QualityAssuranceBeginner3.Md)
-- <br>
+<br>
+
+## 2021-11-21
+:trophy: 2021-10-30
+### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-fullstack
+- [Conteudo programatico](SPTech_DesenvolvimentoFullStack.md)
+
+- :scroll: [Certificado](./Certificados/Everis_QualitySPTech_DesenvolvimentoFullStack.md)
+<br>
 
 ---
 
@@ -309,11 +317,6 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 ## 2021-11-19
 ### https://web.digitalinnovation.one/track/everis-new-talents-3-net?
 - [Conteudo programatico](Everis_NewTalents3Net.Md)
-<br>
-
-## 2021-11-21
-### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-fullstack
-- [Conteudo programatico](SPTech_DesenvolvimentoFullStack.md)
 <br>
 
 ## 2021-11-29
