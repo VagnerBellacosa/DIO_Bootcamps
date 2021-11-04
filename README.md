@@ -23,7 +23,7 @@ Fique a vontade para navegar, qualquer duvida chame aqui, no Discord, no Linkedi
 
 ### Meus Bootcamps
 
-![Bootcamp Logo](C:\Workspace\DIO_Bootcamps\Images\bootcamp_logo.png) [Meu repositorio](BootCamps/)  - **Bootcamps da Digital Innovation One** que estou matriculado e os concluidos
+![Bootcamp Logo](BootCamps/Images/bootcamp_logo.png "Logo") [Meu repositorio](BootCamps/)  - **Bootcamps da Digital Innovation One** que estou matriculado e os concluidos
 
 ### Aceleraçao
 [Aceleraçoes](BootCamps/Aceleracao)  - DIO Aceleraçao
