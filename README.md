@@ -7,7 +7,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
 <!-- PROJECT LOGO -->
 ![Bootcamps na Digital Innovation One](BootCamps/Images/capa.png "Bootcamps")
 
@@ -23,12 +22,14 @@ Fique a vontade para navegar, qualquer duvida chame aqui, no Discord, no Linkedi
 ## Index
 
 ### Meus Bootcamps
-[Meu repositorio](BootCamps/)  - **Bootcamps da Digital Innovation One** que estou matriculado e os concluidos
+
+![Bootcamp Logo](C:\Workspace\DIO_Bootcamps\Images\bootcamp_logo.png) [Meu repositorio](BootCamps/)  - **Bootcamps da Digital Innovation One** que estou matriculado e os concluidos
 
 ### Aceleraçao
 [Aceleraçoes](BootCamps/Aceleracao)  - DIO Aceleraçao
 ### Manuais
 [Manuais praticos](BootCamps/Manuais)  - Manuais de apoio fornecidos pela DIO Aceleraçao
+
 ### Stick man Gif animado
 [Animacao Stickman](BootCamps/Animacao)  - Animacao em GIF do Stick Man resiliente
 ### Partilha de conhecimentos em Artigos DIO
