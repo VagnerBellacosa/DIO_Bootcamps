@@ -337,6 +337,11 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 - [Conteudo programatico](TakeBlip_FullstackDeveloper2.md)
  <br>
  
+## 2022-03-08
+### https://web.dio.me/track/spread-java-developer?tab=path
+- [Conteudo programatico](Spread_JjavaDeveloper.md)
+ <br>
+ 
 ---
 
 #### * DIO - Digital Inovation One *
