@@ -16,6 +16,13 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.
 
 # Indice de Artigos  <br><br>
 
+:rocket: Descubra o que é a Crise do Software.
+
+https://web.digitalinnovation.one/articles/descubra-o-que-e-a-crise-do-software
+
+"Marketing Pessoal"  "Informática Básica"  "Arquitetura de Sistemas"
+
+
 :rocket: HelloWorld : Projeto Portugal #RoadToPortugal - Projeto VolksWagen B11
 
 https://web.digitalinnovation.one/articles/helloworld-projeto-portugal?
