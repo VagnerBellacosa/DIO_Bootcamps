@@ -8,805 +8,805 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-![Artigos na Digital Innovation One](Image/ArtigosNaDio.png "Artigos")
+![Artigos na Digital Innovation One](Image/ArtigosNaDio.png "Artigos") <br> <br>
 
-# DIO - Digital Innovation One : Artigos
+# DIO - Digital Innovation One : Artigos <br> <br>
 
-Indice de artigos publicados no Forum da Comunidade da Digital Innovation One. 
+Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  <br>
 
 # Indice de Artigos  <br><br>
 
-:rocket: Descubra o que é a Crise do Software.
+:rocket: Descubra o que é a Crise do Software.  <br>
 
-https://web.digitalinnovation.one/articles/descubra-o-que-e-a-crise-do-software
+https://web.digitalinnovation.one/articles/descubra-o-que-e-a-crise-do-software<br> 
 
-"Marketing Pessoal"  "Informática Básica"  "Arquitetura de Sistemas"
+"Marketing Pessoal"  "Informática Básica"  "Arquitetura de Sistemas" <br>
 
 
-:rocket: HelloWorld : Projeto Portugal #RoadToPortugal - Projeto VolksWagen B11
+:rocket: HelloWorld : Projeto Portugal #RoadToPortugal - Projeto VolksWagen B11  <br>
 
-https://web.digitalinnovation.one/articles/helloworld-projeto-portugal?
+https://web.digitalinnovation.one/articles/helloworld-projeto-portugal? <br>
 
-"Marketing Pessoal"  "Informática Básica" "Marketing Digital"
+"Marketing Pessoal"  "Informática Básica" "Marketing Digital" <br>
 
-:rocket:O que é um Diagrama de Fluxo de Dados.
+:rocket:O que é um Diagrama de Fluxo de Dados. <br>
 
-https://web.digitalinnovation.one/articles/o-que-e-um-diagrama-de-fluxo-de-dados
+https://web.digitalinnovation.one/articles/o-que-e-um-diagrama-de-fluxo-de-dados <br>
 
-"Informática Básica" "Banco de dados relacional" "Banco de dados não relacional"
+"Informática Básica" "Banco de dados relacional" "Banco de dados não relacional" <br>
 
-:rocket: 30° Level pela primeira vez na DIO
+:rocket: 30° Level pela primeira vez na DIO <br>
 
-https://web.digitalinnovation.one/articles/30-level-pela-primeira-vez-na-dio
+https://web.digitalinnovation.one/articles/30-level-pela-primeira-vez-na-dio <br>
 
-"Marketing Pessoal" "Marketing Digital" "Soft Skill"
+"Marketing Pessoal" "Marketing Digital" "Soft Skill" <br>
 
-:rocket: Vencendo o Desafio 21 dias 21 artigos.
+:rocket: Vencendo o Desafio 21 dias 21 artigos. <br>
 
-https://web.digitalinnovation.one/articles/vencendo-o-desafio-21-dias-21-artigos
+https://web.digitalinnovation.one/articles/vencendo-o-desafio-21-dias-21-artigos <br>
 
-"Marketing Pessoal" "Marketing Digital" "Soft Skill"
+"Marketing Pessoal" "Marketing Digital" "Soft Skill" <br>
 
-:rocket: Dia 21: Minha incrível aventura nos Desafios da DIO
+:rocket: Dia 21: Minha incrível aventura nos Desafios da DIO <br>
 
-https://web.digitalinnovation.one/articles/dia-21-minha-incrivel-aventura-nos-desafios-da-dio
+https://web.digitalinnovation.one/articles/dia-21-minha-incrivel-aventura-nos-desafios-da-dio <br>
 
-"Marketing Pessoal" "Marketing Digital" "Soft Skill"
+"Marketing Pessoal" "Marketing Digital" "Soft Skill" <br>
 
-:rocket: Pontos de Função: um pouco sobre métricas. Parte I
+:rocket: Pontos de Função: um pouco sobre métricas. Parte I <br>
 
-https://web.digitalinnovation.one/articles/pontos-de-funcao-um-pouco-sobre-metricas-parte-i
+https://web.digitalinnovation.one/articles/pontos-de-funcao-um-pouco-sobre-metricas-parte-i <br>
 
-"Lógica de Programação" "Boas práticas" "Arquitetura de Sistemas"
+"Lógica de Programação" "Boas práticas" "Arquitetura de Sistemas" <br>
 
-:rocket: Dia 20 : Espionando o Javascript, saiba sobre o Async e Await
+:rocket: Dia 20 : Espionando o Javascript, saiba sobre o Async e Await <br>
 
-https://web.digitalinnovation.one/articles/dia-20-espionando-o-javascript-saiba-sobre-o-async-e-await?back=%2Farticles&page=1&order=oldest
+https://web.digitalinnovation.one/articles/dia-20-espionando-o-javascript-saiba-sobre-o-async-e-await?back=%2Farticles&page=1&order=oldest <br>
 
-"Informática Básica" "JavaScript" "Boas práticas"
+"Informática Básica" "JavaScript" "Boas práticas" <br>
 
-:rocket: Frutos da Aceleraçao GFT QA: falando sobre erros
+:rocket: Frutos da Aceleraçao GFT QA: falando sobre erros <br>
 
-https://web.digitalinnovation.one/articles/frutos-da-aceleracao-gft-qa-falando-sobre-erros?
+https://web.digitalinnovation.one/articles/frutos-da-aceleracao-gft-qa-falando-sobre-erros? <br>
 
-"Testes unitários" "Boas práticas" "QA"
+"Testes unitários" "Boas práticas" "QA" <br>
 
-:rocket: Dia 19 Vencendo a procrastinaçao e derrotando a inercia
+:rocket: Dia 19 Vencendo a procrastinaçao e derrotando a inercia <br>
 
-https://web.digitalinnovation.one/articles/dia-19-vencendo-a-procrastinacao-e-derrotando-a-inercia
+https://web.digitalinnovation.one/articles/dia-19-vencendo-a-procrastinacao-e-derrotando-a-inercia <br>
 
-"Marketing Pessoal" "Marketing Digital" "Soft Skill"
+"Marketing Pessoal" "Marketing Digital" "Soft Skill" <br>
 
-:rocket: Javascript : Testes condicionais, Arrow Functions e Operadores condicionais
+:rocket: Javascript : Testes condicionais, Arrow Functions e Operadores condicionais <br>
 
-https://web.digitalinnovation.one/articles/javascript-testes-condicionais-arrow-functions-e-operadores-condicionais
+https://web.digitalinnovation.one/articles/javascript-testes-condicionais-arrow-functions-e-operadores-condicionais <br>
 
-"Programação para Internet" "JavaScript" "Boas práticas"
+"Programação para Internet" "JavaScript" "Boas práticas" <br>
 
-:rocket: Poderosa tecnica para salvar seu emprego. Use e abuse dos Testes Unitarios
+:rocket: Poderosa tecnica para salvar seu emprego. Use e abuse dos Testes Unitarios <br>
 
-https://web.digitalinnovation.one/articles/poderosa-tecnica-para-salvar-seu-emprego-testes-unitarios?back=%2Farticles
+https://web.digitalinnovation.one/articles/poderosa-tecnica-para-salvar-seu-emprego-testes-unitarios?back=%2Farticles <br>
 
-"Testes unitários" "Boas práticas" "QA"
+"Testes unitários" "Boas práticas" "QA" <br>
 
 
-:rocket: Responda rapido o que é computaçao e computadores
+:rocket: Responda rapido o que é computaçao e computadores <br>
 
-https://web.digitalinnovation.one/articles/responda-rapido-o-que-e-computacao-e-computadores?back=/articles
+https://web.digitalinnovation.one/articles/responda-rapido-o-que-e-computacao-e-computadores?back=/articles <br>
 
-"Informática Básica" "Boas práticas" "Arquitetura de Sistemas"
+"Informática Básica" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Som na caixa. Atividade 009 no Javascript Gruppen
+:rocket: Som na caixa. Atividade 009 no Javascript Gruppen <br>
 
-https://web.digitalinnovation.one/articles/som-na-caixa-javascript-gruppen-atividade-009?back=/articles
+https://web.digitalinnovation.one/articles/som-na-caixa-javascript-gruppen-atividade-009?back=/articles <br>
 
-"Informática Básica" "JavaScript" "Boas práticas"
+"Informática Básica" "JavaScript" "Boas práticas" <br>
 
 
-:rocket: Mao na Massa, Atividade 008 no Javascript Gruppen
+:rocket: Mao na Massa, Atividade 008 no Javascript Gruppen <br>
 
-https://web.digitalinnovation.one/articles/javascript-gruppen-atividade-008-mao-na-massa?back=/articles
+https://web.digitalinnovation.one/articles/javascript-gruppen-atividade-008-mao-na-massa?back=/articles <br>
 
-"Informática Básica" "JavaScript"
+"Informática Básica" "JavaScript" <br>
 
 
-:rocket: Os misterios do CLI, computaçao no seculo XXI 
+:rocket: Os misterios do CLI, computaçao no seculo XXI  <br>
 
-https://web.digitalinnovation.one/articles/os-misterios-da-cli-computacao-no-seculo-xxi?back=/articles
+https://web.digitalinnovation.one/articles/os-misterios-da-cli-computacao-no-seculo-xxi?back=/articles <br>
 
-"Informática Básica" "Boas práticas" "Arquitetura de Sistemas"
+"Informática Básica" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Bisbilhotando as base de dados no Mainframe, conheça o QMF
+:rocket: Bisbilhotando as base de dados no Mainframe, conheça o QMF <br>
 
-https://web.digitalinnovation.one/articles/bisbilhotando-as-bases-de-dados-no-mainframe?back=/articles
+https://web.digitalinnovation.one/articles/bisbilhotando-as-bases-de-dados-no-mainframe?back=/articles <br>
 
-"Informática Básica" "SQL" "Arquitetura de Sistemas"
+"Informática Básica" "SQL" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Qual o nome do diagrama usado em fluxos e processos?
+:rocket: Qual o nome do diagrama usado em fluxos e processos? <br>
 
-https://web.digitalinnovation.one/articles/qual-o-nome-do-diagrama-usado-em-fluxos-e-processos?back=/articles
+https://web.digitalinnovation.one/articles/qual-o-nome-do-diagrama-usado-em-fluxos-e-processos?back=/articles <br>
 
-"Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas"
+"Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
-:rocket: O que é e para que serve a extensao de arquivos
+:rocket: O que é e para que serve a extensao de arquivos <br>
 
-https://web.digitalinnovation.one/articles/o-que-e-e-para-que-serve-a-extensao-de-arquivos?back=/articles
+https://web.digitalinnovation.one/articles/o-que-e-e-para-que-serve-a-extensao-de-arquivos?back=/articles <br>
 
-"Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas"
+"Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Desenvolva habilidades gratuitamente no Microsoft Azure Virtual Trainning Day Modernize Net APPs
+:rocket: Desenvolva habilidades gratuitamente no Microsoft Azure Virtual Trainning Day Modernize Net APPs <br>
 
-https://web.digitalinnovation.one/articles/desenvolva-habilidades-gratuitamente-no-microsoft-azure-virtual-training-day-modernize-net-apps?back=/articles
+https://web.digitalinnovation.one/articles/desenvolva-habilidades-gratuitamente-no-microsoft-azure-virtual-training-day-modernize-net-apps?back=/articles <br>
 
 
-:rocket: Divulgaçao de parças ajude-nos a fazer nossa comunidade crescer
+:rocket: Divulgaçao de parças ajude-nos a fazer nossa comunidade crescer <br>
 
-https://web.digitalinnovation.one/articles/divulgacao-de-parcas-ajude-nos-a-fazer-nossa-rede-crescer?back=/articles
+https://web.digitalinnovation.one/articles/divulgacao-de-parcas-ajude-nos-a-fazer-nossa-rede-crescer?back=/articles <br>
 
-"Marketing Pessoal" "Marketing Digital" "Soft Skill"
+"Marketing Pessoal" "Marketing Digital" "Soft Skill" <br>
 
 
-:rocket: Aprenda a fazer processos batch em MS-DOS
+:rocket: Aprenda a fazer processos batch em MS-DOS <br>
 
-https://web.digitalinnovation.one/articles/aprenda-a-fazer-processos-batch-em-ms-dos?back=/articles
+https://web.digitalinnovation.one/articles/aprenda-a-fazer-processos-batch-em-ms-dos?back=/articles <br>
 
-"Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas"
+"Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Vida ou morte conheça o System Integration Testing SIT
+:rocket: Vida ou morte conheça o System Integration Testing SIT <br>
 
-https://web.digitalinnovation.one/articles/vida-ou-morte-conheca-o-system-integration-testing?back=/articles
+https://web.digitalinnovation.one/articles/vida-ou-morte-conheca-o-system-integration-testing?back=/articles <br>
 
-"Testes unitários" "Boas práticas" "Arquitetura de Sistemas"
+"Testes unitários" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Conheça Mainframe no IBM Z Day
+:rocket: Conheça Mainframe no IBM Z Day <br>
 
-https://web.digitalinnovation.one/articles/conheca-mainframe-no-ibm-z-day?back=/articles
+https://web.digitalinnovation.one/articles/conheca-mainframe-no-ibm-z-day?back=/articles <br>
 
-"Marketing Pessoal" "Arquitetura de Sistemas" "Soft Skill"
+"Marketing Pessoal" "Arquitetura de Sistemas" "Soft Skill" <br>
 
 
-:rocket: Aprenda MS-DOS e seus scripts bat no Windows
+:rocket: Aprenda MS-DOS e seus scripts bat no Windows <br>
 
-https://web.digitalinnovation.one/articles/aprenda-ms-dos-e-seus-scripts-bat-no-windows?back=/articles
+https://web.digitalinnovation.one/articles/aprenda-ms-dos-e-seus-scripts-bat-no-windows?back=/articles <br>
 
-"Informática Básica" "Arquitetura de Sistemas" "QA"
+"Informática Básica" "Arquitetura de Sistemas" "QA" <br>
 
 
-:rocket: Algoritmos para classificaçao de listas e arrays
+:rocket: Algoritmos para classificaçao de listas e arrays <br>
 
-https://web.digitalinnovation.one/articles/algoritmos-para-classificacao-de-listas-e-arrays?back=/articles
+https://web.digitalinnovation.one/articles/algoritmos-para-classificacao-de-listas-e-arrays?back=/articles <br>
 
-"Estrutura de dados" "Lógica de Programação" "Arquitetura de Sistemas"
+"Estrutura de dados" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
-:rocket: 10 Segredos da Longevidade do Cobol
+:rocket: 10 Segredos da Longevidade do Cobol <br>
 
-https://web.digitalinnovation.one/articles/10-segredos-da-longevidade-do-cobol?back=/articles
+https://web.digitalinnovation.one/articles/10-segredos-da-longevidade-do-cobol?back=/articles <br>
 
-"Desperte o potencial" "Lógica de Programação" "Arquitetura de Sistemas"
+"Desperte o potencial" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
-:rocket: A Força de um Gruppen torne-se um lider evoluindo suas equipes
+:rocket: A Força de um Gruppen torne-se um lider evoluindo suas equipes <br>
 
-https://web.digitalinnovation.one/articles/a-forca-de-um-gruppen-torne-se-um-lider-evoluindo-suas-equipes?back=/articles
+https://web.digitalinnovation.one/articles/a-forca-de-um-gruppen-torne-se-um-lider-evoluindo-suas-equipes?back=/articles <br>
 
-"Marketing Pessoal" "Informática Básica" "Soft Skill"
+"Marketing Pessoal" "Informática Básica" "Soft Skill" <br>
 
 
-:rocket: Ajude o Tiozao, afinal o que é um developer advocate
+:rocket: Ajude o Tiozao, afinal o que é um developer advocate <br>
 
-https://web.digitalinnovation.one/articles/ajude-o-tiozao-afinal-o-que-e-um-developer-advocate?back=/articles
+https://web.digitalinnovation.one/articles/ajude-o-tiozao-afinal-o-que-e-um-developer-advocate?back=/articles <br>
  
- "Marketing Pessoal" "Arquitetura de Sistemas" "Soft Skill"
+ "Marketing Pessoal" "Arquitetura de Sistemas" "Soft Skill" <br>
  
 
-:rocket: Rumo ao 1.000.000 de Devs, a sua ajude é Fundamental
+:rocket: Rumo ao 1.000.000 de Devs, a sua ajude é Fundamental <br>
 
-https://web.digitalinnovation.one/articles/rumo-1000000-devs-sua-ajuda-e-fundamental?back=/articles
+https://web.digitalinnovation.one/articles/rumo-1000000-devs-sua-ajuda-e-fundamental?back=/articles <br>
 
-"Desperte o potencial" "Marketing Pessoal" "Soft Skill"
+"Desperte o potencial" "Marketing Pessoal" "Soft Skill" <br>
 
 
-:rocket: Cobol para padawan uma rapida olhadela
+:rocket: Cobol para padawan uma rapida olhadela <br>
 
-https://web.digitalinnovation.one/articles/cobol-para-padawans-uma-rapida-olhadela?back=/articles
+https://web.digitalinnovation.one/articles/cobol-para-padawans-uma-rapida-olhadela?back=/articles <br>
 
-"Desperte o potencial" "Informática Básica" "Arquitetura de Sistemas"
+"Desperte o potencial" "Informática Básica" "Arquitetura de Sistemas" <br>
 
 
-:rocket: O fim da Big Blue gerou centenas de artigos, sera o Fim da IBM?
+:rocket: O fim da Big Blue gerou centenas de artigos, sera o Fim da IBM? <br>
 
-https://web.digitalinnovation.one/articles/epoca-de-mudancas-no-mainframe-e-a-possivel-derrocada-da-big-blue-sera
+https://web.digitalinnovation.one/articles/epoca-de-mudancas-no-mainframe-e-a-possivel-derrocada-da-big-blue-sera <br>
 
-"Informática Básica" "Arquitetura de Sistemas" "Soft Skill"
+"Informática Básica" "Arquitetura de Sistemas" "Soft Skill" <br>
 
 
-:rocket: Fluxograma na pratica e pseudocódigo em linguagem natural
+:rocket: Fluxograma na pratica e pseudocódigo em linguagem natural <br>
 
-https://web.digitalinnovation.one/articles/fluxograma-na-pratica-e-pseudocodigo-em-linguagem-natural
+https://web.digitalinnovation.one/articles/fluxograma-na-pratica-e-pseudocodigo-em-linguagem-natural <br>
 
- "Informática Básica" "Boas práticas" "Arquitetura de Sistemas"
+ "Informática Básica" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Meu primeiro curso de informática, qual foi o seu????
+:rocket: Meu primeiro curso de informática, qual foi o seu???? <br>
 
-https://web.digitalinnovation.one/articles/meu-primeiro-curso-de-informatica-qual-foi-o-seu
+https://web.digitalinnovation.one/articles/meu-primeiro-curso-de-informatica-qual-foi-o-seu <br>
 
- "Informática Básica" "Arquitetura de Sistemas"
+ "Informática Básica" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Colapso do Banco TBS erro na migraçao e shutdown do sistema legado
+:rocket: Colapso do Banco TBS erro na migraçao e shutdown do sistema legado <br>
 
-https://web.digitalinnovation.one/articles/colapso-do-banco-tbs-erro-na-migracao-e-shutdown-do-sistema-legado
+https://web.digitalinnovation.one/articles/colapso-do-banco-tbs-erro-na-migracao-e-shutdown-do-sistema-legado <br>
 
- "Informática Básica" "Modelagem de Negócios" "Arquitetura de Sistemas"
+ "Informática Básica" "Modelagem de Negócios" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Vamos codar? Crie um velocimetro em Html CSS e Javascript
+:rocket: Vamos codar? Crie um velocimetro em Html CSS e Javascript <br>
 
-https://web.digitalinnovation.one/articles/vamos-codar-crie-um-velocimetro-em-html-css-e-javascript
+https://web.digitalinnovation.one/articles/vamos-codar-crie-um-velocimetro-em-html-css-e-javascript <br>
 
- "JavaScript" "HTML" "CSS"
+ "JavaScript" "HTML" "CSS" <br>
 
 
-:rocket: 10 dicas para conquistar um emprego dos sonhos em T.I.
+:rocket: 10 dicas para conquistar um emprego dos sonhos em T.I. <br>
 
-https://web.digitalinnovation.one/articles/10-dicas-para-conquistar-um-emprego-dos-sonhos-em-ti
+https://web.digitalinnovation.one/articles/10-dicas-para-conquistar-um-emprego-dos-sonhos-em-ti <br>
 
- "Marketing Pessoal" "Equipe Motivada" "Soft Skill"
+ "Marketing Pessoal" "Equipe Motivada" "Soft Skill" <br>
 
 
-:rocket: O COBOL morreu? Vida longa ao Cobol!
+:rocket: O COBOL morreu? Vida longa ao Cobol! <br>
 
-https://web.digitalinnovation.one/articles/o-cobol-morreu-vida-longa-ao-cobol
+https://web.digitalinnovation.one/articles/o-cobol-morreu-vida-longa-ao-cobol <br>
 
- "Informática Básica" "Boas práticas" "Arquitetura de Sistemas"
+ "Informática Básica" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Aprenda a fazer uma nuvem de etiquetas em Html CSS e Javascript
+:rocket: Aprenda a fazer uma nuvem de etiquetas em Html CSS e Javascript <br>
 
-https://web.digitalinnovation.one/articles/aprenda-a-fazer-uma-nuvem-de-etiquetas-em-html-css-e-javascript 
+https://web.digitalinnovation.one/articles/aprenda-a-fazer-uma-nuvem-de-etiquetas-em-html-css-e-javascript  <br>
 
- "HTML" "JavaScript" "CSS"
+ "HTML" "JavaScript" "CSS" <br>
 
 
-:rocket: Spaghetti Code um codigo sem nexo, o emaranhado de comandos que acabara com sua sanidade
+:rocket: Spaghetti Code um codigo sem nexo, o emaranhado de comandos que acabara com sua sanidade <br>
 
-https://web.digitalinnovation.one/articles/spaghetti-code-um-codigo-sem-nexo-emaranhado-de-comandos
+https://web.digitalinnovation.one/articles/spaghetti-code-um-codigo-sem-nexo-emaranhado-de-comandos <br>
 
- "Programação para Internet" "Boas práticas" "Arquitetura de Sistemas"
+ "Programação para Internet" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
-:rocket: 17 dicas para JavaScript, Otimize e melhore a performance do seu código.
+:rocket: 17 dicas para JavaScript, Otimize e melhore a performance do seu código. <br>
 
-https://web.digitalinnovation.one/articles/javascript-otimize-e-melhore-a-performance-do-seu-codigo
+https://web.digitalinnovation.one/articles/javascript-otimize-e-melhore-a-performance-do-seu-codigo <br>
 
- "Programação para Internet" "JavaScript" "Boas práticas"
+ "Programação para Internet" "JavaScript" "Boas práticas" <br>
 
 
-:rocket: Seja resiliente evolua seus soft skills em T.I.
+:rocket: Seja resiliente evolua seus soft skills em T.I.  <br>
 
-https://web.digitalinnovation.one/articles/seja-resiliente-evolua-seus-soft-skills-em-ti
+https://web.digitalinnovation.one/articles/seja-resiliente-evolua-seus-soft-skills-em-ti <br>
 
- "Marketing Pessoal" "Liderança de Equipe" "Soft Skill"
+ "Marketing Pessoal" "Liderança de Equipe" "Soft Skill" <br>
 
 
-:rocket: Prestaçao de Serviço e SLA, saiba mais sobre as garantias
+:rocket: Prestaçao de Serviço e SLA, saiba mais sobre as garantias <br>
 
-https://web.digitalinnovation.one/articles/prestacao-de-servico-e-sla-saiba-mais-sobre-as-garantias
+https://web.digitalinnovation.one/articles/prestacao-de-servico-e-sla-saiba-mais-sobre-as-garantias <br>
 
- "Informática Básica" "Controle de gastos" "Boas práticas"
+ "Informática Básica" "Controle de gastos" "Boas práticas" <br>
 
 
-:rocket: GITHub: O que colocar? Como criar um repositorio profissional?
+:rocket: GITHub: O que colocar? Como criar um repositorio profissional? <br>
 
-https://web.digitalinnovation.one/articles/github-o-que-colocar-como-criar-um-repositorio-profissional
+https://web.digitalinnovation.one/articles/github-o-que-colocar-como-criar-um-repositorio-profissional <br>
 
- "Marketing Pessoal" "GitHub" "Arquitetura de Sistemas"
+ "Marketing Pessoal" "GitHub" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Saiba como indexar seu WebSite com uso de Robots.TXT [Tutorial]
+:rocket: Saiba como indexar seu WebSite com uso de Robots.TXT [Tutorial] <br>
 
-https://web.digitalinnovation.one/articles/saiba-como-indexar-seu-website-com-uso-de-robotstxt-tutorial
+https://web.digitalinnovation.one/articles/saiba-como-indexar-seu-website-com-uso-de-robotstxt-tutorial <br>
 
- "HTML" "Boas práticas" "Marketing Digital"
+ "HTML" "Boas práticas" "Marketing Digital" <br>
 
 
-:rocket: Javascript o poder da animaçao em Sprite Sheets
+:rocket: Javascript o poder da animaçao em Sprite Sheets <br>
 
-https://web.digitalinnovation.one/articles/javascript-o-poder-da-animacao-em-sprite-sheets
+https://web.digitalinnovation.one/articles/javascript-o-poder-da-animacao-em-sprite-sheets <br>
 
- "JavaScript"
+ "JavaScript" <br>
 
 
-:rocket: Um computador com sotaque inglês: Colossus e o inicio da computaçao
+:rocket: Um computador com sotaque inglês: Colossus e o inicio da computaçao <br>
 
-https://web.digitalinnovation.one/articles/um-computador-com-sotaque-ingles-colossus-e-o-inicio-da-computacao
+https://web.digitalinnovation.one/articles/um-computador-com-sotaque-ingles-colossus-e-o-inicio-da-computacao <br>
 
- "Informática Básica" "Arquitetura de Sistemas"
+ "Informática Básica" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Ganhe dinheiro para realizar seus sonhos: Incubadoras, Aceleradoras e acionistas
+:rocket: Ganhe dinheiro para realizar seus sonhos: Incubadoras, Aceleradoras e acionistas <br>
 
-https://web.digitalinnovation.one/articles/ganhe-dinheiro-para-realizar-seus-sonhos-incubadoras-aceleradoras-e-acionistas
+https://web.digitalinnovation.one/articles/ganhe-dinheiro-para-realizar-seus-sonhos-incubadoras-aceleradoras-e-acionistas <br>
 
- "Marketing Pessoal" "Intraempreendedorismo" "Marketing Digital"
+ "Marketing Pessoal" "Intraempreendedorismo" "Marketing Digital" <br>
 
 
-:rocket: Dia 18 - Atalhos práticos do VS Code programe melhor
+:rocket: Dia 18 - Atalhos práticos do VS Code programe melhor <br>
 
-https://web.digitalinnovation.one/articles/dia-18-atalhos-praticos-do-vs-code-programe-melhor 
+https://web.digitalinnovation.one/articles/dia-18-atalhos-praticos-do-vs-code-programe-melhor  <br>
 
- "Informática Básica" "Boas práticas" "Arquitetura de Sistemas"
+ "Informática Básica" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Como nomear variáveis num programa?
+:rocket: Como nomear variáveis num programa? <br>
 
-https://web.digitalinnovation.one/articles/como-nomear-variaveis-num-programa
+https://web.digitalinnovation.one/articles/como-nomear-variaveis-num-programa <br>
 
- "Programação para Internet" "Boas práticas" "Arquitetura de Sistemas"
+ "Programação para Internet" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Leilão Reverso e mas praticas na seleção de RH
+:rocket: Leilão Reverso e mas praticas na seleção de RH <br>
 
-https://web.digitalinnovation.one/articles/leilao-reverso-e-mas-praticas-na-selecao-de-rh
+https://web.digitalinnovation.one/articles/leilao-reverso-e-mas-praticas-na-selecao-de-rh <br>
 
- "Marketing Pessoal" "Liderança de Equipe" "Soft Skill"
+ "Marketing Pessoal" "Liderança de Equipe" "Soft Skill" <br>
 
 
-:rocket: Estilo CamelCase PascalCase nomeando direitinho.
+:rocket: Estilo CamelCase PascalCase nomeando direitinho.  <br>
 
-https://web.digitalinnovation.one/articles/estilo-camelcase-pascalcase-nomeando-direitinho
+https://web.digitalinnovation.one/articles/estilo-camelcase-pascalcase-nomeando-direitinho <br>
 
- "Programação para Internet" "Informática Básica" "Boas práticas"
+ "Programação para Internet" "Informática Básica" "Boas práticas" <br>
 
 
-:rocket: Historias do Tiozão em Mainframe
+:rocket: Historias do Tiozão em Mainframe <br>
 
-https://web.digitalinnovation.one/articles/historias-do-tiozao-em-mainframe
+https://web.digitalinnovation.one/articles/historias-do-tiozao-em-mainframe <br>
 
- "Equipe Motivada" "Arquitetura de Sistemas" "Soft Skill"
+ "Equipe Motivada" "Arquitetura de Sistemas" "Soft Skill" <br>
 
 
-:rocket: Netflix Clone: Como fazer um Deploy do seu WebSite em 3 passos . [Tutorial]
+:rocket: Netflix Clone: Como fazer um Deploy do seu WebSite em 3 passos . [Tutorial] <br>
 
-https://web.digitalinnovation.one/articles/netflix-clone-como-fazer-um-deploy-do-seu-website
+https://web.digitalinnovation.one/articles/netflix-clone-como-fazer-um-deploy-do-seu-website <br>
 
- "Programação para Internet" "GitHub" "HTML"
+ "Programação para Internet" "GitHub" "HTML" <br>
 
 
-:rocket: Hard Skill : Origens do Computador [Hardware]
+:rocket: Hard Skill : Origens do Computador [Hardware] <br>
 
-https://web.digitalinnovation.one/articles/hard-skill-origens-do-computador
+https://web.digitalinnovation.one/articles/hard-skill-origens-do-computador <br>
 
- "Informática Básica" "Arquitetura de Sistemas"
+ "Informática Básica" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Soft Skill: aprenda 5 regras para um bom convívio social
+:rocket: Soft Skill: aprenda 5 regras para um bom convívio social <br>
 
-https://web.digitalinnovation.one/articles/soft-skill-aprenda-5-regras-para-um-bom-convivio-social
+https://web.digitalinnovation.one/articles/soft-skill-aprenda-5-regras-para-um-bom-convivio-social <br>
 
- "Desperte o potencial" "Marketing Pessoal" "Soft Skill"
+ "Desperte o potencial" "Marketing Pessoal" "Soft Skill" <br>
 
 
-:rocket: Roteiro teorico para trabalhar com Mainframe
+:rocket: Roteiro teorico para trabalhar com Mainframe <br>
 
-https://web.digitalinnovation.one/articles/roteiro-teorico-para-trabalhar-com-mainframe
+https://web.digitalinnovation.one/articles/roteiro-teorico-para-trabalhar-com-mainframe <br>
 
- "Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas"
+ "Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Mainframe, conheça um pouco sobre Sistemas Centrais
+:rocket: Mainframe, conheça um pouco sobre Sistemas Centrais <br>
 
-https://web.digitalinnovation.one/articles/mainframe-conheca-um-pouco-sobre-sistemas-centrais
+https://web.digitalinnovation.one/articles/mainframe-conheca-um-pouco-sobre-sistemas-centrais <br>
 
- "Boas práticas" "Arquitetura de Sistemas"
+ "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Dia 17: Não faça confusão com arrays, conheça coleções indexadas e chaveadas no JavaScript
+:rocket: Dia 17: Não faça confusão com arrays, conheça coleções indexadas e chaveadas no JavaScript <br>
 
-https://web.digitalinnovation.one/articles/dia-17-nao-faca-confusao-com-arrays-listas-e-colecoes-no-javascript 
+https://web.digitalinnovation.one/articles/dia-17-nao-faca-confusao-com-arrays-listas-e-colecoes-no-javascript  <br>
 
- "Informática Básica" "JavaScript" "Arquitetura de Sistemas"
+ "Informática Básica" "JavaScript" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Dia 16 : Vantagens do Javascript
+:rocket: Dia 16 : Vantagens do Javascript <br>
 
-https://web.digitalinnovation.one/articles/dia-16-vantagens-do-javascript
+https://web.digitalinnovation.one/articles/dia-16-vantagens-do-javascript <br>
 
- "HTML" "JavaScript" "CSS"
+ "HTML" "JavaScript" "CSS" <br>
 
 
-:rocket: Bootcamp e Técnica Pomodoro
+:rocket: Bootcamp e Técnica Pomodoro <br>
 
-https://web.digitalinnovation.one/articles/bootcamp-e-tecnica-pomodoro 
+https://web.digitalinnovation.one/articles/bootcamp-e-tecnica-pomodoro  <br>
 
- "Marketing Pessoal"
+ "Marketing Pessoal" <br>
 
 
-:rocket: Você ainda vai ouvir falar muito de DART.
+:rocket: Você ainda vai ouvir falar muito de DART. <br>
 
-https://web.digitalinnovation.one/articles/bootcamp-e-tecnica-pomodoro
+https://web.digitalinnovation.one/articles/bootcamp-e-tecnica-pomodoro <br>
 
- "Programação para Internet" "Dart" "UI/UX"
+ "Programação para Internet" "Dart" "UI/UX" <br>
 
 
-:rocket: ASCII ART - Quando simples caracteres viram arte
+:rocket: ASCII ART - Quando simples caracteres viram arte <br>
 
-https://web.digitalinnovation.one/articles/ascii-art-quando-simples-caracteres-viram-arte
+https://web.digitalinnovation.one/articles/ascii-art-quando-simples-caracteres-viram-arte <br>
 
- "Marketing Digital"
+ "Marketing Digital" <br>
 
 
-:rocket: Dia 15: A Resposta é 42, minha homenagem ao Guia do Mochileiro das Galáxias
+:rocket: Dia 15: A Resposta é 42, minha homenagem ao Guia do Mochileiro das Galáxias <br>
 
-https://web.digitalinnovation.one/articles/dia15-a-resposta-e-42-minha-homenagem-ao-guia-do-mochileiro-das-galaxias 
+https://web.digitalinnovation.one/articles/dia15-a-resposta-e-42-minha-homenagem-ao-guia-do-mochileiro-das-galaxias  <br>
 
- "Desperte o potencial"
+ "Desperte o potencial" <br>
 
 
-:rocket: Dia 14: Liberdade de criar aliada a uma boa remuneração.
+:rocket: Dia 14: Liberdade de criar aliada a uma boa remuneração. <br>
 
-https://web.digitalinnovation.one/articles/dia-14-liberdade-de-criar-aliada-a-uma-boa-remuneracao 
+https://web.digitalinnovation.one/articles/dia-14-liberdade-de-criar-aliada-a-uma-boa-remuneracao  <br>
 
- "Marketing Pessoal" "Boas práticas" "Soft Skill"
+ "Marketing Pessoal" "Boas práticas" "Soft Skill" <br>
 
 
-:rocket: Ah seu eu soubesse... Dia 13 – 3 Dicas para ser um dos top 10
+:rocket: Ah seu eu soubesse... Dia 13 – 3 Dicas para ser um dos top 10 <br>
 
-https://web.digitalinnovation.one/articles/ah-seu-eu-soubesse-dia-13-3-dicas-para-ser-um-dos-top-10
+https://web.digitalinnovation.one/articles/ah-seu-eu-soubesse-dia-13-3-dicas-para-ser-um-dos-top-10 <br>
 
- "Marketing Pessoal" "Boas práticas" "Soft Skill"
+ "Marketing Pessoal" "Boas práticas" "Soft Skill" <br>
 
 
-:rocket: Como incluir um video do YouTube em sua pagina HTML? [Tutorial]]
+:rocket: Como incluir um video do YouTube em sua pagina HTML? [Tutorial]] <br>
 
-https://web.digitalinnovation.one/articles/como-incluir-um-video-do-youtube-em-sua-pagina-html-tutorial
+https://web.digitalinnovation.one/articles/como-incluir-um-video-do-youtube-em-sua-pagina-html-tutorial <br>
 
- "Programação para Internet" "HTML" "Boas práticas"
+ "Programação para Internet" "HTML" "Boas práticas" <br>
 
 
-:rocket: Dia 12: Dicas campeãs para terminar um Bootcamp [24 passos]
+:rocket: Dia 12: Dicas campeãs para terminar um Bootcamp [24 passos] <br>
 
-https://web.digitalinnovation.one/articles/dia-12-dicas-campeas-para-terminar-um-bootcamp
+https://web.digitalinnovation.one/articles/dia-12-dicas-campeas-para-terminar-um-bootcamp <br>
 
- "Equipe Motivada" "Consultoria de Contratação" "Boas práticas"
+ "Equipe Motivada" "Consultoria de Contratação" "Boas práticas" <br>
 
 
-:rocket: Como fazer o Desafio 21 dias 21 artigos ?  @Desafio21DiasNaDIO
+:rocket: Como fazer o Desafio 21 dias 21 artigos ?  @Desafio21DiasNaDIO <br>
 
-https://web.digitalinnovation.one/articles/desafio-21-dias-21-artigos-desafio21diasnadio
+https://web.digitalinnovation.one/articles/desafio-21-dias-21-artigos-desafio21diasnadio <br>
 
- "Programação para Internet" "Marketing Pessoal" "Soft Skill"
+ "Programação para Internet" "Marketing Pessoal" "Soft Skill" <br>
 
 
-:rocket: Dia 11 - Como me atualizo? 3 Fontes de Estudos
+:rocket: Dia 11 - Como me atualizo? 3 Fontes de Estudos <br>
 
-https://web.digitalinnovation.one/articles/dia-11-como-me-atualizo-3-fontes-de-estudos
+https://web.digitalinnovation.one/articles/dia-11-como-me-atualizo-3-fontes-de-estudos <br>
 
- "Desperte o potencial" "Marketing Pessoal"
+ "Desperte o potencial" "Marketing Pessoal" <br>
 
 
-:rocket: SOFT SKILLS o que um bom DEV necessita ter e expandir.
+:rocket: SOFT SKILLS o que um bom DEV necessita ter e expandir. <br>
 
-https://web.digitalinnovation.one/articles/soft-skills-o-que-um-bom-dev-necessita-ter-e-expandir
+https://web.digitalinnovation.one/articles/soft-skills-o-que-um-bom-dev-necessita-ter-e-expandir <br>
 
- "Marketing Pessoal" "Boas práticas" "Soft Skill"
+ "Marketing Pessoal" "Boas práticas" "Soft Skill" <br>
 
 
-:rocket: Desafio convide 5 amigos e ajude a construir a maior Comunidade de DEVs do Brasil
+:rocket: Desafio convide 5 amigos e ajude a construir a maior Comunidade de DEVs do Brasil <br>
 
-https://web.digitalinnovation.one/articles/desafio-convide-5-amigos-e-ajude-a-construir-a-maior-comunidade-de-devs-do-brasil
+https://web.digitalinnovation.one/articles/desafio-convide-5-amigos-e-ajude-a-construir-a-maior-comunidade-de-devs-do-brasil <br>
 
- "Desperte o potencial" "Marketing Pessoal" "Soft Skill"
+ "Desperte o potencial" "Marketing Pessoal" "Soft Skill" <br>
 
 
-:rocket: ETICA em Informatica.
+:rocket: ETICA em Informatica. <br>
 
-https://web.digitalinnovation.one/articles/etica-em-informatica
+https://web.digitalinnovation.one/articles/etica-em-informatica <br>
 
- "Marketing Pessoal" "Intraempreendedorismo" "Negócios Exponenciais"
+ "Marketing Pessoal" "Intraempreendedorismo" "Negócios Exponenciais" <br>
 
 
-:rocket: Dia 10 - Um dos melhores bootcamps: JS Game Developers
+:rocket: Dia 10 - Um dos melhores bootcamps: JS Game Developers <br>
 
-https://web.digitalinnovation.one/articles/dia-10-um-dos-melhores-bootcamps-js-game-developers
+https://web.digitalinnovation.one/articles/dia-10-um-dos-melhores-bootcamps-js-game-developers <br>
 
- "JavaScript" "Marketing Digital" "Soft Skill"
+ "JavaScript" "Marketing Digital" "Soft Skill" <br>
 
 
-:rocket: Bugou? Por que dizemos isso a erros no aplicativo? [Você sabia?]
+:rocket: Bugou? Por que dizemos isso a erros no aplicativo? [Você sabia?] <br>
 
-https://web.digitalinnovation.one/articles/bugou-por-que-dizemos-isso-a-erros-no-aplicativo-voce-sabia
+https://web.digitalinnovation.one/articles/bugou-por-que-dizemos-isso-a-erros-no-aplicativo-voce-sabia <br>
 
- "Jira" "Marketing Pessoal" "Arquitetura de Sistemas"
+ "Jira" "Marketing Pessoal" "Arquitetura de Sistemas" <br>
 
 
-:rocket: Cheguei agora, que curso devo fazer?
+:rocket: Cheguei agora, que curso devo fazer? <br>
 
-https://web.digitalinnovation.one/articles/cheguei-agora-que-curso-devo-fazer
+https://web.digitalinnovation.one/articles/cheguei-agora-que-curso-devo-fazer <br>
 
- "Liderança de Equipe" "Soft Skill"
+ "Liderança de Equipe" "Soft Skill" <br>
 
 
-:rocket: Dia 9 - Homenagem a Incrivel Grace
+:rocket: Dia 9 - Homenagem a Incrivel Grace <br>
 
-https://web.digitalinnovation.one/articles/dia-9-homenagem-a-incrivel-grace
+https://web.digitalinnovation.one/articles/dia-9-homenagem-a-incrivel-grace <br>
 
- "Desperte o potencial" "Marketing Digital"
+ "Desperte o potencial" "Marketing Digital" <br>
 
 
-:rocket: Desmitificando o LINKEDIN.
+:rocket: Desmitificando o LINKEDIN. <br>
 
-https://web.digitalinnovation.one/articles/desmitificando-o-linkedin
+https://web.digitalinnovation.one/articles/desmitificando-o-linkedin <br>
 
- "Marketing Pessoal" "Liderança de Equipe" "Marketing Digital"
+ "Marketing Pessoal" "Liderança de Equipe" "Marketing Digital" <br>
 
 
-:rocket: To do Data Science
+:rocket: To do Data Science <br>
 
-https://web.digitalinnovation.one/articles/to-do-data-science
+https://web.digitalinnovation.one/articles/to-do-data-science <br>
 
 
-:rocket: Hackathon, seja um as na programação [Você sabia?]
+:rocket: Hackathon, seja um as na programação [Você sabia?] <br>
 
-https://web.digitalinnovation.one/articles/hackathon-seja-um-as-na-programacao-voce-sabia
+https://web.digitalinnovation.one/articles/hackathon-seja-um-as-na-programacao-voce-sabia <br>
 
- "Informática Básica" "Soft Skill" "Live Coding"
+ "Informática Básica" "Soft Skill" "Live Coding" <br>
 
 
-:rocket: Nove gestantes nao geram um bebe em apenas um mes
+:rocket: Nove gestantes nao geram um bebe em apenas um mes <br>
 
-https://web.digitalinnovation.one/articles/nove-gravidas-nao-geram-um-bebe-em-apenas-um-mes
+https://web.digitalinnovation.one/articles/nove-gravidas-nao-geram-um-bebe-em-apenas-um-mes <br>
 
- "Desperte o potencial" "Arquitetura de Sistemas" "Soft Skill"
+ "Desperte o potencial" "Arquitetura de Sistemas" "Soft Skill" <br>
 
 
-:rocket: Seja visível, aumente sua Reputação [Você sabia?]
+:rocket: Seja visível, aumente sua Reputação [Você sabia?] <br>
 
- "Desperte o potencial" "Marketing Pessoal" "Informática Básica"
+ "Desperte o potencial" "Marketing Pessoal" "Informática Básica" <br>
 
 
-:rocket: O que são entities HTML? [Você Sabia?]
+:rocket: O que são entities HTML? [Você Sabia?] <br>
 
-https://web.digitalinnovation.one/articles/o-que-sao-entities-html-voce-sabia
+https://web.digitalinnovation.one/articles/o-que-sao-entities-html-voce-sabia <br>
 
- "HTML" "Boas práticas" "Soft Skill"
+ "HTML" "Boas práticas" "Soft Skill" <br>
 
 
-:rocket: Dia 8 - Se eu fosse eu no inicio, faria...
+:rocket: Dia 8 - Se eu fosse eu no inicio, faria... <br>
 
-https://web.digitalinnovation.one/articles/dia-8-se-eu-fosse-eu-no-inicio-faria
+https://web.digitalinnovation.one/articles/dia-8-se-eu-fosse-eu-no-inicio-faria <br>
 
- "Desperte o potencial" "Marketing Pessoal" "Soft Skill"
+ "Desperte o potencial" "Marketing Pessoal" "Soft Skill" <br>
 
 
-:rocket: Troll nao é tão divertido assim. [Você sabia?]
+:rocket: Troll nao é tão divertido assim. [Você sabia?] <br>
 
-https://web.digitalinnovation.one/articles/troll-nao-e-tao-divertido-assim-voce-sabia
+https://web.digitalinnovation.one/articles/troll-nao-e-tao-divertido-assim-voce-sabia <br>
 
- "Marketing Pessoal"
+ "Marketing Pessoal" <br>
 
 
-:rocket: SPAM! SPAM! SPAM! [Você sabia?]
+:rocket: SPAM! SPAM! SPAM! [Você sabia?] <br>
 
-https://web.digitalinnovation.one/articles/spam-spam-spam-voce-sabia
+https://web.digitalinnovation.one/articles/spam-spam-spam-voce-sabia <br>
 
- "Marketing Pessoal" "Soft Skill"
+ "Marketing Pessoal" "Soft Skill" <br>
 
 
-:rocket: A importância do código de conduta. [Você sabia?]
+:rocket: A importância do código de conduta. [Você sabia?] <br>
 
-https://web.digitalinnovation.one/articles/a-importancia-do-codigo-de-conduta-voce-sabia
+https://web.digitalinnovation.one/articles/a-importancia-do-codigo-de-conduta-voce-sabia <br>
 
- "Marketing Pessoal" "Boas práticas" "Soft Skill"
+ "Marketing Pessoal" "Boas práticas" "Soft Skill" <br>
 
 
-:rocket: Saiba como ganhar 350 reais da DIO
+:rocket: Saiba como ganhar 350 reais da DIO <br>
 
-https://web.digitalinnovation.one/articles/saiba-como-ganhar-350-reais-da-dio
+https://web.digitalinnovation.one/articles/saiba-como-ganhar-350-reais-da-dio <br>
 
 
-:rocket: Padawan na Plataforma? Esta perdido? Nao sabe o que fazer?
+:rocket: Padawan na Plataforma? Esta perdido? Nao sabe o que fazer? <br>
 
-https://web.digitalinnovation.one/articles/padawan-na-plataforma-esta-perdido-nao-sabe-o-que-fazer
+https://web.digitalinnovation.one/articles/padawan-na-plataforma-esta-perdido-nao-sabe-o-que-fazer <br>
 
- "Marketing Pessoal" "Informática Básica" "Soft Skill"
+ "Marketing Pessoal" "Informática Básica" "Soft Skill" <br>
 
 
-:rocket: Conceitos funcionais: WORKFLOW
+:rocket: Conceitos funcionais: WORKFLOW <br>
 
-https://web.digitalinnovation.one/articles/conceitos-funcionais-workflow
+https://web.digitalinnovation.one/articles/conceitos-funcionais-workflow <br>
 
- "Desperte o potencial" "Liderança de Equipe"
+ "Desperte o potencial" "Liderança de Equipe" <br>
 
 
-:rocket: Dia 7: JavaScript & Plano de Estudos
+:rocket: Dia 7: JavaScript & Plano de Estudos <br>
 
-https://web.digitalinnovation.one/articles/dia-7-javascript-plano-de-estudos
+https://web.digitalinnovation.one/articles/dia-7-javascript-plano-de-estudos <br>
 
- "Marketing Pessoal" "JavaScript" "Node.js"
+ "Marketing Pessoal" "JavaScript" "Node.js" <br>
 
 
-:rocket: Seja visível, aumente sua Reputação
+:rocket: Seja visível, aumente sua Reputação <br>
 
-https://web.digitalinnovation.one/articles/seja-visivel-aumente-sua-reputacao-voce-sabia
+https://web.digitalinnovation.one/articles/seja-visivel-aumente-sua-reputacao-voce-sabia <br>
 
- "Desperte o potencial" "Marketing Pessoal"
+ "Desperte o potencial" "Marketing Pessoal" <br>
 
 
-:rocket: Nao sabe emitir certificado de Bootcamp?
+:rocket: Nao sabe emitir certificado de Bootcamp? <br>
 
-https://web.digitalinnovation.one/articles/nao-sabe-emitir-certificado-de-bootcamp
+https://web.digitalinnovation.one/articles/nao-sabe-emitir-certificado-de-bootcamp <br>
 
- "Marketing Pessoal"
+ "Marketing Pessoal" <br>
 
 
-:rocket: FAQ : Segredos e bastidores da DIO [Você sabia?]
+:rocket: FAQ : Segredos e bastidores da DIO [Você sabia?] <br>
 
-https://web.digitalinnovation.one/articles/faq-segredos-e-bastidores-da-dio-voce-sabia
+https://web.digitalinnovation.one/articles/faq-segredos-e-bastidores-da-dio-voce-sabia <br>
 
- "Marketing Digital" "Soft Skill" "UI/UX"
+ "Marketing Digital" "Soft Skill" "UI/UX" <br>
 
 
-:rocket: Triplice alicerce da informatica: PEOPLEWARE
+:rocket: Triplice alicerce da informatica: PEOPLEWARE <br>
 
-https://web.digitalinnovation.one/articles/triplice-alicerce-da-informatica-peopleware
+https://web.digitalinnovation.one/articles/triplice-alicerce-da-informatica-peopleware <br>
 
- "Marketing Pessoal" "Arquitetura de Sistemas" "Soft Skill"
+ "Marketing Pessoal" "Arquitetura de Sistemas" "Soft Skill" <br>
 
 
-:rocket: Following e sua importância na comunidade DIO.
+:rocket: Following e sua importância na comunidade DIO. <br>
 
-https://web.digitalinnovation.one/articles/following-e-sua-importancia-na-comunidade-dio
+https://web.digitalinnovation.one/articles/following-e-sua-importancia-na-comunidade-dio <br>
 
- "Marketing Pessoal"
-
+ "Marketing Pessoal" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: Dia 6 – Uma conversa sobre JavaScript
+:rocket: Dia 6 – Uma conversa sobre JavaScript <br>
 
-https://web.digitalinnovation.one/articles/dia-6-uma-conversa-sobre-javascript
+https://web.digitalinnovation.one/articles/dia-6-uma-conversa-sobre-javascript <br>
 
- "Programação para Internet" "JavaScript" "UI/UX"
-
+ "Programação para Internet" "JavaScript" "UI/UX" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: V8 a engine do Chrome: Turbinando seu Javascript
+:rocket: V8 a engine do Chrome: Turbinando seu Javascript <br>
 
-https://web.digitalinnovation.one/articles/v8-a-engine-do-chrome-turbinando-seu-javascript
+https://web.digitalinnovation.one/articles/v8-a-engine-do-chrome-turbinando-seu-javascript <br>
 
- "Programação para Internet" "JavaScript" "Arquitetura de Sistemas"
-
+ "Programação para Internet" "JavaScript" "Arquitetura de Sistemas" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: Dia 5 – Explorando além do JS, mas dentro do JS: conheça o NODE.JS
+:rocket: Dia 5 – Explorando além do JS, mas dentro do JS: conheça o NODE.JS <br>
 
-https://web.digitalinnovation.one/articles/dia-5-explorando-alem-do-js-mas-dentro-do-js-conheca-o-nodejs
-
- "Informática Básica" "JavaScript" "Node.js"
-
+https://web.digitalinnovation.one/articles/dia-5-explorando-alem-do-js-mas-dentro-do-js-conheca-o-nodejs <br>
+ <br>
+ "Informática Básica" "JavaScript" "Node.js" <br>
+ <br>
 | | |
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: Preciso de você!!! Desenhista, ilustrador, alguém cheio de imaginação
+:rocket: Preciso de você!!! Desenhista, ilustrador, alguém cheio de imaginação <br>
 
-https://web.digitalinnovation.one/articles/preciso-de-voce-desenhista-ilustrador-e-cheio-de-imaginacao
+https://web.digitalinnovation.one/articles/preciso-de-voce-desenhista-ilustrador-e-cheio-de-imaginacao <br>
 
- "Desperte o potencial" "Marketing Pessoal" "Intraempreendedorismo"
-
+ "Desperte o potencial" "Marketing Pessoal" "Intraempreendedorismo" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: Dia 4 – JavaScript e laços de repetição
+:rocket: Dia 4 – JavaScript e laços de repetição <br>
 
-https://web.digitalinnovation.one/articles/dia-4-javascript-e-lacos-de-repeticao
+https://web.digitalinnovation.one/articles/dia-4-javascript-e-lacos-de-repeticao <br>
 
- "Programação para Internet" "JavaScript" "Arquitetura de Sistemas"
-
+ "Programação para Internet" "JavaScript" "Arquitetura de Sistemas" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: Dia 3 – JAVASCRIPT: Variáveis
+:rocket: Dia 3 – JAVASCRIPT: Variáveis <br>
 
-https://web.digitalinnovation.one/articles/dia-3-javascript-variaveis
+https://web.digitalinnovation.one/articles/dia-3-javascript-variaveis <br>
 
- "Programação para Internet" "HTML" "JavaScript"
-
+ "Programação para Internet" "HTML" "JavaScript" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: Dia 2 - Do setup ao hello world em BASIC - MSX 1988
+:rocket: Dia 2 - Do setup ao hello world em BASIC - MSX 1988 <br>
 
-https://web.digitalinnovation.one/articles/dia-2-do-setup-ao-hello-world-em-basic-msx-1988
+https://web.digitalinnovation.one/articles/dia-2-do-setup-ao-hello-world-em-basic-msx-1988 <br>
 
- "Programação para Internet" "Testes unitários" "Arquitetura de Sistemas"
-
+ "Programação para Internet" "Testes unitários" "Arquitetura de Sistemas" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: Dia 1 - 5 Dicas de como você pode organizar seus estudos
+:rocket: Dia 1 - 5 Dicas de como você pode organizar seus estudos <br>
 
-https://web.digitalinnovation.one/articles/dia-1-5-dicas-de-como-voce-organiza-seus-estudos
+https://web.digitalinnovation.one/articles/dia-1-5-dicas-de-como-voce-organiza-seus-estudos <br>
 
- "Programação para Internet" "Informática Básica" "Produto Digital"
-
+ "Programação para Internet" "Informática Básica" "Produto Digital" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: Coding Dojo
+:rocket: Coding Dojo <br>
 
-https://web.digitalinnovation.one/articles/coding-dojo
+https://web.digitalinnovation.one/articles/coding-dojo <br>
 
- "Programação para Internet" "Estrutura de dados" "Lógica de Programação"
-
+ "Programação para Internet" "Estrutura de dados" "Lógica de Programação" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: HTML Tricks: Como navegar em diretorios?
+:rocket: HTML Tricks: Como navegar em diretorios? <br>
 
-https://web.digitalinnovation.one/articles/html-tricks-como-navegar-em-diretorios 
+https://web.digitalinnovation.one/articles/html-tricks-como-navegar-em-diretorios  <br>
 
- "HTML" "JavaScript" "CSS"
-
+ "HTML" "JavaScript" "CSS" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: Você sabe o que são bits bytes kilobytes?
+:rocket: Você sabe o que são bits bytes kilobytes? <br>
 
-https://web.digitalinnovation.one/articles/voce-sabe-o-que-sao-bits-bytes-kilobytes
+https://web.digitalinnovation.one/articles/voce-sabe-o-que-sao-bits-bytes-kilobytes <br>
 
- "Programação para Internet" "Arquitetura de Sistemas"
-
+ "Programação para Internet" "Arquitetura de Sistemas" <br>
+ <br>
 | | |
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-:rocket: Dilema da Seringa em programação de sistemas
+:rocket: Dilema da Seringa em programação de sistemas <br>
 
-https://web.digitalinnovation.one/articles/dilema-da-seringa-em-programacao-de-sistemas
+https://web.digitalinnovation.one/articles/dilema-da-seringa-em-programacao-de-sistemas <br>
 
- "Informática Básica" "Arquitetura de Sistemas" "Soft Skill"
-
+ "Informática Básica" "Arquitetura de Sistemas" "Soft Skill" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
 
-:rocket: Deu ruim no levantamento de Requisitos: A Síndrome de Dr. Ivon SaF.
+:rocket: Deu ruim no levantamento de Requisitos: A Síndrome de Dr. Ivon SaF. <br>
 
-https://web.digitalinnovation.one/articles/deu-ruim-no-levantamento-de-requisitos-a-sindrome-de-dr-ivon-saf
+https://web.digitalinnovation.one/articles/deu-ruim-no-levantamento-de-requisitos-a-sindrome-de-dr-ivon-saf <br>
 
- "Logística" "Produto Digital" "Arquitetura de Sistemas"
-
+ "Logística" "Produto Digital" "Arquitetura de Sistemas" <br>
+ <br>
 | | | 
 | --- | --- |
-| Republicado | :white_check_mark: |
+| Republicado | :white_check_mark: | <br>
 
-
+ <br> <br>
 ---
-
+ <br> <br>
 #### * DIO - Digital Inovation One *
 ######  [Inscreva-se na Dio](https://digitalinnovation.one/sign-up?ref=R5J3ZLTIFS)  
 
