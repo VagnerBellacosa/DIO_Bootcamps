@@ -16,6 +16,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: O que é programação estruturada <br>
+
+https://web.dio.me/articles/o-que-e-programacao-estruturada <br>
+
+"Informática Básica"  "Arquitetura de Sistemas"  "Soft Skill"   <br>
+
 :rocket: Descubra o que é a Crise do Software.  <br>
 
 https://web.digitalinnovation.one/articles/descubra-o-que-e-a-crise-do-software<br> 
