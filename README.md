@@ -27,17 +27,22 @@ Fique a vontade para navegar, qualquer duvida chame aqui, no Discord, no Linkedi
 
 ### Aceleraçao
 ![image-20211117212323959](Images/image-20211117212323959.png) [Aceleraçoes](BootCamps/Aceleracao)  - DIO Aceleraçao
+
 ### Manuais
-![image-20211117212407262](rimage-20211117212407262.png) [Manuais praticos](BootCamps/Manuais)  - Manuais de apoio fornecidos pela DIO Aceleraçao
+![image-20211117212407262](Images/image-20211117212407262.png) [Manuais praticos](BootCamps/Manuais)  - Manuais de apoio fornecidos pela DIO Aceleraçao
 
 ### Stick man Gif animado
 ![image-20211117212453268](Images/image-20211117212453268.png) [Animacao Stickman](BootCamps/Animacao)  - Animacao em GIF do Stick Man resiliente
+
 ### Partilha de conhecimentos em Artigos DIO
 ![image-20211117212613175](Images/image-20211117212613175.png) [Artigos publicados na DIO](BootCamps/ArtigosDIO)  - Repositorio dos artigos que venho publicando na comunidade DIO
+
 ### Curiosidade: Bootcamps extintos
 ![image-20211117212716092](Images/image-20211117212716092.png) [Bootcamps Extintos DIO](BootCamps/BootcampsEncerrados)  - Velhos Bootcamps, pioneiros que iniciaram os primeiros alunos da DIO
+
 ### Cursos 
 ![image-20211117212832084](Images/image-20211117212832084.png) [Cursos livres](BootCamps/CursosFree)  - Diversos cursos livres disponibilizados 
+
 ### Diplomas e certificados 
 ![image-20211117212918070](Images/image-20211117212918070.png) [Certificados de conclusao do Bootcamp](BootCamps/Certificados)  - Diretorio com os certificados em formato pdf e png dos Bootcamps concluidos na DIO
 
