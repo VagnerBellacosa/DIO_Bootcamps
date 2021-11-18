@@ -307,6 +307,16 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - :scroll: [Certificado](./Certificados/Impulso_ReactWebDeveloper.Md)
 <br>
 
+
+## 2021-11-19
+:trophy: 2021-11-18
+### https://web.digitalinnovation.one/track/everis-new-talents-3-net?
+- [Conteudo programatico](Everis_NewTalents3Net.Md)
+
+- :scroll: [Certificado](./Certificados/Everis_NewTalents3Net.Md)
+<br>
+
+
 ---
 
 <!-- PROJECT LOGO -->
@@ -316,11 +326,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-10-31
 https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 - [Conteudo programatico](everis_NewTalents3_Java.Md)
-
-## 2021-11-19
-### https://web.digitalinnovation.one/track/everis-new-talents-3-net?
-- [Conteudo programatico](Everis_NewTalents3Net.Md)
-<br>
 
 ## 2021-11-29
 ### https://web.digitalinnovation.one/track/tqi-java-developer?tab=path#
