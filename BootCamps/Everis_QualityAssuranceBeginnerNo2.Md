@@ -8,15 +8,15 @@ Conquiste as melhores oportunidades na everis como profissional de QA com foco e
 
 | everis Quality Assurance Beginner #2 |
 |-------------------------------------|
-| 1. Boas-vindas ao Bootcamp everis Quality Assurance Beginner |
-| 2. Bem-vindo à DIO |
-| 3. Lógica de Programação Essencial |
-| 4. Fundamentos de Arquitetura de Sistemas |
-| 5. Desenvolvimento básico em Java |
-| 6. Desenvolvimento avançado em Java |
-| 7. Iniciando a programação em Java |
-| 8. Introdução a Qualidade de Software |
-| 9. Introdução ao Junit 5 |
+| 01. Boas-vindas ao Bootcamp everis Quality Assurance Beginner |
+| 02. Bem-vindo à DIO |
+| 03. Lógica de Programação Essencial |
+| 04. Fundamentos de Arquitetura de Sistemas |
+| 05. Desenvolvimento básico em Java |
+| 06. Desenvolvimento avançado em Java |
+| 07. Iniciando a programação em Java |
+| 08. Introdução a Qualidade de Software |
+| 09. Introdução ao Junit 5 |
 | 10. Introdução a automação web com Selenium e Java |
 | 11. Introdução a Behavior Driven Development (BDD) com Java |
 | 12. Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção |
