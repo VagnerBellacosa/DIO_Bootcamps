@@ -317,16 +317,21 @@ Surfando no estado da arte em Tecnologia da Informaçao
 <br>
 
 
+## 2021-11-19
+:trophy: 2021-11-19
+https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
+- [Conteudo programatico](everis_NewTalents3_Java.Md)
+
+- :scroll: [Certificado](./Certificados/everis_NewTalents3_Java.Md)
+<br>
+
+
 ---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
-## 2021-10-31
-https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
-- [Conteudo programatico](everis_NewTalents3_Java.Md)
-
 ## 2021-11-29
 ### https://web.digitalinnovation.one/track/tqi-java-developer?tab=path#
 - [Conteudo programatico](TQI_JavaDeveloper.md)
