@@ -16,6 +16,14 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+
+:rocket: Prototipagem de software dicas e comentarios <br>
+
+https://web.dio.me/articles/prototipagem-de-software-dicas-e-comentarios <br>
+
+"Informática Básica" "Intraempreendedorismo"  "Arquitetura de Sistemas"  <br>
+
+
 :rocket: O que é programação estruturada <br>
 
 https://web.dio.me/articles/o-que-e-programacao-estruturada <br>
