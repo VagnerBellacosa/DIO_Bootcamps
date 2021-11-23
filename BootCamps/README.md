@@ -352,7 +352,11 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 - [Conteudo programatico](Amdocs_JavaDeveloper.md)
  <br>
  
- 
+## 2022-02-01
+### https://web.dio.me/track/cognizant-java-developer 
+- [Conteudo programatico](Cognizant_JavaDeveloper.md)
+ <br>
+   
 ## 2022-03-08
 ### https://web.dio.me/track/spread-java-developer?tab=path
 - [Conteudo programatico](Spread_JjavaDeveloper.md)
