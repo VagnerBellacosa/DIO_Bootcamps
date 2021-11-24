@@ -333,18 +333,23 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 # Work in progress
  
 ## 2021-11-29
-### https://web.digitalinnovation.one/track/tqi-java-developer?tab=path#
+### https://web.digitalinnovation.one/track/tqi-java-developer
 - [Conteudo programatico](TQI_JavaDeveloper.md)
 <br>
 
 ## 2021-11-30
-### https://web.digitalinnovation.one/track/eduzz-fullstack-developer?tab=path
+### https://web.digitalinnovation.one/track/eduzz-fullstack-developer
 - [Conteudo programatico](Eduzz_FullstackDeveloper.md)
 <br>
 
 ## 2022-01-08
-### https://web.digitalinnovation.one/track/take-blip-fullstack-developer-2?tab=path
+### https://web.digitalinnovation.one/track/take-blip-fullstack-developer-2
 - [Conteudo programatico](TakeBlip_FullstackDeveloper2.md)
+ <br>
+
+## 2022-01-23
+### https://web.dio.me/track/decola-tech-2a-edicao
+- [Conteudo programatico](Decola_Tech2aEdicao.md)
  <br>
  
 ## 2022-01-30
