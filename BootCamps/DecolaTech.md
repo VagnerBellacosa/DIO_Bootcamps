@@ -10,15 +10,15 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 
 | Decola Tech                  |
 |-------------------------------------|
-|  1. Boas-vindas ao Bootcamp Decola Tech | 
-|  2. Bem-vindo à DIO | 
-|  3. Primeiros passos com .NET | 
-|  4. Orientação a objetos em .NET | 
-|  5. Criando um APP simples de cadastro de séries em .NET | 
-|  6. Primeiros desafios Matemáticos em C# | 
-|  7. Mentoria 001 | 
-|  8. Fundamentos de Arquitetura de Sistemas | 
-|  9. Arquitetura de Sistemas Avançado | 
+|  01. Boas-vindas ao Bootcamp Decola Tech | 
+|  02. Bem-vindo à DIO | 
+|  03. Primeiros passos com .NET | 
+|  04. Orientação a objetos em .NET | 
+|  05. Criando um APP simples de cadastro de séries em .NET | 
+|  06. Primeiros desafios Matemáticos em C# | 
+|  07. Mentoria 001 | 
+|  08. Fundamentos de Arquitetura de Sistemas | 
+|  09. Arquitetura de Sistemas Avançado | 
 |  10. Introdução a microsserviços com .NET | 
 |  11. Criando um catálogo de jogos usando boas práticas de arquitetura com .NET | 
 |  12. Introdução a Resolução de Desafios com C# | 
@@ -29,39 +29,39 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 |  17. Desafios numéricos em C# | 
 
 https://hermes.digitalinnovation.one/courses/badge/03c6d947-b681-4893-9375-86b31a25fea6.png
-####  1. Boas-vindas ao Bootcamp Decola Tech
+####  01. Boas-vindas ao Bootcamp Decola Tech
 Conheça um pouco mais sobre a multinacional Avanade e veja como você pode conseguir uma oportunidade nessa empresa incrível e inovadora!
 
 https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png
-####  2. Bem-vindo à DIO
+####  02. Bem-vindo à DIO
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades.
 
 https://hermes.digitalinnovation.one/courses/badge/daf70aaf-c171-41d1-b06f-15b814d4c030.png
-####  3. Primeiros passos com .NET
+####  03. Primeiros passos com .NET
 Nesse curso o aluno terá o primeiro contato com a plataforma .NET e sua linguagem C# aprendendo onde e como utilizá-las. O especialista vai mostrar como preparar ambiente, lidar com erros, classes e objetos.
 
 https://hermes.digitalinnovation.one/courses/badge/2d01337f-5930-40e5-b50a-0bc1141c2468.png
-####  4. Orientação a objetos em .NET
+####  04. Orientação a objetos em .NET
 Um curso voltado para iniciantes em C# e .NET que foca no aprendizado teórico dos principais conceitos em orientação a objetos, como métodos, classes e propriedades.
 
 https://hermes.digitalinnovation.one/lab_projects/badges/2291262f-cb3f-40da-82ec-449c883ea214.png
-####  5. Criando um APP simples de cadastro de séries em .NET
+####  05. Criando um APP simples de cadastro de séries em .NET
 Aprenda como criar um algoritmo simples de cadastro de séries para praticar seus conhecimentos de orientação a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar recursos de coleção para salvar seus dados em memória.
 
 https://hermes.digitalinnovation.one/code_challenge/badge/a2a50372-04e2-4df8-9351-663d361a1f55.png
-####  6. Primeiros desafios Matemáticos em C#
+####  06. Primeiros desafios Matemáticos em C#
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-####  7. Mentoria 001
+####  07. Mentoria 001
 Criando um domínio utilizando os pilares da orientação a objetos
 Entenda, na prática, os conceitos fundamentais da programação orientada a objetos para facilitar a reutilização e a manutenção do seu código, extraindo o máximo proveito dela junto à linguagem C#. Repositório da Mentoria: https://github.com/carlafrascareli1/mentoria-decolatech-2021
 
 https://hermes.digitalinnovation.one/courses/badge/39ffe32f-f748-4905-8d66-6932d45ef77d.png
-####  8. Fundamentos de Arquitetura de Sistemas
+####  08. Fundamentos de Arquitetura de Sistemas
 Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conceitos, aplicações e desenvolvimento de operações.
 
 https://hermes.digitalinnovation.one/courses/badge/c0374d9b-3a3b-49a2-9569-805846506ec7.png
-####  9. Arquitetura de Sistemas Avançado
+####  09. Arquitetura de Sistemas Avançado
 Conheça sobre os conceitos da arquitetura de sistemas, aplicações em nuvem e operações em softwares.
 
 https://hermes.digitalinnovation.one/courses/badge/dc6a595d-0726-4b5c-b4b2-03b2dbad6211.png
