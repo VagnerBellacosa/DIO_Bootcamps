@@ -7,7 +7,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
 <!-- PROJECT LOGO -->
 ![Certificado](images/Eduzz_FullstackDeveloper.png "Eduzz : Fullstack Developer")
 
@@ -15,7 +14,7 @@
 :trophy: 2021-11-25
 ### https://web.digitalinnovation.one/track/eduzz-fullstack-developer)
 - [Conteudo programatico](Eduzz_FullstackDeveloper.Md)
-                             
+  
 - ![Certificado](3D910CCC.pdf "Eduzz : Fullstack Developer")
 
 #### * DIO - Digital Inovation One *
@@ -38,3 +37,4 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
 [product-screenshot]: images/Eduzz_FullstackDeveloper.png
+
