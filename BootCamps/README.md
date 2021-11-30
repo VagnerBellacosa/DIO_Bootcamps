@@ -340,7 +340,8 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
-## 2021-11-29
+## [!TIP] 2021-11-29 
+2021-12-12
 ### https://web.digitalinnovation.one/track/tqi-java-developer
 - [Conteudo programatico](TQI_JavaDeveloper.md)
 <br>
@@ -358,6 +359,11 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 ## 2022-01-30
 ### https://web.dio.me/track/amdocs-java-developer
 - [Conteudo programatico](Amdocs_JavaDeveloper.md)
+ <br>
+ 
+## 2022-01-30
+### https://web.dio.me/track/eduzz-fullstack-developer-2
+- [Conteudo programatico](Eduzz_FullstackDeveloper2.md)
  <br>
  
 ## 2022-02-01
