@@ -13,7 +13,7 @@
 ## 2022-01-30
 :trophy: 2021-11-30
 ### https://web.dio.me/track/eduzz-fullstack-developer-2)
-- [Conteudo programatico](Eduzz_FullstackDeveloper2.Md)
+- [Conteudo programatico](../Eduzz_FullstackDeveloper2.Md)
   
 - ![Certificado](A1905FB0.pdf "Eduzz : Fullstack Developer #2")
 
