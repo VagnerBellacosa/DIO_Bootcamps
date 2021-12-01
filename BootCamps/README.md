@@ -333,6 +333,13 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 - :scroll: [Certificado](./Certificados/Eduzz_FullstackDeveloper.md)
 <br>
 
+## 2022-01-30
+:trophy: 2021-11-30
+### https://web.dio.me/track/eduzz-fullstack-developer-2
+- [Conteudo programatico](Eduzz_FullstackDeveloper2.md)
+
+- :scroll: [Certificado](./Certificados/Eduzz_FullstackDeveloper2.md)
+ <br>
 
 ---
 
@@ -360,12 +367,7 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 ### https://web.dio.me/track/amdocs-java-developer
 - [Conteudo programatico](Amdocs_JavaDeveloper.md)
  <br>
- 
-## 2022-01-30
-### https://web.dio.me/track/eduzz-fullstack-developer-2
-- [Conteudo programatico](Eduzz_FullstackDeveloper2.md)
- <br>
- 
+  
 ## 2022-02-01
 ### https://web.dio.me/track/cognizant-java-developer
 - [Conteudo programatico](Cognizant_JavaDeveloper.md)
