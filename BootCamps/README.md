@@ -341,18 +341,20 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 - :scroll: [Certificado](./Certificados/Eduzz_FullstackDeveloper2.md)
  <br>
 
+## [!TIP] 2021-11-29  2021-12-12
+:trophy: 2021-11-30
+### https://web.digitalinnovation.one/track/tqi-java-developer
+- [Conteudo programatico](TQI_JavaDeveloper.md)
+
+- :scroll: [Certificado](./Certificados/TQI_JavaDeveloper.md)
+<br>
+
 ---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
-## [!TIP] 2021-11-29 
-2021-12-12
-### https://web.digitalinnovation.one/track/tqi-java-developer
-- [Conteudo programatico](TQI_JavaDeveloper.md)
-<br>
-
 ## 2022-01-08
 ### https://web.digitalinnovation.one/track/take-blip-fullstack-developer-2
 - [Conteudo programatico](TakeBlip_FullstackDeveloper2.md)
