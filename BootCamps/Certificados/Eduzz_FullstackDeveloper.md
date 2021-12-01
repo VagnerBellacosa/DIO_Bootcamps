@@ -13,7 +13,7 @@
 ## 2021-11-30
 :trophy: 2021-11-25
 ### https://web.digitalinnovation.one/track/eduzz-fullstack-developer)
-- [Conteudo programatico](Eduzz_FullstackDeveloper.Md)
+- [Conteudo programatico](../Eduzz_FullstackDeveloper.md)
   
 - ![Certificado](3D910CCC.pdf "Eduzz : Fullstack Developer")
 
