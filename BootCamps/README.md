@@ -352,9 +352,9 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 ## 2022-01-08
 :trophy: 2021-12-08
 ### https://web.digitalinnovation.one/track/take-blip-fullstack-developer-2
-- [Conteudo programatico](TakeBlip_FullstackDeveloper2.md)
-
-- :scroll: [Certificado](./Certificados/TakeBlip_FullstackDeveloper2.md)
+- [Conteudo programatico](TakeBlip_FullstackDeveloper2.Md)
+                          
+- :scroll: [Certificado](./Certificados/TakeBlip_FullstackDeveloper2.Md)
  <br>
  
  
