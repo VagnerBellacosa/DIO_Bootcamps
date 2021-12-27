@@ -9,7 +9,7 @@
 
 
 <!-- PROJECT LOGO -->
-![Bootcamps na Digital Innovation One](Images/capa.png "Bootcamps")
+![Bootcamps na Digital Innovation One](Images/Bootcamp_Logo2022.png "Bootcamps")
 
 
 # DIO - Digital Innovation One : Bootcamps
