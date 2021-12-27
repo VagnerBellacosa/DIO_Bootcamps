@@ -349,6 +349,15 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 - :scroll: [Certificado](./Certificados/TQI_JavaDeveloper.md)
 <br>
 
+## 2022-01-08
+:trophy: 2021-12-08
+### https://web.digitalinnovation.one/track/take-blip-fullstack-developer-2
+- [Conteudo programatico](TakeBlip_FullstackDeveloper2.md)
+
+- :scroll: [Certificado](./Certificados/TakeBlip_FullstackDeveloper2.md)
+ <br>
+ 
+ 
 ## 2022-03-08
 :trophy: 2021-12-27
 ### https://web.dio.me/track/spread-java-developer
@@ -364,11 +373,6 @@ https://web.digitalinnovation.one/track/everis-new-talents-3-java?tab=path
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
-## 2022-01-08
-### https://web.digitalinnovation.one/track/take-blip-fullstack-developer-2
-- [Conteudo programatico](TakeBlip_FullstackDeveloper2.md)
- <br>
-
 ## 2022-01-23
 ### https://web.dio.me/track/decola-tech-2a-edicao
 - [Conteudo programatico](Decola_Tech2aEdicao.md)
