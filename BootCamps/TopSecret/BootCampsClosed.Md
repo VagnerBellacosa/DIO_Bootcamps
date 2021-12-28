@@ -12,7 +12,10 @@ Nao é uma lista exaustiva, se conhecer mais alguns avisa nos comentarios. Obrig
 
  :clipboard: Básico    :computer: 1 atividades   :clock430: 1 hrs
 
-[Link do Bootcamp](https://web.digitalinnovation.one/track/art-it-lei-geral-de-protecao-de-dados?tab=path)
+- new [Link do Bootcamp](https://web.dio.me/track/art-it-lei-geral-de-protecao-de-dados?tab=path)
+
+- old [Link do Bootcamp](https://web.digitalinnovation.one/track/art-it-lei-geral-de-protecao-de-dados?tab=path)
+
 
 [Conteudo programatico](ARTIT_LGPD.MD)
 
@@ -24,7 +27,9 @@ Nao é uma lista exaustiva, se conhecer mais alguns avisa nos comentarios. Obrig
 
  :clipboard: Intermediário    :computer: 4 atividades   :clock430: 16 hrs
 
-[Link do Bootcamp](https://web.digitalinnovation.one/track/cloud-computing-serverless?tab=path)
+- new [Link do Bootcamp](https://web.dio.me/track/cloud-computing-serverless?tab=path)
+
+- old [Link do Bootcamp](https://web.digitalinnovation.one/track/cloud-computing-serverless?tab=path)
 
 [Conteudo programatico](CloudComputingServerless.md)
 
@@ -38,7 +43,16 @@ Nao é uma lista exaustiva, se conhecer mais alguns avisa nos comentarios. Obrig
 
 [Conteudo programatico](DesenvolvedorFullstackPython.md)
 
-[Link do Bootcamp](https://web.digitalinnovation.one/track/desenvolvedor-fullstack-python-1?tab=path)
+#### 2020 b
+
+- new [Link do Bootcamp](https://web.dio.me/track/desenvolvedor-fullstack-python?tab=path)
+
+- old [Link do Bootcamp](https://web.digitalinnovation.one/track/desenvolvedor-fullstack-python?tab=path)
+
+#### 2020 a
+- new [Link do Bootcamp](https://web.dio.me/track/desenvolvedor-fullstack-python-1?tab=path)
+
+- old [Link do Bootcamp](https://web.digitalinnovation.one/track/desenvolvedor-fullstack-python-1?tab=path)
 
 ### PHP
 
@@ -50,7 +64,9 @@ Nao é uma lista exaustiva, se conhecer mais alguns avisa nos comentarios. Obrig
 
 [Conteudo programatico](DesenvolvedorPHP.md)
 
-[Link do Bootcamp](https://web.digitalinnovation.one/track/desenvolvedor-php?tab=path)
+new - [Link do Bootcamp](https://web.dio.me/track/desenvolvedor-php?tab=path)
+
+old - [Link do Bootcamp](https://web.digitalinnovation.one/track/desenvolvedor-php?tab=path)
 
 ### Inovaçao
 
@@ -62,7 +78,9 @@ Nao é uma lista exaustiva, se conhecer mais alguns avisa nos comentarios. Obrig
 
 [Conteudo programatico](EspecialistaInovaçãoDigital.md)
 
-[Link do Bootcamp](https://web.digitalinnovation.one/track/especialista-inovacao-digital?tab=path)
+new - [Link do Bootcamp](https://web.dio.me/track/especialista-inovacao-digital?tab=path)
+
+old - [Link do Bootcamp](https://web.digitalinnovation.one/track/especialista-inovacao-digital?tab=path)
 
 ### Node.JS
 
@@ -74,7 +92,9 @@ Nao é uma lista exaustiva, se conhecer mais alguns avisa nos comentarios. Obrig
 
 [Conteudo programatico](NodeJsWebDeveloper.md)
 
-[Link do Bootcamp](https://web.digitalinnovation.one/track/nodejs-web-developer)
+new - [Link do Bootcamp](https://web.dio.me/track/nodejs-web-developer)
+
+old - [Link do Bootcamp](https://web.digitalinnovation.one/track/nodejs-web-developer)
 
 ### React.JS
 
@@ -86,7 +106,9 @@ Nao é uma lista exaustiva, se conhecer mais alguns avisa nos comentarios. Obrig
 
 [Conteudo programatico](TalentosReactJS2020.md)
 
-[Link do Bootcamp](https://web.digitalinnovation.one/track/talentos-reactjs-2020?tab=path)
+new - [Link do Bootcamp](https://web.dio.me/track/talentos-reactjs-2020?tab=path)
+
+old - [Link do Bootcamp](https://web.digitalinnovation.one/track/talentos-reactjs-2020?tab=path)
 
 ### Top Secret
 
@@ -98,5 +120,7 @@ Nao é uma lista exaustiva, se conhecer mais alguns avisa nos comentarios. Obrig
 
 [Conteudo programatico](NinjaBootcamps.md)
 
-[Link do Bootcamp](https://web.digitalinnovation.one/track/undefined?fbclid=IwAR16sFXdj7333kqnQtRLmOm-eC3CUxlrR5ABAJUhY0d1YAfxeS1NwYv90Nw&tab=path)
+new - [Link do Bootcamp](https://web.dio.me/track/undefined?fbclid=IwAR16sFXdj7333kqnQtRLmOm-eC3CUxlrR5ABAJUhY0d1YAfxeS1NwYv90Nw&tab=path)
+
+old - [Link do Bootcamp](https://web.digitalinnovation.one/track/undefined?fbclid=IwAR16sFXdj7333kqnQtRLmOm-eC3CUxlrR5ABAJUhY0d1YAfxeS1NwYv90Nw&tab=path)
 

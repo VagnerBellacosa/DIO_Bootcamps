@@ -4,7 +4,7 @@
 
 Aprenda a base de segurança e quais cuidados você deve ter com dados sensíveis agora com a lei da LGPD.
 
-### Contenudo Programatico
+### Conteudo Programatico
 
 ![Badge](https://hermes.digitalinnovation.one/badge/default.png)
 ### Introdução, Políticas de Segurança e Privacidade
