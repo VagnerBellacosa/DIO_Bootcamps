@@ -1,0 +1,88 @@
+Html:
+
+
+
+     <input type="checkbox" id="chec">
+        <label for="chec">
+            <img class="Menu__navegaçao" src="./img/Vector.png">
+        </label>
+
+
+    <nav class="menu__lateral">
+            <ul class="lista__menu__lateral">
+                <li class="itens__menu__lateral">
+                    <a href="#">CONTATOS</a>
+                </li>
+                <li class="itens__menu__lateral">
+                    <a href="#">HORÁRIO DE FUNCIONAMENTO</a>
+                </li>
+
+                <li class="itens__menu__lateral">
+                    <a href="#">QUEM SOMOS</a>
+                </li>
+                <li class="itens__menu__lateral">
+                    <a href="#">GALERIA</a>
+                </li>
+            </ul> 
+    </nav> 
+
+
+CSS:
+
+.Menu__navegaçao{
+    width: 14px;
+
+
+}
+
+
+input[type="checkbox"]{
+    display:none;
+}
+
+
+.menu__lateral{
+    background: rgb(49, 48, 48);
+    width: 350px;  
+    height: 100%;
+    left: -350px;
+    position: absolute; 
+    transition: all 0.5s;   
+}
+
+
+input[type="checkbox"]:checked ~ .menu__lateral{
+    transform: translateX(350px);
+}
+
+
+.lista__menu__lateral{
+    position:absolute;
+    top: 30px;
+    width: 100%;
+}
+
+
+.itens__menu__lateral a{
+    color: #FFFF;
+    display: block;
+    padding: 20px 5px;
+}
+.itens__menu__lateral a:hover{
+    background-color:#FFF23DD4;
+    font-size: 20px;
+}
+
+
+label{
+    position:absolute;
+    padding: 15px;
+    z-index: 1;
+
+
+}
+
+
+GitHub:
+
+https://github.com/coelholeticia/Landing-page
