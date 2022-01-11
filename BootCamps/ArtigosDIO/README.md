@@ -17,6 +17,13 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 🏄🏄🏄 Descubra alguns Smiles em Emoji em HTML Entity 🏃🏃🏃 <br> 
+
+https://web.dio.me/articles/descubra-alguns-emoji-em-html-entity <br> 
+
+"Programação para Internet" "HTML" "Boas práticas" <br> 
+
+
 :rocket: MVS o parrudo sistema operacional dos IBM Mainframes <br> 
 
 https://web.dio.me/articles/mvs-o-parrudo-sistema-operacional-dos-ibm-mainframes
