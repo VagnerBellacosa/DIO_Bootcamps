@@ -14,53 +14,62 @@
 
 Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  <br>
 
+
 # Indice de Artigos  <br><br>
 
+:rocket: 🏆🏆🏆 Agradecimento nomeação DIO Awards 2021 <br> 
+
+https://web.dio.me/articles/agradecimento-nomeacao-dio-awards-2021 <br>
+
+ "Marketing Pessoal" "Equipe Motivada" "Marketing Digital" <br>
+ 
 :rocket: O que é Joint Application Design? <br> 
 
 https://web.dio.me/articles/o-que-e-joint-application-design?back=/articles <br> 
 
-#Desperte o potencial#Informática Básica#Arquitetura de Sistemas <br> 
+"Desperte o potencial" "Informática Básica" "Arquitetura de Sistemas" <br> 
+
 
 :rocket: LOG4Shell: Um exploit que esta dando dor de cabeça  <br> 
 
 https://web.dio.me/articles/log4shell-um-exploit-que-esta-dando-dor-de-cabeca?back=/articles <br> 
 
-#Segurança no trabalho#Boas práticas#Arquitetura de Sistemas <br> 
+"Segurança no trabalho" "Boas práticas" "Arquitetura de Sistemas" <br> 
+
 
 :rocket: Organizando reuniões de trabalho  <br> 
 
 https://web.dio.me/articles/organizando-reunioes-de-trabalho <br> 
 
-#Desperte o potencial#Marketing Pessoal#Soft Skill <br> 
+"Desperte o potencial" "Marketing Pessoal" "Soft Skill" <br> 
 
 
 :rocket: A onda do momento surfando no Metaverso <br> 
 
 https://web.dio.me/articles/a-onda-do-momento-surfando-no-metaverso <br> 
 
-#Trabalho Remoto#Marketing Digital#Arquitetura de Sistemas <br> 
+"Trabalho Remoto" "Marketing Digital" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: O risco da Síndrome de Burnout <br> 
 
 https://web.dio.me/articles/o-risco-da-sindrome-de-burnout <br> 
 
-#Desperte o potencial#Marketing Pessoal#Arquitetura de Sistemas <br> 
+"Desperte o potencial" "Marketing Pessoal" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Sem vergonha: O Twitter para padawans. <br> 
 
 https://web.dio.me/articles/sem-vergonha-o-twitter-para-padawans <br> 
 
-#Marketing Pessoal#Informática Básica#Arquitetura de Sistemas <br> 
+"Marketing Pessoal" "Informática Básica" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Deep Web a web oculta de olhos inexperientes <br> 
 
 https://web.dio.me/articles/deep-web-a-web-oculta-de-olhos-inexperientes <br> 
 
-#Programação para Internet#Boas práticas#Arquitetura de Sistemas <br> 
+"Programação para Internet" "Boas práticas" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Atenção, nem sempre as aparências enganam <br> 
