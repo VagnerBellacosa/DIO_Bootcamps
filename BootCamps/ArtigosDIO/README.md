@@ -16,6 +16,11 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: O que é Joint Application Design? <br> 
+
+https://web.dio.me/articles/o-que-e-joint-application-design?back=/articles <br> 
+
+#Desperte o potencial#Informática Básica#Arquitetura de Sistemas <br> 
 
 :rocket: LOG4Shell: Um exploit que esta dando dor de cabeça  <br> 
 
@@ -62,21 +67,21 @@ https://web.dio.me/articles/deep-web-a-web-oculta-de-olhos-inexperientes <br>
 
 https://web.dio.me/articles/atencao-nem-sempre-as-aparencias-enganam <br> 
 
-#Boas práticas#Integração#UI/UX <br> 
+"Boas práticas" "Integração" "UI/UX" <br> 
 
 
 :rocket: Become remote e a pandemia 21 meses de luta <br> 
 
 https://web.dio.me/articles/become-remote-e-a-pandemia-21-meses-de-luta <br> 
 
-#Liderança de Equipe#Boas práticas#Inovação <br> 
+"Liderança de Equipe" "Boas práticas" "Inovação" <br> 
 
 
 :rocket: Performance e otimização uma primeira olhada <br> 
 
 https://web.dio.me/articles/performance-e-otimizacao-primeira-olhada <br> 
 
-#Arquitetura de Sistemas <br> 
+"Arquitetura de Sistemas" <br> 
 
 
 :rocket: 25 anos da criaçao do Tomagotchi <br> 
