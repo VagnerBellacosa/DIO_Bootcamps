@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 # Indice de Artigos  <br><br>
 
 
+:rocket: LOG4Shell: Um exploit que esta dando dor de cabeça  <br> 
+
+https://web.dio.me/articles/log4shell-um-exploit-que-esta-dando-dor-de-cabeca?back=/articles <br> 
+
+#Segurança no trabalho#Boas práticas#Arquitetura de Sistemas <br> 
+
 :rocket: Organizando reuniões de trabalho  <br> 
 
 https://web.dio.me/articles/organizando-reunioes-de-trabalho <br> 
@@ -77,28 +83,28 @@ https://web.dio.me/articles/performance-e-otimizacao-primeira-olhada <br>
 
 https://web.dio.me/articles/25-anos-da-criacao-do-tomagotchi <br> 
 
-#Informática Básica#Marketing Digital#Arquitetura de Sistemas <br> 
+"Informática Básica" "Marketing Digital" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: VARCHAR primeiros passos em base de dados mainframe <br> 
 
 https://web.dio.me/articles/varchar-primeiros-passos-em-base-de-dados-mainframe <br> 
 
-#Informática Básica#SQL#Arquitetura de Sistemas <br> 
+"Informática Básica" "SQL" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Quase 1.000, beirando o kilofriends na nossa comunidade <br> 
 
 https://web.dio.me/articles/quase-1000-beirando-o-kilofriends-na-nossa-comunidade <br> 
 
-#Marketing Pessoal#Marketing Digital#Soft Skill <br> 
+"Marketing Pessoal" "Marketing Digital" "Soft Skill" <br> 
 
 
 :rocket: Descubra SEARCH e SEARCH ALL : Comandos COBOL <br> 
 
 https://web.dio.me/articles/search-e-search-all-comandos-cobol <br> 
   
-#Estrutura de dados#Informática Básica#Arquitetura de Sistemas <br> 
+"Estrutura de dados" "Informática Básica" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Prototipagem de software dicas e comentarios <br>
