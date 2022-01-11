@@ -18,6 +18,13 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 # Indice de Artigos  <br><br>
 
 
+:rocket: N1, N2 e N3 suporte ao usuario <br> 
+
+https://web.dio.me/articles/n1-n2-e-n3-suporte-ao-usuario <br> 
+
+"Jira" "Informática Básica" "Arquitetura de Sistemas" <br> 
+
+
 :rocket: Dios Awards 2021 - Muito obrigado <br> 
 
 https://web.dio.me/articles/dios-awards-2021-muito-obrigado <br> 
