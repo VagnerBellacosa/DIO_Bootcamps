@@ -18,6 +18,11 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 # Indice de Artigos  <br><br>
 
 
+:rocket: Feliz Natal e muito obrigado pelo ano maravilhoso<br> 
+
+https://web.dio.me/articles/feliz-natal-e-muito-obrigado-pelo-ano-maravilhoso <br> 
+
+
 :rocket: N1, N2 e N3 suporte ao usuario <br> 
 
 https://web.dio.me/articles/n1-n2-e-n3-suporte-ao-usuario <br> 
