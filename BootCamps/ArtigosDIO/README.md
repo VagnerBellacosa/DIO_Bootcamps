@@ -14,91 +14,151 @@
 
 Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  <br>
 
+
 # Indice de Artigos  <br><br>
+
+
+:rocket: ⛅📡 💾 Do Mainframe a Cloud Computer, la e ca outra vez... 💾 📡 ⛅<br> 
+
+https://web.dio.me/articles/do-mainframe-a-cloud-computer-la-e-ca-outra-vez <br> 
+
+"Google Cloud Platform (GCP)" "Azure" "AWS" <br> 
+
+
+:rocket: 🏄🏄🏄 Descubra alguns Smiles em Emoji em HTML Entity 🏃🏃🏃 <br> 
+
+https://web.dio.me/articles/descubra-alguns-emoji-em-html-entity <br> 
+
+"Programação para Internet" "HTML" "Boas práticas" <br> 
+
+
+:rocket: MVS o parrudo sistema operacional dos IBM Mainframes <br> 
+
+https://web.dio.me/articles/mvs-o-parrudo-sistema-operacional-dos-ibm-mainframes
+
+"Integração" "Arquitetura de Sistemas" "QA"
+
+:rocket: Feliz Natal e muito obrigado pelo ano maravilhoso<br> 
+
+https://web.dio.me/articles/feliz-natal-e-muito-obrigado-pelo-ano-maravilhoso <br> 
+
+
+:rocket: N1, N2 e N3 suporte ao usuario <br> 
+
+https://web.dio.me/articles/n1-n2-e-n3-suporte-ao-usuario <br> 
+
+"Jira" "Informática Básica" "Arquitetura de Sistemas" <br> 
+
+
+:rocket: Dios Awards 2021 - Muito obrigado <br> 
+
+https://web.dio.me/articles/dios-awards-2021-muito-obrigado <br> 
+
+"Desperte o potencial" "Lean Startup" "Soft Skill"<br> 
+
+
+:rocket: 🏆🏆🏆 Agradecimento nomeação DIO Awards 2021 <br> 
+
+https://web.dio.me/articles/agradecimento-nomeacao-dio-awards-2021 <br>
+
+ "Marketing Pessoal" "Equipe Motivada" "Marketing Digital" <br>
+ 
+:rocket: O que é Joint Application Design? <br> 
+
+https://web.dio.me/articles/o-que-e-joint-application-design?back=/articles <br> 
+
+"Desperte o potencial" "Informática Básica" "Arquitetura de Sistemas" <br> 
+
+
+:rocket: LOG4Shell: Um exploit que esta dando dor de cabeça  <br> 
+
+https://web.dio.me/articles/log4shell-um-exploit-que-esta-dando-dor-de-cabeca?back=/articles <br> 
+
+"Segurança no trabalho" "Boas práticas" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Organizando reuniões de trabalho  <br> 
 
 https://web.dio.me/articles/organizando-reunioes-de-trabalho <br> 
 
-#Desperte o potencial#Marketing Pessoal#Soft Skill <br> 
+"Desperte o potencial" "Marketing Pessoal" "Soft Skill" <br> 
 
 
 :rocket: A onda do momento surfando no Metaverso <br> 
 
 https://web.dio.me/articles/a-onda-do-momento-surfando-no-metaverso <br> 
 
-#Trabalho Remoto#Marketing Digital#Arquitetura de Sistemas <br> 
+"Trabalho Remoto" "Marketing Digital" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: O risco da Síndrome de Burnout <br> 
 
 https://web.dio.me/articles/o-risco-da-sindrome-de-burnout <br> 
 
-#Desperte o potencial#Marketing Pessoal#Arquitetura de Sistemas <br> 
+"Desperte o potencial" "Marketing Pessoal" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Sem vergonha: O Twitter para padawans. <br> 
 
 https://web.dio.me/articles/sem-vergonha-o-twitter-para-padawans <br> 
 
-#Marketing Pessoal#Informática Básica#Arquitetura de Sistemas <br> 
+"Marketing Pessoal" "Informática Básica" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Deep Web a web oculta de olhos inexperientes <br> 
 
 https://web.dio.me/articles/deep-web-a-web-oculta-de-olhos-inexperientes <br> 
 
-#Programação para Internet#Boas práticas#Arquitetura de Sistemas <br> 
+"Programação para Internet" "Boas práticas" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Atenção, nem sempre as aparências enganam <br> 
 
 https://web.dio.me/articles/atencao-nem-sempre-as-aparencias-enganam <br> 
 
-#Boas práticas#Integração#UI/UX <br> 
+"Boas práticas" "Integração" "UI/UX" <br> 
 
 
 :rocket: Become remote e a pandemia 21 meses de luta <br> 
 
 https://web.dio.me/articles/become-remote-e-a-pandemia-21-meses-de-luta <br> 
 
-#Liderança de Equipe#Boas práticas#Inovação <br> 
+"Liderança de Equipe" "Boas práticas" "Inovação" <br> 
 
 
 :rocket: Performance e otimização uma primeira olhada <br> 
 
 https://web.dio.me/articles/performance-e-otimizacao-primeira-olhada <br> 
 
-#Arquitetura de Sistemas <br> 
+"Arquitetura de Sistemas" <br> 
 
 
 :rocket: 25 anos da criaçao do Tomagotchi <br> 
 
 https://web.dio.me/articles/25-anos-da-criacao-do-tomagotchi <br> 
 
-#Informática Básica#Marketing Digital#Arquitetura de Sistemas <br> 
+"Informática Básica" "Marketing Digital" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: VARCHAR primeiros passos em base de dados mainframe <br> 
 
 https://web.dio.me/articles/varchar-primeiros-passos-em-base-de-dados-mainframe <br> 
 
-#Informática Básica#SQL#Arquitetura de Sistemas <br> 
+"Informática Básica" "SQL" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Quase 1.000, beirando o kilofriends na nossa comunidade <br> 
 
 https://web.dio.me/articles/quase-1000-beirando-o-kilofriends-na-nossa-comunidade <br> 
 
-#Marketing Pessoal#Marketing Digital#Soft Skill <br> 
+"Marketing Pessoal" "Marketing Digital" "Soft Skill" <br> 
 
 
 :rocket: Descubra SEARCH e SEARCH ALL : Comandos COBOL <br> 
 
 https://web.dio.me/articles/search-e-search-all-comandos-cobol <br> 
   
-#Estrutura de dados#Informática Básica#Arquitetura de Sistemas <br> 
+"Estrutura de dados" "Informática Básica" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: Prototipagem de software dicas e comentarios <br>
