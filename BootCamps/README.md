@@ -43,7 +43,12 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.dio.me/track/amdocs-java-developer
 - [Conteudo programatico](Amdocs_JavaDeveloper.md)
  <br>
-  
+
+## 2022-01-30
+https://web.dio.me/track/gft-start-3-net
+- [Conteudo programatico](GFT_Start3_DotNet.md)
+ <br>
+ 
 ## 2022-02-01
 ### https://web.dio.me/track/cognizant-java-developer
 - [Conteudo programatico](Cognizant_JavaDeveloper.md)
@@ -70,6 +75,13 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - [Conteudo programatico](NTT_DataAndroidDeveloper.md)
  <br> 
  
+## 2022-03-20
+###  https://web.dio.me/track/take-blip-web-developer
+- [Conteudo programatico](TakeBlip_WebDeveloper.md)
+ <br>
+
+
+
 ---
 
 #### * DIO - Digital Inovation One *
