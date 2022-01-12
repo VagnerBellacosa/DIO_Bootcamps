@@ -17,6 +17,14 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+
+:rocket: ⛅📡 💾 Do Mainframe a Cloud Computer, la e ca outra vez... 💾 📡 ⛅<br> 
+
+https://web.dio.me/articles/do-mainframe-a-cloud-computer-la-e-ca-outra-vez <br> 
+
+"Google Cloud Platform (GCP)" "Azure" "AWS" <br> 
+
+
 :rocket: 🏄🏄🏄 Descubra alguns Smiles em Emoji em HTML Entity 🏃🏃🏃 <br> 
 
 https://web.dio.me/articles/descubra-alguns-emoji-em-html-entity <br> 
