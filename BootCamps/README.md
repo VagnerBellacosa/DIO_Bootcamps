@@ -70,6 +70,13 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - [Conteudo programatico](NTT_DataAndroidDeveloper.md)
  <br> 
  
+## 2022-03-20
+###  https://web.dio.me/track/take-blip-web-developer
+- [Conteudo programatico](TakeBlip_WebDeveloper.md)
+ <br>
+
+
+
 ---
 
 #### * DIO - Digital Inovation One *
