@@ -729,6 +729,8 @@ https://web.dio.me/articles/nove-gravidas-nao-geram-um-bebe-em-apenas-um-mes <br
 
 :rocket: Seja visível, aumente sua Reputação [Você sabia?] <br>
 
+https://web.dio.me/articles/seja-visivel-aumente-sua-reputacao-voce-sabia <br>
+
  "Desperte o potencial" "Marketing Pessoal" "Informática Básica" <br>
 
 
