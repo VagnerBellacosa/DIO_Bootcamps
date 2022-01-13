@@ -23,7 +23,7 @@
 #### * DIO - Digital Inovation One *
 ######  [Inscreva-se na Dio](https://web.digitalinnovation.one/track/gft-java-aws-developer)  
 
-######  [Vagner Bellacosa perfil na Dio](https://web.digitalinnovation.one/users/vagnerbellacosa?tab=achievements)  
+######  [Vagner Bellacosa perfil na Dio](https://web.dio.me/users/vagnerbellacosa?tab=achievements)  
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
