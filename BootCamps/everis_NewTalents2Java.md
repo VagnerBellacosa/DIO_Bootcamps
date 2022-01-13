@@ -6,19 +6,19 @@ Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço n
 
 ### :clipboard: Intermediário :computer: 26 atividades  :clock430: 70 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/everis-new-talents-2-java?tab=path)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/everis-new-talents-2-java?tab=path)
 
 | everis New Talents #2 Java                 |
 |-------------------------------------|
-| 1. Boas-vindas ao Bootcamp everis New Talents #2 Java |
-| 2. Bem-vindo à DIO |
-| 3. Projetos ágeis com SCRUM |
-| 4. Lógica de Programação Essencial |
-| 5. Aprenda o que são Estrutura de Dados e Algoritmos |
-| 6. Introdução ao Git e ao GitHub |
-| 7. Resolvendo Desafios de Código em Java |
-| 8. Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso |
-| 9. Dominando IDEs Java |
+| 01. Boas-vindas ao Bootcamp everis New Talents #2 Java |
+| 02. Bem-vindo à DIO |
+| 03. Projetos ágeis com SCRUM |
+| 04. Lógica de Programação Essencial |
+| 05. Aprenda o que são Estrutura de Dados e Algoritmos |
+| 06. Introdução ao Git e ao GitHub |
+| 07. Resolvendo Desafios de Código em Java |
+| 08. Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso |
+| 09. Dominando IDEs Java |
 | 10. Desenvolvimento básico em Java |
 | 11. Introdução a orientação a objetos com Java |
 | 12. Estrutura de dados em Java |
@@ -38,39 +38,39 @@ Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço n
 | 26. Primeiros desafios de código com Java |
 
 https://hermes.digitalinnovation.one/courses/badge/421aec9c-6470-4c5d-abbc-48b6fba6b844.png
-####  1 - Boas-vindas ao Bootcamp everis New Talents #2 Java
+####  01 - Boas-vindas ao Bootcamp everis New Talents #2 Java
 Esse curso é para que você conheça mais sobre a multinacional everis, que tem sua sede na Espanha e já está presente em 17 países! Vamos responder dúvidas sobre o bootcamp, o processo seletivo e as vagas disponíveis.
 
 https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png
-#### 2 - Bem-vindo à DIO
+#### 02 - Bem-vindo à DIO
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades.
 
 https://hermes.digitalinnovation.one/courses/badge/a2d012ac-78ee-40b0-a96c-3e48d06eaaad.png
-####  3 - Projetos ágeis com SCRUM
+####  03 - Projetos ágeis com SCRUM
 SCRUM é um framework utilizado no gerenciamento ágil de projetos de software. Esse curso ensinará os fundamentos e práticas da metodologia.
 
 https://hermes.digitalinnovation.one/courses/badge/88cb0f8d-dcdb-4c7d-a9c5-c56d021a23b1.png
-####  4 - Lógica de Programação Essencial
+####  04 - Lógica de Programação Essencial
 Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequências de passos bem estabelecidos, como por exemplo, uma receita de bolo.
 
 https://hermes.digitalinnovation.one/courses/badge/6c8dca92-1741-4d75-a54c-b0f6cd56fd6c.png
-####  5 - Aprenda o que são Estrutura de Dados e Algoritmos
+####  05 - Aprenda o que são Estrutura de Dados e Algoritmos
 Aprenda o que são estruturas de dados em um sistema, qual a importância dela e como trabalhar com o armazenamento dessas informações de forma ágil e otimizada.
 
 https://hermes.digitalinnovation.one/courses/badge/c1f33b18-497b-408b-885f-ee8db71d872b.png
-####  6 - Introdução ao Git e ao GitHub
+####  06 - Introdução ao Git e ao GitHub
 Nesse curso vamos aprender um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho.
 
 https://hermes.digitalinnovation.one/courses/badge/ffd40f3e-17c9-4ccd-9140-8f44b6add39f.png
-####  7 - Resolvendo Desafios de Código em Java
+####  07 - Resolvendo Desafios de Código em Java
 Antes de seguir para os Desafios de Código, entenda melhor o que são eles, qual a importância, como solucioná-los na plataforma e alguns conceitos básicos que envolvem a codificação.
 
 https://hermes.digitalinnovation.one/lab_projects/badges/a9699ff3-e9db-435c-8851-8ca794591ccf.png
-####  8 -Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+####  08 -Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
 
 https://hermes.digitalinnovation.one/courses/badge/6c201cba-ff90-4a8e-8b08-77ec0ddcffe1.png
-####  9 - Dominando IDEs Java
+####  09 - Dominando IDEs Java
 Instale e configure os principais Ambientes de Desenvolvimento Integrado (IDE) da linguagem de programação Java, passando por IntelliJ e eclipse. Para isso, a expert apresenta todo o processo de instalação além das primeiras dicas de uso dessas ferramentas poderosas de desenvolvimento.
 
 https://hermes.digitalinnovation.one/courses/badge/88bb39be-4055-4d4c-ae22-c11c25ca6016.png

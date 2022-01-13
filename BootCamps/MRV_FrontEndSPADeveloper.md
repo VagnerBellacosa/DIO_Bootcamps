@@ -6,19 +6,19 @@ No Bootcamp MRV Front End SPA Developer você vai aprender com a gente os concei
 
 ### :clipboard: Intermediário  :computer: 21 atividades  :clock430: 81 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/html-web-developer?tab=path)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/html-web-developer?tab=path)
 
 | MRV Front End SPA Developer  |
 |-------------------------------------|
-| 1. Bem-vindo à DIO  | 
-| 2. Boas-vindas ao Bootcamp MRV Front End SPA Developer | 
-| 3. Lógica de Programação Essencial | 
-| 4. Aprenda o que são Estrutura de Dados e Algoritmos | 
-| 5. Introdução ao Git e ao GitHub | 
-| 6. Introdução a criação de websites com HTML5 e CSS3 | 
-| 7. JavaScript ES6 essencial | 
-| 8. Programação para internet com JavaScript | 
-| 9. Desenvolvimento avançado com JavaScript ES6 | 
+| 01. Bem-vindo à DIO  | 
+| 02. Boas-vindas ao Bootcamp MRV Front End SPA Developer | 
+| 03. Lógica de Programação Essencial | 
+| 04. Aprenda o que são Estrutura de Dados e Algoritmos | 
+| 05. Introdução ao Git e ao GitHub | 
+| 06. Introdução a criação de websites com HTML5 e CSS3 | 
+| 07. JavaScript ES6 essencial | 
+| 08. Programação para internet com JavaScript | 
+| 09. Desenvolvimento avançado com JavaScript ES6 | 
 | 10. Recriando a Interface do Netflix | 
 | 11. Soluções Aritméticas em JavaScript | 
 | 12. Introdução ao ReactJS | 
@@ -33,39 +33,39 @@ No Bootcamp MRV Front End SPA Developer você vai aprender com a gente os concei
 | 21. Criando um front-end totalmente componentizado na prática com ReactJS | 
 
 https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png
-####  1. Bem-vindo à DIO
+####  01. Bem-vindo à DIO
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades.
 
 https://hermes.digitalinnovation.one/courses/badge/6ca4e7a1-d81b-4a11-b1e1-322e6062b16d.png
-####  2. Boas-vindas ao Bootcamp MRV Front End SPA Developer
+####  02. Boas-vindas ao Bootcamp MRV Front End SPA Developer
 Conheça mais sobre a MRV, a empresa que domina soluções corporativas no ramo imobiliário e é referência em tecnolgia.
 
 https://hermes.digitalinnovation.one/courses/badge/88cb0f8d-dcdb-4c7d-a9c5-c56d021a23b1.png
-####  3. Lógica de Programação Essencial
+####  03. Lógica de Programação Essencial
 Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequências de passos bem estabelecidos, como por exemplo, uma receita de bolo.
 
 https://hermes.digitalinnovation.one/courses/badge/6c8dca92-1741-4d75-a54c-b0f6cd56fd6c.png
-####  4. Aprenda o que são Estrutura de Dados e Algoritmos
+####  04. Aprenda o que são Estrutura de Dados e Algoritmos
 Aprenda o que são estruturas de dados em um sistema, qual a importância dela e como trabalhar com o armazenamento dessas informações de forma ágil e otimizada.
 
 https://hermes.digitalinnovation.one/courses/badge/c1f33b18-497b-408b-885f-ee8db71d872b.png
-####  5. Introdução ao Git e ao GitHub
+####  05. Introdução ao Git e ao GitHub
 Nesse curso vamos aprender um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho.
 
 https://hermes.digitalinnovation.one/courses/badge/28bfbf19-a31a-41a2-b78f-e70c0e18f37a.png
-####  6. Introdução a criação de websites com HTML5 e CSS3
+####  06. Introdução a criação de websites com HTML5 e CSS3
 Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do CSS3, explicar como funciona a estrutura básica dessas tecnologias, sua semântica, principais elementos e comandos.
 
 https://hermes.digitalinnovation.one/courses/badge/e9a71f8f-1275-4f41-b606-234ba3627920.png
-####  7. JavaScript ES6 essencial
+####  07. JavaScript ES6 essencial
 Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
 
 https://hermes.digitalinnovation.one/courses/badge/3cd53359-923e-4cc6-ae36-1dea026d3c39.png
-####  8. Programação para internet com JavaScript
+####  08. Programação para internet com JavaScript
 JavaScript é uma das mais importantes linguagens front-end, e nesse curso você entenderá o porquê disso e como trabalhar com ela.
 
 https://hermes.digitalinnovation.one/courses/badge/c2c97346-d62c-4739-92ba-d534b087aa56.png
-####  9. Desenvolvimento avançado com JavaScript ES6
+####  09. Desenvolvimento avançado com JavaScript ES6
 Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6, desde seus fundamentos até as funções avançadas e novos conceitos aplicados.
 
 https://hermes.digitalinnovation.one/lab_projects/badges/38586284-7e96-40d5-8504-b8c1cf504c4f.png

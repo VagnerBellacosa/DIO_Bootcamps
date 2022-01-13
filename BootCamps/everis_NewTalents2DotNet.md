@@ -6,19 +6,19 @@ Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço n
 
 ### :clipboard: Intermediário  :computer: 28 atividades  :clock430: 62 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/html-web-developer?tab=path)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/html-web-developer?tab=path)
 
 | everis New Talents #2 .NET                  |
 |-------------------------------------|
-| 1. Boas-vindas ao Bootcamp everis New Talents #2 .NET  |
-| 2. Bem-vindo à DIO  |
-| 3. Projetos ágeis com SCRUM  |
-| 4. Lógica de Programação Essencial  |
-| 5. Aprenda o que são Estrutura de Dados e Algoritmos  |
-| 6. Introdução ao Git e ao GitHub  |
-| 7. Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso  |
-| 8. Instalando o Visual Studio e SDK  |
-| 9. Primeiros passos com .NET  |
+| 01. Boas-vindas ao Bootcamp everis New Talents #2 .NET  |
+| 02. Bem-vindo à DIO  |
+| 03. Projetos ágeis com SCRUM  |
+| 04. Lógica de Programação Essencial  |
+| 05. Aprenda o que são Estrutura de Dados e Algoritmos  |
+| 06. Introdução ao Git e ao GitHub  |
+| 07. Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso  |
+| 08. Instalando o Visual Studio e SDK  |
+| 09. Primeiros passos com .NET  |
 | 10. Orientação a objetos em .NET  |
 | 11. Resolvendo desafios de código em C#  |
 | 12. Primeiros passos com C#  |
@@ -40,39 +40,39 @@ Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço n
 | 28. Configuração da Suíte de testes e aplicando testes integrados em .NET  |
 
 https://hermes.digitalinnovation.one/courses/badge/3f08f7be-7e6c-4e91-a884-9f0de3a368a9.png
-####  1. Boas-vindas ao Bootcamp everis New Talents #2 .NET
+####  01. Boas-vindas ao Bootcamp everis New Talents #2 .NET
 Esse curso é para que você conheça mais sobre a multinacional everis, que tem sua sede na Espanha e já está presente em 17 países! Vamos responder dúvidas sobre o bootcamp, o processo seletivo e as vagas disponíveis.
 
 https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png
-####  2. Bem-vindo à DIO
+####  02. Bem-vindo à DIO
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades.
 
 https://hermes.digitalinnovation.one/courses/badge/a2d012ac-78ee-40b0-a96c-3e48d06eaaad.png
-####  3. Projetos ágeis com SCRUM
+####  03. Projetos ágeis com SCRUM
 SCRUM é um framework utilizado no gerenciamento ágil de projetos de software. Esse curso ensinará os fundamentos e práticas da metodologia.
 
 https://hermes.digitalinnovation.one/courses/badge/88cb0f8d-dcdb-4c7d-a9c5-c56d021a23b1.png
-####  4. Lógica de Programação Essencial
+####  04. Lógica de Programação Essencial
 Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequências de passos bem estabelecidos, como por exemplo, uma receita de bolo.
 
 https://hermes.digitalinnovation.one/courses/badge/6c8dca92-1741-4d75-a54c-b0f6cd56fd6c.png
-####  5. Aprenda o que são Estrutura de Dados e Algoritmos
+####  05. Aprenda o que são Estrutura de Dados e Algoritmos
 Aprenda o que são estruturas de dados em um sistema, qual a importância dela e como trabalhar com o armazenamento dessas informações de forma ágil e otimizada.
 
 https://hermes.digitalinnovation.one/courses/badge/c1f33b18-497b-408b-885f-ee8db71d872b.png
-####  6. Introdução ao Git e ao GitHub
+####  06. Introdução ao Git e ao GitHub
 Nesse curso vamos aprender um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho.
 
 https://hermes.digitalinnovation.one/lab_projects/badges/a9699ff3-e9db-435c-8851-8ca794591ccf.png
-####  7. Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+####  07. Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
 
 https://hermes.digitalinnovation.one/courses/badge/6da0a80c-4646-4cba-a48f-d7d69f8621a6.png
-####  8. Instalando o Visual Studio e SDK
+####  08. Instalando o Visual Studio e SDK
 Aprenda o que você precisa instalar na sua máquina para dar seus primeiros passos em desenvolvimento dotnet, conheça o SDK da microsoft e o Visual Studio.
 
 https://hermes.digitalinnovation.one/courses/badge/daf70aaf-c171-41d1-b06f-15b814d4c030.png
-####  9. Primeiros passos com .NET
+####  09. Primeiros passos com .NET
 Nesse curso o aluno terá o primeiro contato com a plataforma .NET e sua linguagem C# aprendendo onde e como utilizá-las. O especialista vai mostrar como preparar ambiente, lidar com erros, classes e objetos.
 
 https://hermes.digitalinnovation.one/courses/badge/2d01337f-5930-40e5-b50a-0bc1141c2468.png

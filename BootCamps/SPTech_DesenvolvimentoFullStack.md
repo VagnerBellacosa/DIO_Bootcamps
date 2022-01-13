@@ -6,7 +6,7 @@ Aqui você aprenderá a desenvolver plataformas web utilizando a linguagem PHP e
 
 ### :clipboard: Intermediário  :computer: 36 atividades  :clock430: 109 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-fullstack?tab=path)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/sp-tech-desenvolvimento-fullstack?tab=path)
 
 | SPTech Desenvolvimento Fullstack     | 
 |-------------------------------------|

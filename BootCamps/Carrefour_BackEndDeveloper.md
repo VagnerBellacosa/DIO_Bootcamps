@@ -8,15 +8,15 @@ Aprenda as tecnologias usadas no Carrefour e se prepare para trabalhar em uma em
 
 | Carrefour : Backend Developer  |
 |-------------------------------------|
-| 1. Boas-vindas ao Bootcamp GFT START #2 Java |
-| 2. Bem-vindo à DIO |
-| 3. Conheça o Carrefour |
-| 4. Lógica de Programação Essencial |
-| 5. Introdução ao Git e ao GitHub |
-| 6. Fundamentos de Arquitetura de Sistemas |
-| 7. Arquitetura de Sistemas Avançado |
-| 8. Desenvolvimento básico em Java |
-| 9. Implementando Collections e Streams com Java |
+| 01. Boas-vindas ao Bootcamp GFT START #2 Java |
+| 02. Bem-vindo à DIO |
+| 03. Conheça o Carrefour |
+| 04. Lógica de Programação Essencial |
+| 05. Introdução ao Git e ao GitHub |
+| 06. Fundamentos de Arquitetura de Sistemas |
+| 07. Arquitetura de Sistemas Avançado |
+| 08. Desenvolvimento básico em Java |
+| 09. Implementando Collections e Streams com Java |
 | 10. Introdução ao framework Spring Boot |
 | 11. Desenvolvimento avançado em Java |
 | 12. Criando aplicações web com Spring Web MVC |

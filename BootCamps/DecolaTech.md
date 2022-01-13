@@ -6,7 +6,7 @@ O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros ta
 
 ### :clipboard: Intermediário  :computer: 17 atividades  :clock430: 40 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/decola-tech?tab=path)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/decola-tech?tab=path)
 
 | Decola Tech                  |
 |-------------------------------------|

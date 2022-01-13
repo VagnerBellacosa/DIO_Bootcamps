@@ -6,7 +6,7 @@ Conquiste as melhores oportunidades na everis como profissional de QA com foco e
 
 ### :clipboard: Intermediário :computer: 18 atividades  :clock430: 37 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-3?tab=path)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/everis-quality-assurance-beginner-3?tab=path)
 
 | everis NTT DATA Quality Assurance Beginner #3    | 
 |-------------------------------------|
@@ -30,37 +30,37 @@ Conquiste as melhores oportunidades na everis como profissional de QA com foco e
 | 18. Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção | 
 
 https://hermes.digitalinnovation.one/courses/badge/f5df1a25-3212-4524-a85d-531582edcc61.png
-####  1 - Boas-vindas ao Bootcamp NTT DATA Quality Assurance Beginner #3
+####  01 - Boas-vindas ao Bootcamp NTT DATA Quality Assurance Beginner #3
 A NTT DATA é a sexta empresa de IT com maior market share segundo Gartner e uma das marcas de crescimento mais rápido, e figura entre os 10 principais fornecedores de serviços de TI e negócios a nível mundial.
 
 https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png
-####  2 - Bem-vindo à DIO
+####  02 - Bem-vindo à DIO
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades.
 
 https://hermes.digitalinnovation.one/courses/badge/88cb0f8d-dcdb-4c7d-a9c5-c56d021a23b1.png
-####  3 - Lógica de Programação Essencial
+####  03 - Lógica de Programação Essencial
 Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequências de passos bem estabelecidos, como por exemplo, uma receita de bolo.
 
-####  4 - Git (Commit/Clone/Resolução de Merge/Code Review)
+####  04 - Git (Commit/Clone/Resolução de Merge/Code Review)
 Aprenda na prática alguns dos principais comandos Git, bem como os processos mais comuns relacionados a essa tecnologia de controle de versão. Nesse contexto, explore a resolução de merges e técnicas/boas práticas de code review.
 
-####  5 - Como ter foco nos seus estudos e como se tornar um tester
+####  05 - Como ter foco nos seus estudos e como se tornar um tester
 om tantas tecnologias disponíveis como linguagens de programação, frameworks, banco de dados relacionais e não relacionais, nuvem, containers e muitas outras tecnologias é comum se perder na hora de estudar e encontrar um foco nos estudos. Este mentoria irá dar um norte de como organizar os seus estudos e ainda você irá aprender como ser um tester e qual a sua importância no mercado de trabalho.
 
 https://hermes.digitalinnovation.one/courses/badge/39ffe32f-f748-4905-8d66-6932d45ef77d.png
-####  6 - Fundamentos de Arquitetura de Sistemas
+####  06 - Fundamentos de Arquitetura de Sistemas
 Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conceitos, aplicações e desenvolvimento de operações.
 
 https://hermes.digitalinnovation.one/courses/badge/88bb39be-4055-4d4c-ae22-c11c25ca6016.png
-####  7 - Desenvolvimento básico em Java
+####  07 - Desenvolvimento básico em Java
 A linguagem Java é orientada a objetos e uma das mais usadas por desenvolvedores no mundo. Aprenda desde os conceitos e instalação até a execução de projetos em Java.
 
 https://hermes.digitalinnovation.one/courses/badge/5a71425d-2ca3-4dde-bca2-a53a947e4185.png
-####  8 - Desenvolvimento avançado em Java
+####  08 - Desenvolvimento avançado em Java
 Aprenda em 8 horas de curso a executar de forma eficaz e ágil a linguagem Java e ainda conheça quais são as novidades nas versões da tecnologia: Java 10 e Java 11.
 
 https://hermes.digitalinnovation.one/courses/badge/ffd40f3e-17c9-4ccd-9140-8f44b6add39f.png
-####  9 - Resolvendo Desafios de Código em Java
+####  09 - Resolvendo Desafios de Código em Java
 Antes de seguir para os Desafios de Código, entenda melhor o que são eles, qual a importância, como solucioná-los na plataforma e alguns conceitos básicos que envolvem a codificação.
 
 https://hermes.digitalinnovation.one/code_challenge/badge/30a563b4-4b99-4006-9b2a-cce6cb1aeb99.png

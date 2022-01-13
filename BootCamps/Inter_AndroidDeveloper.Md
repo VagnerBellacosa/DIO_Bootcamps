@@ -7,19 +7,19 @@ enderá sobre as principais tecnologias utilizadas pelo Inter, que é uma das ma
 ### :clipboard: Intermediário  :computer: 25 atividades  :clock430: 98 hrs
 
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/inter-android-developer?tab=path)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/inter-android-developer?tab=path)
 
 |  Inter Android Developer                   |
 |-------------------------------------|
-| 1. Bem-vindo à DIO | 
-| 2. Boas-vindas ao Bootcamp Inter Android Developer | 
-| 3. Lógica de Programação Essencial | 
-| 4. Introdução ao Git e ao GitHub |  
-| 5. Introdução ao Kotlin | 
-| 6. Fundamentos de Orientação a Objetos com Kotlin | 
-| 7. Desafios Matemáticos em Kotlin | 
-| 8. Introdução a Arquitetura da Plataforma Android com Kotlin | 
-| 9. Trabalhando com o Android Studio e Principais Ferramentas | 
+| 01. Bem-vindo à DIO | 
+| 02. Boas-vindas ao Bootcamp Inter Android Developer | 
+| 03. Lógica de Programação Essencial | 
+| 04. Introdução ao Git e ao GitHub |  
+| 05. Introdução ao Kotlin | 
+| 06. Fundamentos de Orientação a Objetos com Kotlin | 
+| 07. Desafios Matemáticos em Kotlin | 
+| 08. Introdução a Arquitetura da Plataforma Android com Kotlin | 
+| 09. Trabalhando com o Android Studio e Principais Ferramentas | 
 | 10. Aplicando Conceitos de Coleções, Arrays e Listas | 
 | 11. Melhores Práticas para Debugging, Tratamento de Erros e Exceções | 
 | 12. Projetando o Primeiro Aplicativo Android Usando Kotlin | 
@@ -38,39 +38,39 @@ enderá sobre as principais tecnologias utilizadas pelo Inter, que é uma das ma
 | 25. Criando um App para Apresentar seu Portfólio do GitHub | 
 
 https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png
-####  1. Bem-vindo à DIO
+####  01. Bem-vindo à DIO
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades.
 
 https://hermes.digitalinnovation.one/courses/badge/585b6327-d06a-426e-9c70-6f4bddb8a2e5.png
-####  2. Boas-vindas ao Bootcamp Inter Android Developer
+####  02. Boas-vindas ao Bootcamp Inter Android Developer
 Conheça melhor o Inter, uma das plataformas de serviços financeiros e não financeiros mais completa do Brasil, e confira também respostas às dúvidas mais frequentes sobre funcionamento do programa e vagas disponíveis.
 
 https://hermes.digitalinnovation.one/courses/badge/88cb0f8d-dcdb-4c7d-a9c5-c56d021a23b1.png
-####  3. Lógica de Programação Essencial
+####  03. Lógica de Programação Essencial
 Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequências de passos bem estabelecidos, como por exemplo, uma receita de bolo.
 
 https://hermes.digitalinnovation.one/courses/badge/c1f33b18-497b-408b-885f-ee8db71d872b.png
-####  4. Introdução ao Git e ao GitHub
+####  04. Introdução ao Git e ao GitHub
 Nesse curso vamos aprender um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho.
 
 https://hermes.digitalinnovation.one/courses/badge/1feb3506-0f77-4639-92bb-9e2c219c53a6.png
-####  5. Introdução ao Kotlin
+####  05. Introdução ao Kotlin
 Bem-vindo ao mundo do Kotlin, tudo que você precisa para dar seus primeiros passos na linguagem com conceitos e sintaxe básica.
 
 https://hermes.digitalinnovation.one/courses/badge/dffe508a-8ff7-4f00-a967-87af943e84ac.png
-####  6. Fundamentos de Orientação a Objetos com Kotlin
+####  06. Fundamentos de Orientação a Objetos com Kotlin
 Tudo que você precisa saber sobre o principal paradigma de programação com exemplos práticos utilizando Kotlin e melhore seu reaproveitamento e estrutura de código.
 
 https://hermes.digitalinnovation.one/code_challenge/badge/21bb715f-a75c-4383-b488-ea9f46d85fd0.png
-####  7. Desafios Matemáticos em Kotlin
+####  07. Desafios Matemáticos em Kotlin
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
 https://hermes.digitalinnovation.one/courses/badge/b8166a60-9add-4621-b866-b848efbddaeb.png
-####  8. Introdução a Arquitetura da Plataforma Android com Kotlin
+####  08. Introdução a Arquitetura da Plataforma Android com Kotlin
 Entenda mais sobre o ambiente e arquitetura da plataforma Android para conseguir extrair o melhor em questão de desempenho e organização na sua aplicação.
 
 https://hermes.digitalinnovation.one/courses/badge/e2fce210-3523-42ce-9f86-9a260325b98e.png
-####  9. Trabalhando com o Android Studio e Principais Ferramentas
+####  09. Trabalhando com o Android Studio e Principais Ferramentas
 Aprenda o essencial da principal plataforma de desenvolvimento de apps android e como encontrar tudo o que você precisa para criar suas prórias aplicações.
 
 https://hermes.digitalinnovation.one/courses/badge/bce3e012-789b-4c6d-bb88-590ae3cf815d.png

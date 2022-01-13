@@ -6,19 +6,19 @@ Bem vindo ao seu bootcamp focado em engenharia de dados, você terá a oportunid
 
 ### :clipboard: Intermediário  :computer: 28 atividades  :clock430: 114 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/banco-carrefour-data-engineer?tab=path)
 
 | Banco Carrefour Data Engineer                  |
 |-------------------------------------|
-| 1. Boas-vindas ao Bootcamp Banco Carrefour Data Engineer | 
-| 2. Bem-vindo à DIO | 
-| 3. Introdução ao Git e ao GitHub | 
-| 4. Linux: A introdução ao sistema operacional | 
-| 5. Shell script - Manipulando Arquivos | 
-| 6. Introdução a Engenharia de Dados | 
-| 7. Introdução a Ciência de Dados | 
-| 8. Fundamentos de Arquitetura de Sistemas | 
-| 9. Arquitetura de Sistemas Avançado | 
+| 01. Boas-vindas ao Bootcamp Banco Carrefour Data Engineer | 
+| 02. Bem-vindo à DIO | 
+| 03. Introdução ao Git e ao GitHub | 
+| 04. Linux: A introdução ao sistema operacional | 
+| 05. Shell script - Manipulando Arquivos | 
+| 06. Introdução a Engenharia de Dados | 
+| 07. Introdução a Ciência de Dados | 
+| 08. Fundamentos de Arquitetura de Sistemas | 
+| 09. Arquitetura de Sistemas Avançado | 
 | 10. Introdução a orquestração de contêineres com Docker | 
 | 11. Conceitos e melhores práticas com bancos de dados PostgreSQL | 
 | 12. Introdução ao MongoDB e Bancos de Dados NoSQL | 
@@ -40,39 +40,39 @@ Bem vindo ao seu bootcamp focado em engenharia de dados, você terá a oportunid
 | 28. Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc |
 
 https://hermes.digitalinnovation.one/courses/badge/dc604684-b29a-490b-b98d-be239d52fa03.png
-####  1. Boas-vindas ao Bootcamp Banco Carrefour Data Engineer
+####  01. Boas-vindas ao Bootcamp Banco Carrefour Data Engineer
 Conheça alguns colaboradores do Banco Carrefour e descubra por que ele é referência em inovação e tecnologia.
 
 https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png
-####  2. Bem-vindo à DIO
+####  02. Bem-vindo à DIO
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades.
 
 https://hermes.digitalinnovation.one/courses/badge/c1f33b18-497b-408b-885f-ee8db71d872b.png
-####  3. Introdução ao Git e ao GitHub
+####  03. Introdução ao Git e ao GitHub
 Nesse curso vamos aprender um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho.
 
 https://hermes.digitalinnovation.one/courses/badge/02f007f3-99c7-4d58-bcb7-5317f4093490.png
-####  4. Linux: A introdução ao sistema operacional
+####  04. Linux: A introdução ao sistema operacional
 Aprenda como trabalhar com o sistema operacional Linux, um dos mais utilizados do mundo e muito popular entre os desenvolvedores. Ele pode ser usado em desktops, servidores, smartphones e tablets.
 
 https://hermes.digitalinnovation.one/courses/badge/22bd442f-7e9f-4a8b-94e9-717aa742c102.png
-####  5. Shell script - Manipulando Arquivos
+####  05. Shell script - Manipulando Arquivos
 Aprenda como manipular os arquivos do ecossistema do linux no terminal, gerencie seus arquivos de maneira profissional e aprenda os principais comandos mais utilizados no terminal.
 
 https://hermes.digitalinnovation.one/courses/badge/7b4b7cf1-49c4-4c7b-b035-8df1c251f54d.png
-####  6. Introdução a Engenharia de Dados
+####  06. Introdução a Engenharia de Dados
 Comece a entender os principais elementos do vocabulário de engenharia de dados.
 
 https://hermes.digitalinnovation.one/courses/badge/7fb2b78e-8c44-4004-aeae-e444ae9b6c1b.png
-####  7. Introdução a Ciência de Dados
+####  07. Introdução a Ciência de Dados
 Entenda os conceitos essenciais de ciencia de dados e quais elementos compõe esse conceito.
 
 https://hermes.digitalinnovation.one/courses/badge/39ffe32f-f748-4905-8d66-6932d45ef77d.png
-####  8. Fundamentos de Arquitetura de Sistemas
+####  08. Fundamentos de Arquitetura de Sistemas
 Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conceitos, aplicações e desenvolvimento de operações.
 
 https://hermes.digitalinnovation.one/courses/badge/c0374d9b-3a3b-49a2-9569-805846506ec7.png
-####  9. Arquitetura de Sistemas Avançado
+####  09. Arquitetura de Sistemas Avançado
 Conheça sobre os conceitos da arquitetura de sistemas, aplicações em nuvem e operações em softwares.
 
 https://hermes.digitalinnovation.one/courses/badge/5f3670e0-4a79-4bbc-88b8-2d58a18f01b3.png

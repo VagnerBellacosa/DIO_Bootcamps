@@ -6,19 +6,19 @@ Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço n
 
 ### :clipboard: Intermediário  :computer: 16 atividades  :clock430: 50 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/gft-java-aws-developer)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/gft-java-aws-developer)
 
 |  GFT Java & AWS Developer                  |
 |-------------------------------------|
-| 1. Boas-vindas ao Bootcamp GFT Java & AWS Developer |
-| 2. Bem-vindo à DIO |
-| 3. Mentoria 01: Entendendo os aspectos Desenvolvimento Cloud Native |
-| 4. Introdução ao framework Spring Boot |
-| 5. Criando aplicações web com Spring Web MVC |
-| 6. Microsserviços em Spring Cloud com Java |
-| 7. Primeiros passos em Java |
-| 8. Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot |
-| 9. Desenvolvimento avançado em Java |
+| 01. Boas-vindas ao Bootcamp GFT Java & AWS Developer |
+| 02. Bem-vindo à DIO |
+| 03. Mentoria 01: Entendendo os aspectos Desenvolvimento Cloud Native |
+| 04. Introdução ao framework Spring Boot |
+| 05. Criando aplicações web com Spring Web MVC |
+| 06. Microsserviços em Spring Cloud com Java |
+| 07. Primeiros passos em Java |
+| 08. Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot |
+| 09. Desenvolvimento avançado em Java |
 | 10. Programação reativa com Spring Web Flux |
 | 11. Explorando Padrões de Projetos na Prática com Java |
 | 12. Introdução a Programação com Java |
@@ -28,38 +28,38 @@ Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço n
 | 16. Infraestrutura Como Código com Serverless Framework na AWS |
 
 https://hermes.digitalinnovation.one/courses/badge/9e10d596-20d8-44f8-9ca8-24ffefc25447.png
-####  1. Boas-vindas ao Bootcamp GFT Java & AWS Developer
+####  01. Boas-vindas ao Bootcamp GFT Java & AWS Developer
 Conheça alguns colaboradores da GFT Brasil e descubra por que ela é referência em inovação e tecnologia.
 
 https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png
-####  2. Bem-vindo à DIO
+####  02. Bem-vindo à DIO
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades.
 
-####  3. Mentoria 01: Entendendo os aspectos Desenvolvimento Cloud Native
+####  03. Mentoria 01: Entendendo os aspectos Desenvolvimento Cloud Native
 entre de cabeça no desenvolvimento focado em nuvem e conheça as principais vantagens.
 
 https://hermes.digitalinnovation.one/courses/badge/1dcc883a-37fa-42a9-a2a1-1cf012ffb34e.png
-####  4. Introdução ao framework Spring Boot
+####  04. Introdução ao framework Spring Boot
 Spring Boot é um micro framework que tem como finalidade reaproveitar tecnologias já aplicadas a fim de otimizar o trabalho do desenvolvedor.
 
 https://hermes.digitalinnovation.one/courses/badge/a9bfb6e0-83cb-4e33-b463-8605c7b57f18.png
-####  5. Criando aplicações web com Spring Web MVC
+####  05. Criando aplicações web com Spring Web MVC
 Considerado um dos frameworks mais conhecido e utilizado de Java, o Spring Web MVC reúne várias funções em apenas uma ferramenta que otimiza o trabalho do desenvolvedor.
 
 https://hermes.digitalinnovation.one/courses/badge/ced4cc5e-dbf6-4712-a35a-2b898686a389.png
-####  6. Microsserviços em Spring Cloud com Java
+####  06. Microsserviços em Spring Cloud com Java
 Comece a criar seus microsserviços em ambiente cloud com Java.
 
 https://hermes.digitalinnovation.one/code_challenge/badge/fcd1b0c4-7791-43f0-b3d5-7f9eb29812b0.png
-####  7. Primeiros passos em Java
+####  07. Primeiros passos em Java
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas.
 
 https://hermes.digitalinnovation.one/lab_projects/badges/9f018a95-94ea-463f-ba7a-fb46f83d7db7.png
-####  8. Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
+####  08. Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
 Aprenda a construir do zero uma API REST com Spring Boot para cadastro e gerenciamento de pessoas de uma organização, até o Deploy na nuvem (Heroku). Pratique e veja os principais conceitos do estilo arquitetural REST envolvidos durante o desenvolvimento do projeto.
 
 https://hermes.digitalinnovation.one/courses/badge/5a71425d-2ca3-4dde-bca2-a53a947e4185.png
-####  9. Desenvolvimento avançado em Java
+####  09. Desenvolvimento avançado em Java
 Aprenda em 8 horas de curso a executar de forma eficaz e ágil a linguagem Java e ainda conheça quais são as novidades nas versões da tecnologia: Java 10 e Java 11.
 
 https://hermes.digitalinnovation.one/courses/badge/8d4e5b96-4295-4766-a41e-ca67a3e436a6.png

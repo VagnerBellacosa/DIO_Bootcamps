@@ -6,19 +6,19 @@ Aqui você aprenderá a desenvolver plataformas web utilizando a linguagem PHP e
 
 ### :clipboard: Intermediário  :computer: 16 atividades  :clock430: 73 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-back-end?tab=path)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/sp-tech-desenvolvimento-back-end?tab=path)
 
 | SPTech Desenvolvimento Back-end     | 
 |-------------------------------------|
-| 1. Bem-vindo à DIO | 
-| 2. Lógica de Programação Essencial | 
-| 3. Introdução ao Git e ao GitHub | 
-| 4. Fundamentos de Arquitetura de Sistemas | 
-| 5. Introdução ao domain driven design e padrões de arquitetura | 
-| 6. Programação para internet com HTML5 e CSS3 | 
-| 7. Construindo páginas para internet com Bootstrap | 
-| 8. Arquitetura de Sistemas Avançado | 
-| 9. Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis | 
+| 01. Bem-vindo à DIO | 
+| 02. Lógica de Programação Essencial | 
+| 03. Introdução ao Git e ao GitHub | 
+| 04. Fundamentos de Arquitetura de Sistemas | 
+| 05. Introdução ao domain driven design e padrões de arquitetura | 
+| 06. Programação para internet com HTML5 e CSS3 | 
+| 07. Construindo páginas para internet com Bootstrap | 
+| 08. Arquitetura de Sistemas Avançado | 
+| 09. Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis | 
 | 10. Projetos ágeis com SCRUM | 
 | 11. Introdução ao PHP | 
 | 12. Formulários com condicionais e sessões com PHP | 

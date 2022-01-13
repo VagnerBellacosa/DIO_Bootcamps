@@ -62,9 +62,9 @@ https://hermes.digitalinnovation.one/courses/badge/924fb4e3-df0d-4076-96c1-dd33f
 Conheça o Selenium, a principal ferramenta de automação de páginas Web. Nesse contexto, explore a linguagem de programação Java e entenda como o Selenium automatiza as ações diretamente em seu browser.
 
 https://hermes.digitalinnovation.one/courses/badge/d16cb886-238e-491d-ac39-427be30c9004.png
-#### 12. Introdução a Behavior Driven Development (BDD) com Java
+#### 11. Introdução a Behavior Driven Development (BDD) com Java
 Conheça o BDD, uma técnica de desenvolvimento Ágil que encoraja colaboração entre desenvolvedores, setores de qualidade e pessoas não-técnicas ou de negócios num projeto de software, relaciona-se com o conceito de verificação e validação.
 
 https://hermes.digitalinnovation.one/lab_projects/badges/5db2f362-acf2-49aa-befa-21b038ce1384.png
-#### 13. Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção
+#### 12. Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção
 Neste projeto você terá o desafio de desenvolver uma API Rest de consulta de cidades do Brasil com dados comparativos. Iremos navegar pelas boas práticas de Java e do Spring, popular o bando de dados Postgres e criar um serviço para o cálculo de distância entre cidades.

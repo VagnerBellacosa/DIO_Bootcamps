@@ -6,7 +6,7 @@ Olá Dev! Aqui está a oportunidade incrível para você conquistar um espaço n
 
 ### :clipboard: Intermediário  :computer: 41 atividades  :clock430: 95 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/eduzz-fullstack-developer)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/eduzz-fullstack-developer)
 
 | Eduzz Fullstack Developer                  |
 |-------------------------------------|

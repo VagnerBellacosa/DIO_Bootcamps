@@ -8,15 +8,15 @@ Bem-vindo ao seu bootcamp com foco em back-end e arquitetura com dotnet C#, aqui
 
 | everis New Talents - Dot NET |
 |-------------------------------------|
-| 1. Boas-vindas ao Bootcamp everis New Talents .NET |
-| 2. Bem-vindo à DIO |
-| 3. Lógica de programação essencial |
-| 4. Aprenda o que são Estrutura de Dados e Algoritmos |
-| 5. Introdução ao Git e ao GitHub |
-| 6. SQL SERVER - Criando suas primeiras consultas |
-| 7. Instalando o Visual Studio e SDK |
-| 8. Primeiros passos com .NET + C# |
-| 9. Orientação a objetos em .NET |
+| 01. Boas-vindas ao Bootcamp everis New Talents .NET |
+| 02. Bem-vindo à DIO |
+| 03. Lógica de programação essencial |
+| 04. Aprenda o que são Estrutura de Dados e Algoritmos |
+| 05. Introdução ao Git e ao GitHub |
+| 06. SQL SERVER - Criando suas primeiras consultas |
+| 07. Instalando o Visual Studio e SDK |
+| 08. Primeiros passos com .NET + C# |
+| 09. Orientação a objetos em .NET |
 | 10. Introdução a microsserviços com .NET |
 | 11. Desenvolvimento de aplicações com .NET |
 | 12. Criando um APP simples de cadastro de séries em .NET |

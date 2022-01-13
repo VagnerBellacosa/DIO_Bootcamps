@@ -6,19 +6,19 @@ Bem vindo ao seu bootcamp focado em engenharia de dados com Cloud, crie soluçõ
 
 ### :clipboard: Intermediário  :computer: 26 atividades  :clock430: 100 hrs
 
-[Pagina oficial do Bootcamp](https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path)
+[Pagina oficial do Bootcamp](https://web.dio.me/track/cognizant-cloud-data-engineer?tab=path)
 
 |  Cognizant Cloud Data Engineer                   |
 |-------------------------------------|
-| 1. Boas-vindas ao Bootcamp Cognizant Cloud Data Engineer  |
-| 2. Bem-vindo à DIO  |
-| 3. Introdução ao Git e ao GitHub  |
-| 4. Linux: A introdução ao sistema operacional  |
-| 5. Shell script - Manipulando Arquivos  |
-| 6. Fundamentos de Arquitetura de Sistemas  |
-| 7. Arquitetura de Sistemas Avançado  |
-| 8. Introdução a orquestração de contêineres com Docker  |
-| 9. Conceitos e melhores práticas com bancos de dados PostgreSQL  |
+| 01. Boas-vindas ao Bootcamp Cognizant Cloud Data Engineer  |
+| 02. Bem-vindo à DIO  |
+| 03. Introdução ao Git e ao GitHub  |
+| 04. Linux: A introdução ao sistema operacional  |
+| 05. Shell script - Manipulando Arquivos  |
+| 06. Fundamentos de Arquitetura de Sistemas  |
+| 07. Arquitetura de Sistemas Avançado  |
+| 08. Introdução a orquestração de contêineres com Docker  |
+| 09. Conceitos e melhores práticas com bancos de dados PostgreSQL  |
 | 10. Introdução ao MongoDB e Bancos de Dados NoSQL  |
 | 11. Explorando o poder do NoSQL com Cassandra e HBase  |
 | 12. Introdução à programação com Python  |
@@ -38,39 +38,39 @@ Bem vindo ao seu bootcamp focado em engenharia de dados com Cloud, crie soluçõ
 | 26. Desafios matemáticos em Python  |
 
 https://hermes.digitalinnovation.one/courses/badge/914f58d2-6ee2-4c52-8186-706a91dffe09.png
-####  1. Boas-vindas ao Bootcamp Cognizant Cloud Data Engineer
+####  01. Boas-vindas ao Bootcamp Cognizant Cloud Data Engineer
 Conheça um pouco mais sobre a Cognizant, o laboratório de tecnologia e inovação.
 
 https://hermes.digitalinnovation.one/courses/badge/7425308d-fd51-4b5a-b815-abe8c61d2623.png
-####  2. Bem-vindo à DIO
+####  02. Bem-vindo à DIO
 Seja bem-vindo à Digital Innovation One, o maior ecossistema open education em desenvolvimento de software da América Latina. Você vai começar agora uma jornada para criar o seu currículo com portfólio de projetos inovadores e acelerar a sua carreira para conquistar grandes oportunidades.
 
 https://hermes.digitalinnovation.one/courses/badge/c1f33b18-497b-408b-885f-ee8db71d872b.png
-####  3. Introdução ao Git e ao GitHub
+####  03. Introdução ao Git e ao GitHub
 Nesse curso vamos aprender um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho.
 
 https://hermes.digitalinnovation.one/courses/badge/02f007f3-99c7-4d58-bcb7-5317f4093490.png
-####  4. Linux: A introdução ao sistema operacional
+####  04. Linux: A introdução ao sistema operacional
 Aprenda como trabalhar com o sistema operacional Linux, um dos mais utilizados do mundo e muito popular entre os desenvolvedores. Ele pode ser usado em desktops, servidores, smartphones e tablets.
 
 https://hermes.digitalinnovation.one/courses/badge/22bd442f-7e9f-4a8b-94e9-717aa742c102.png
-####  5. Shell script - Manipulando Arquivos
+####  05. Shell script - Manipulando Arquivos
 Aprenda como manipular os arquivos do ecossistema do linux no terminal, gerencie seus arquivos de maneira profissional e aprenda os principais comandos mais utilizados no terminal.
 
 https://hermes.digitalinnovation.one/courses/badge/39ffe32f-f748-4905-8d66-6932d45ef77d.png
-####  6. Fundamentos de Arquitetura de Sistemas
+####  06. Fundamentos de Arquitetura de Sistemas
 Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conceitos, aplicações e desenvolvimento de operações.
 
 https://hermes.digitalinnovation.one/courses/badge/c0374d9b-3a3b-49a2-9569-805846506ec7.png
-####  7. Arquitetura de Sistemas Avançado
+####  07. Arquitetura de Sistemas Avançado
 Conheça sobre os conceitos da arquitetura de sistemas, aplicações em nuvem e operações em softwares.
 
 https://hermes.digitalinnovation.one/courses/badge/5f3670e0-4a79-4bbc-88b8-2d58a18f01b3.png
-####  8. Introdução a orquestração de contêineres com Docker
+####  08. Introdução a orquestração de contêineres com Docker
 Nesse curso aprenderemos sobre o Docker, um projeto OpenSource que facilita a criação de ambientes isolados com container.
 
 https://hermes.digitalinnovation.one/courses/badge/ce655a83-1d8f-46ad-a831-6242d6b4aee8.png
-####  9. Conceitos e melhores práticas com bancos de dados PostgreSQL
+####  09. Conceitos e melhores práticas com bancos de dados PostgreSQL
 Esse curso ensinará como trabalhar com PostgreSQL, um gerenciador de banco de dados relacional.
 
 https://hermes.digitalinnovation.one/courses/badge/c61e84c3-0041-476f-8f21-94bc4c04bd55.png
