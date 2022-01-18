@@ -30,6 +30,18 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 <br>
  
+
+ 
+## 2022-01-30
+:trophy: 2022-01-18
+### https://web.dio.me/track/amdocs-java-developer
+- [Conteudo programatico](Amdocs_JavaDeveloper.md)
+ 
+- :scroll: [Certificado](./Certificados/Amdocs_JavaDeveloper.md)
+
+<br>
+
+
 <br>
  
 ---
@@ -38,12 +50,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
- 
-## 2022-01-30
-### https://web.dio.me/track/amdocs-java-developer
-- [Conteudo programatico](Amdocs_JavaDeveloper.md)
- <br>
-
 ## 2022-01-30
 ### https://web.dio.me/track/gft-start-3-net
 - [Conteudo programatico](GFT_Start3_DotNet.md)
