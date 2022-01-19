@@ -41,6 +41,14 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 <br>
 
+## 2022-02-01
+:trophy: 2022-01-19
+### https://web.dio.me/track/cognizant-java-developer
+- [Conteudo programatico](Cognizant_JavaDeveloper.md)
+
+- :scroll: [Certificado](./Certificados/Cognizant_JavaDeveloper.md)
+
+<br> 
 
 <br>
  
@@ -60,11 +68,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - [Conteudo programatico](GFT_Start3_Java.md)
  <br> 
  
-## 2022-02-01
-### https://web.dio.me/track/cognizant-java-developer
-- [Conteudo programatico](Cognizant_JavaDeveloper.md)
- <br>
-   
 ## 2022-02-28
 ### https://web.dio.me/track/localiza-net-developer-2
 - [Conteudo programatico](Localiza_DotNetDeveloper2.md)
