@@ -50,6 +50,16 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 <br> 
 
+ 
+## 2022-01-30
+:trophy: 2022-01-19
+### https://web.dio.me/track/gft-start-3-java?tab=path
+- [Conteudo programatico](GFT_Start3_Java.md)
+
+- :scroll: [Certificado](./Certificados/GFT_Start3_Java.md)
+
+<br> 
+ 
 <br>
  
 ---
@@ -62,11 +72,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.dio.me/track/gft-start-3-net
 - [Conteudo programatico](GFT_Start3_DotNet.md)
  <br>
- 
-## 2022-01-30
-### https://web.dio.me/track/gft-start-3-java?tab=path
-- [Conteudo programatico](GFT_Start3_Java.md)
- <br> 
  
 ## 2022-02-28
 ### https://web.dio.me/track/localiza-net-developer-2
