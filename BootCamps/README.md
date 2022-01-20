@@ -59,7 +59,18 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - :scroll: [Certificado](./Certificados/GFT_Start3_Java.md)
 
 <br> 
+
+## 2022-01-30
+:trophy: 2022-01-20
+### https://web.dio.me/track/gft-start-3-net
+- [Conteudo programatico](GFT_Start3_DotNet.md)
+
+- :scroll: [Certificado](./Certificados/GFT_Start3_DotNet.md)
+
+<br>
  
+
+
 <br>
  
 ---
@@ -67,11 +78,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
- 
-## 2022-01-30
-### https://web.dio.me/track/gft-start-3-net
-- [Conteudo programatico](GFT_Start3_DotNet.md)
- <br>
  
 ## 2022-02-28
 ### https://web.dio.me/track/localiza-net-developer-2
