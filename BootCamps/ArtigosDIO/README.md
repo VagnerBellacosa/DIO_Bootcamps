@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+👁️‍🗨️ 👁️‍🗨️ 👁️‍🗨️ QA: Vamos falar sobre prioridades e expectativas 👁️‍🗨️ 👁️‍🗨️ 👁️‍🗨️ <br>
+
+https://web.dio.me/articles/qa-vamos-falar-sobre-prioridades-e-expectativas <br>
+
+"Liderança de Equipe" "Objectives and Key Results (OKR)" "QA" <br>
+
 :rocket: 💻 💻 💻 Ontem e hoje na Qualidade de Software: Passagem entre ambientes 🖥️ 🖥️ 🖥️ <br>
  
 https://web.dio.me/articles/ontem-e-hoje-na-qualidade-de-software-passagem-entre-ambientes  <br>
