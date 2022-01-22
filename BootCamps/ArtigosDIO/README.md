@@ -17,6 +17,11 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 💻 💻 💻 Ontem e hoje na Qualidade de Software: Passagem entre ambientes 🖥️ 🖥️ 🖥️ <br>
+ 
+https://web.dio.me/articles/ontem-e-hoje-na-qualidade-de-software-passagem-entre-ambientes  <br>
+ 
+ "Liderança de Equipe"  "Integração" "QA"  <br>
 
 :rocket: 💀💀💀 Zalgo uma pequena sabotagem na biblioteca FAKER.Js 💀💀💀 <br> 
 
