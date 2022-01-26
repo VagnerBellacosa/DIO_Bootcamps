@@ -2,7 +2,7 @@
 
 ## Cognizant Java Developer
 
-O Decola Tech Avanade é o programa de Estágio da Avanade no qual os futuros talentos poderão ser contratados através do Bootcamp online com a Digital Innovation One, com mais de 60 horas de duração. Depois do Bootcamp, você passará por um processo seletivo e poderá fazer um estágio na Avanade, uma joint venture da Microsoft e Accenture, em um programa de aceleração criado especialmente para você com certificações Microsoft inclusas e um planejamento de carreira.
+Hey Dev, já considerou a possibilidade de se tornar ainda mais potente para o mercado, se especializando na tecnologia de desenvolvimento mais utilizada no mundo? Se sim, este é o seu momento de brilhar! O Bootcamp GFT Start #3 Java foi pensado exclusivamente para o seu desenvolvimento na tecnologia de Java, contendo uma sequência completa de cursos, mentorias e desafios. Não perca essa chance e inscreva-se já!
 
 ### :clipboard: Intermediário  :computer: 42 atividades  :clock430: 96 hrs
 
