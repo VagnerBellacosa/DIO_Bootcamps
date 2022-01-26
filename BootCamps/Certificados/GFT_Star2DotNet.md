@@ -10,20 +10,20 @@
 
 
 <!-- PROJECT LOGO -->
-![Certificado](images/GFT_Start2_DotNet.png "GFT : Start 2 DotNet")
+![Certificado](images/GFT_Start2_DotNet.png "GFT : Start #2 DotNet")
 
 ## 2021-07-21
 :trophy: 2021-06-07
 ### https://web.dio.me/track/gft-start-2-net
 - [Conteudo programatico](../GFT_Start2_DotNet.md)
 
-- ![Certificado](12036C74.pdf "GFT : Start 2 DotNet")
+- ![Certificado](12036C74.pdf "GFT : Start #2 DotNet")
 
 
 #### * DIO - Digital Inovation One *
 ######  [Inscreva-se na Dio](https://dio.me/sign-up?ref=R5J3ZLTIFS)  
 
-######  [Vagner Bellacosa perfil na Dio](https://web.dio.me/users/vagnerbellacosa?tab=achievements)  
+#####  [Vagner Bellacosa perfil na Dio](https://web.dio.me/users/vagnerbellacosa?tab=achievements)  
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
