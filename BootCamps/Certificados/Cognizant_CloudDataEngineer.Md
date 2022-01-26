@@ -11,7 +11,7 @@
 ![Certificado](images/Cognizant_CloudDataEngineer.png "Cognizant Cloud Data Engineer")
 
 ## 2021-05-29 
-### https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path 
+### https://web.dio.me/track/cognizant-cloud-data-engineer?tab=path 
 :trophy: 2021-09-19
 - [Conteudo programatico](../Cognizant_CloudDataEngineer.md)
 
