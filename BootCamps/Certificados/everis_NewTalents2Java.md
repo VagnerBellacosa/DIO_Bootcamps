@@ -18,9 +18,9 @@
 - ![Certificado](E7A413F7.pdf "everis New Talents #2 Java")
 
 #### * DIO - Digital Inovation One *
-######  [Inscreva-se na Dio](https://dio.me/sign-up?ref=R5J3ZLTIFS)  
+#####  [Inscreva-se na Dio](https://dio.me/sign-up?ref=R5J3ZLTIFS)  
 
-######  [Vagner Bellacosa perfil na Dio](https://web.dio.me/users/vagnerbellacosa?tab=achievements)  
+#####  [Vagner Bellacosa perfil na Dio](https://web.dio.me/users/vagnerbellacosa?tab=achievements)  
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
