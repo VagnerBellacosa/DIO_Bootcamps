@@ -69,7 +69,16 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 <br>
  
+## 2022-03-10
+:trophy: 2022-01-25
+### https://web.dio.me/track/ntt-data-android-developer
+- [Conteudo programatico](NTT_DataAndroidDeveloper.md)
 
+- :scroll: [Certificado](./Certificados/NTT_DataAndroidDeveloper.md)
+
+ <br> 
+ 
+ 
 
 <br>
  
@@ -93,12 +102,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.dio.me/track/mrv-fullstack-developer
 - [Conteudo programatico](MRV_FullstackDeveloper.md)
  <br>
- 
-
-## 2022-03-10
-### https://web.dio.me/track/ntt-data-android-developer
-- [Conteudo programatico](NTT_DataAndroidDeveloper.md)
- <br> 
  
 ## 2022-03-20
 ###  https://web.dio.me/track/take-blip-web-developer
