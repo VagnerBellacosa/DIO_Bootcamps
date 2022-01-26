@@ -10,7 +10,7 @@
 
 
 <!-- PROJECT LOGO -->
-![Certificado](images/DotNet_Fundamentals.png "NTT DATA Android Developer")
+![Certificado](images/NTT_DataAndroidDeveloper.png "NTT DATA Android Developer")
 
 
 ## 2022-03-10
@@ -41,6 +41,6 @@
 [license-url]: https://github.com/VagnerBellacosa/DIO_Bootcamps/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
-[product-screenshot]: images/DotNet_Fundamentals.png
+[product-screenshot]: images/NTT_DataAndroidDeveloper.png
 
 
