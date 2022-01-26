@@ -17,6 +17,23 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+👁️‍🗨️ 👁️‍🗨️ 👁️‍🗨️ QA: Vamos falar sobre prioridades e expectativas 👁️‍🗨️ 👁️‍🗨️ 👁️‍🗨️ <br>
+
+https://web.dio.me/articles/qa-vamos-falar-sobre-prioridades-e-expectativas <br>
+
+"Liderança de Equipe" "Objectives and Key Results (OKR)" "QA" <br>
+
+:rocket: 💻 💻 💻 Ontem e hoje na Qualidade de Software: Passagem entre ambientes 🖥️ 🖥️ 🖥️ <br>
+ 
+https://web.dio.me/articles/ontem-e-hoje-na-qualidade-de-software-passagem-entre-ambientes  <br>
+ 
+ "Liderança de Equipe"  "Integração" "QA"  <br>
+
+:rocket: 💀💀💀 Zalgo uma pequena sabotagem na biblioteca FAKER.Js 💀💀💀 <br> 
+
+https://web.dio.me/articles/zalgo-uma-pequena-sabotagem-bibliotecas-na-fakerjs <br> 
+
+"JavaScript" "Node.js" "QA" <br> 
 
 :rocket: ⛅📡 💾 Do Mainframe a Cloud Computer, la e ca outra vez... 💾 📡 ⛅<br> 
 
@@ -65,14 +82,14 @@ https://web.dio.me/articles/agradecimento-nomeacao-dio-awards-2021 <br>
  
 :rocket: O que é Joint Application Design? <br> 
 
-https://web.dio.me/articles/o-que-e-joint-application-design?back=/articles <br> 
+https://web.dio.me/articles/o-que-e-joint-application-design <br> 
 
 "Desperte o potencial" "Informática Básica" "Arquitetura de Sistemas" <br> 
 
 
 :rocket: LOG4Shell: Um exploit que esta dando dor de cabeça  <br> 
 
-https://web.dio.me/articles/log4shell-um-exploit-que-esta-dando-dor-de-cabeca?back=/articles <br> 
+https://web.dio.me/articles/log4shell-um-exploit-que-esta-dando-dor-de-cabeca <br> 
 
 "Segurança no trabalho" "Boas práticas" "Arquitetura de Sistemas" <br> 
 
@@ -250,131 +267,131 @@ https://web.dio.me/articles/poderosa-tecnica-para-salvar-seu-emprego-testes-unit
 
 :rocket: Responda rapido o que é computaçao e computadores <br>
 
-https://web.dio.me/articles/responda-rapido-o-que-e-computacao-e-computadores?back=/articles <br>
+https://web.dio.me/articles/responda-rapido-o-que-e-computacao-e-computadores <br>
 
 "Informática Básica" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
 :rocket: Som na caixa. Atividade 009 no Javascript Gruppen <br>
 
-https://web.dio.me/articles/som-na-caixa-javascript-gruppen-atividade-009?back=/articles <br>
+https://web.dio.me/articles/som-na-caixa-javascript-gruppen-atividade-009 <br>
 
 "Informática Básica" "JavaScript" "Boas práticas" <br>
 
 
 :rocket: Mao na Massa, Atividade 008 no Javascript Gruppen <br>
 
-https://web.dio.me/articles/javascript-gruppen-atividade-008-mao-na-massa?back=/articles <br>
+https://web.dio.me/articles/javascript-gruppen-atividade-008-mao-na-massa <br>
 
 "Informática Básica" "JavaScript" <br>
 
 
 :rocket: Os misterios do CLI, computaçao no seculo XXI  <br>
 
-https://web.dio.me/articles/os-misterios-da-cli-computacao-no-seculo-xxi?back=/articles <br>
+https://web.dio.me/articles/os-misterios-da-cli-computacao-no-seculo-xxi <br>
 
 "Informática Básica" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
 :rocket: Bisbilhotando as base de dados no Mainframe, conheça o QMF <br>
 
-https://web.dio.me/articles/bisbilhotando-as-bases-de-dados-no-mainframe?back=/articles <br>
+https://web.dio.me/articles/bisbilhotando-as-bases-de-dados-no-mainframe <br>
 
 "Informática Básica" "SQL" "Arquitetura de Sistemas" <br>
 
 
 :rocket: Qual o nome do diagrama usado em fluxos e processos? <br>
 
-https://web.dio.me/articles/qual-o-nome-do-diagrama-usado-em-fluxos-e-processos?back=/articles <br>
+https://web.dio.me/articles/qual-o-nome-do-diagrama-usado-em-fluxos-e-processos <br>
 
 "Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
 :rocket: O que é e para que serve a extensao de arquivos <br>
 
-https://web.dio.me/articles/o-que-e-e-para-que-serve-a-extensao-de-arquivos?back=/articles <br>
+https://web.dio.me/articles/o-que-e-e-para-que-serve-a-extensao-de-arquivos <br>
 
 "Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
 :rocket: Desenvolva habilidades gratuitamente no Microsoft Azure Virtual Trainning Day Modernize Net APPs <br>
 
-https://web.dio.me/articles/desenvolva-habilidades-gratuitamente-no-microsoft-azure-virtual-training-day-modernize-net-apps?back=/articles <br>
+https://web.dio.me/articles/desenvolva-habilidades-gratuitamente-no-microsoft-azure-virtual-training-day-modernize-net-apps <br>
 
 
 :rocket: Divulgaçao de parças ajude-nos a fazer nossa comunidade crescer <br>
 
-https://web.dio.me/articles/divulgacao-de-parcas-ajude-nos-a-fazer-nossa-rede-crescer?back=/articles <br>
+https://web.dio.me/articles/divulgacao-de-parcas-ajude-nos-a-fazer-nossa-rede-crescer <br>
 
 "Marketing Pessoal" "Marketing Digital" "Soft Skill" <br>
 
 
 :rocket: Aprenda a fazer processos batch em MS-DOS <br>
 
-https://web.dio.me/articles/aprenda-a-fazer-processos-batch-em-ms-dos?back=/articles <br>
+https://web.dio.me/articles/aprenda-a-fazer-processos-batch-em-ms-dos <br>
 
 "Informática Básica" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
 :rocket: Vida ou morte conheça o System Integration Testing SIT <br>
 
-https://web.dio.me/articles/vida-ou-morte-conheca-o-system-integration-testing?back=/articles <br>
+https://web.dio.me/articles/vida-ou-morte-conheca-o-system-integration-testing <br>
 
 "Testes unitários" "Boas práticas" "Arquitetura de Sistemas" <br>
 
 
 :rocket: Conheça Mainframe no IBM Z Day <br>
 
-https://web.dio.me/articles/conheca-mainframe-no-ibm-z-day?back=/articles <br>
+https://web.dio.me/articles/conheca-mainframe-no-ibm-z-day <br>
 
 "Marketing Pessoal" "Arquitetura de Sistemas" "Soft Skill" <br>
 
 
 :rocket: Aprenda MS-DOS e seus scripts bat no Windows <br>
 
-https://web.dio.me/articles/aprenda-ms-dos-e-seus-scripts-bat-no-windows?back=/articles <br>
+https://web.dio.me/articles/aprenda-ms-dos-e-seus-scripts-bat-no-windows <br>
 
 "Informática Básica" "Arquitetura de Sistemas" "QA" <br>
 
 
 :rocket: Algoritmos para classificaçao de listas e arrays <br>
 
-https://web.dio.me/articles/algoritmos-para-classificacao-de-listas-e-arrays?back=/articles <br>
+https://web.dio.me/articles/algoritmos-para-classificacao-de-listas-e-arrays <br>
 
 "Estrutura de dados" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
 :rocket: 10 Segredos da Longevidade do Cobol <br>
 
-https://web.dio.me/articles/10-segredos-da-longevidade-do-cobol?back=/articles <br>
+https://web.dio.me/articles/10-segredos-da-longevidade-do-cobol <br>
 
 "Desperte o potencial" "Lógica de Programação" "Arquitetura de Sistemas" <br>
 
 
 :rocket: A Força de um Gruppen torne-se um lider evoluindo suas equipes <br>
 
-https://web.dio.me/articles/a-forca-de-um-gruppen-torne-se-um-lider-evoluindo-suas-equipes?back=/articles <br>
+https://web.dio.me/articles/a-forca-de-um-gruppen-torne-se-um-lider-evoluindo-suas-equipes <br>
 
 "Marketing Pessoal" "Informática Básica" "Soft Skill" <br>
 
 
 :rocket: Ajude o Tiozao, afinal o que é um developer advocate <br>
 
-https://web.dio.me/articles/ajude-o-tiozao-afinal-o-que-e-um-developer-advocate?back=/articles <br>
+https://web.dio.me/articles/ajude-o-tiozao-afinal-o-que-e-um-developer-advocate <br>
  
  "Marketing Pessoal" "Arquitetura de Sistemas" "Soft Skill" <br>
  
 
 :rocket: Rumo ao 1.000.000 de Devs, a sua ajude é Fundamental <br>
 
-https://web.dio.me/articles/rumo-1000000-devs-sua-ajuda-e-fundamental?back=/articles <br>
+https://web.dio.me/articles/rumo-1000000-devs-sua-ajuda-e-fundamental <br>
 
 "Desperte o potencial" "Marketing Pessoal" "Soft Skill" <br>
 
 
 :rocket: Cobol para padawan uma rapida olhadela <br>
 
-https://web.dio.me/articles/cobol-para-padawans-uma-rapida-olhadela?back=/articles <br>
+https://web.dio.me/articles/cobol-para-padawans-uma-rapida-olhadela <br>
 
 "Desperte o potencial" "Informática Básica" "Arquitetura de Sistemas" <br>
 
