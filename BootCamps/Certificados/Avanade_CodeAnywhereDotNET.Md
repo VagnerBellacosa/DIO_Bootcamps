@@ -11,7 +11,7 @@
 
 ## 2021-10-08 
 :trophy: 2021-07-28
-### https://web.digitalinnovation.one/track/avanade-codeanywhere-net?tab=path
+### https://web.dio.me/track/avanade-codeanywhere-net?tab=path
 - [Conteudo programatico](../Avanade_CodeAnywhereDotNET.md)                             
 
 - ![Certificado](2F3D3776.pdf "Avanade : Code Anywhere Dot Net")

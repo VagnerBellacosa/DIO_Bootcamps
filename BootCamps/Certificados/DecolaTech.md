@@ -10,7 +10,7 @@
 ![Certificado](images/DecolaTech.png "Decola Tech DotNet")
 
 ## 2021-10-04 
-### https://web.digitalinnovation.one/track/decola-tech?tab=path
+### https://web.dio.me/track/decola-tech?tab=path
 :trophy: 2021-09-10
 - [Conteudo programatico](../DecolaTech.md)
 

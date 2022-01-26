@@ -11,7 +11,7 @@
 ![Certificado](images/LocalizaLabs_DotNet_Developer.png "LocalizaLabs : DotNet Developer")
 
 ## 2021-07-21
-### https://web.digitalinnovation.one/track/localizalabs-net-developer?tab=path
+### https://web.dio.me/track/localizalabs-net-developer?tab=path
 :trophy: 2021-06-04
 - [Conteudo programatico](../LocalizaLabsNetDeveloper.md)
 

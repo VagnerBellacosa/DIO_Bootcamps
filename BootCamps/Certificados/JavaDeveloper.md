@@ -14,7 +14,7 @@
 
 ## 2021-07-24
 :trophy: 2021-07-22
-### https://web.digitalinnovation.one/track/java-developer?tab=path
+### https://web.dio.me/track/java-developer?tab=path
 - [Conteudo programatico](../JavaDeveloper.md)
 
 - ![Certificado](637B6A18.pdf "Java Developer")

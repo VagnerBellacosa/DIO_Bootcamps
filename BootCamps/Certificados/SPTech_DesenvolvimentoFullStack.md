@@ -11,7 +11,7 @@
 ![Certificado](images/SPTech_DesenvolvimentoBackEnd.png "SPTech Desenvolvimento Fullstack")
 
 ## 2021-11-21 
-### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-back-end?tab=path 
+### https://web.dio.me/track/sp-tech-desenvolvimento-back-end?tab=path 
 :trophy: 2021-10-30
 - [Conteudo programatico](../SPTech_DesenvolvimentoBackEnd.md)
 

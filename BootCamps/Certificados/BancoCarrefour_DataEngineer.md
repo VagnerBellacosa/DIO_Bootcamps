@@ -11,7 +11,7 @@
 ![Certificado](images/BancoCarrefour_DataEngineer.png "Banco Carrefour DataEngineer")
 
 ## 2021-09-09 
-### https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path 
+### https://web.dio.me/track/banco-carrefour-data-engineer?tab=path 
 :trophy: 2021-09-07
 - [Conteudo programatico](../BancoCarrefour_DataEngineer.md)
 

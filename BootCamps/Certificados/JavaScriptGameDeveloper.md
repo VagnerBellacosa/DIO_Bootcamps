@@ -14,7 +14,7 @@
 
 ## 2021-07-21
 :trophy: 2021-07-01
-### https://web.digitalinnovation.one/track/javascript-game-developer
+### https://web.dio.me/track/javascript-game-developer
 - [Conteudo programatico](../JavaScriptGameDeveloper.md)
 
 - ![Certificado](2990AFFA.pdf "JavaScript Game Developer")

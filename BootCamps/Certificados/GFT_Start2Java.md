@@ -14,7 +14,7 @@
 
 ## 2021-07-13
 :trophy: 2021-07-09
-### https://web.digitalinnovation.one/track/gft-start-2-java?tab=path
+### https://web.dio.me/track/gft-start-2-java?tab=path
 - [Conteudo programatico](GFTStart2Java.md)
 
 - ![Certificado](87F2C477.pdf "GFT : Start 2 Java")

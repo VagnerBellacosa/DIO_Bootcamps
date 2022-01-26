@@ -11,7 +11,7 @@
 ![Certificado](images/SPTech_DesenvolvimentoBackEnd.png "SPTecha : Desenvolvimento Back End")
 
 ## 2021-11-23
-### https://web.digitalinnovation.one/track/sp-tech-desenvolvimento-back-end?tab=path
+### https://web.dio.me/track/sp-tech-desenvolvimento-back-end?tab=path
 :trophy: 2021-10-06
 - [Conteudo programatico](SPTech_DesenvolvimentoBackEnd.md)
 

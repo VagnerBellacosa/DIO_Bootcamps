@@ -14,7 +14,7 @@
 
 
 ## 2021-06-14
-### https://web.digitalinnovation.one/track/net-fundamentals
+### https://web.dio.me/track/net-fundamentals
 :trophy: 2021-05-27
 - [Conteudo programatico](NetFundamentals.md)
 

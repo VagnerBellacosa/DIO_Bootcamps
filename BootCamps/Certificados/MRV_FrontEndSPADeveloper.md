@@ -11,7 +11,7 @@
 ![Certificado](images/MRV_FrontEndSPADeveloper.png "MRV Front-End SPA Developer")
 
 ## 2021-09-11 
-### https://web.digitalinnovation.one/track/mrv-front-end-spa-developer?tab=path 
+### https://web.dio.me/track/mrv-front-end-spa-developer?tab=path 
 :trophy: 2021-09-09
 - [Conteudo programatico](../MRV_FrontEndSPADeveloper.md)
 

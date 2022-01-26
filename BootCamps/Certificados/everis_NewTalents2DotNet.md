@@ -11,7 +11,7 @@
 ![Certificado](images/everis_NewTalents2DotNet.png "everis New Talents 2 Dot Net")
 
 ## 2021-11-19
-### https://web.digitalinnovation.one/track/everis-new-talents-2-net?tab=path
+### https://web.dio.me/track/everis-new-talents-2-net?tab=path
 :trophy: 2021-09-01
 - [Conteudo programatico](everis_NewTalents2DotNet.md)
 

@@ -12,7 +12,7 @@
 
 ## 2021-08-28 
 :trophy: 2021-07-30
-### https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-2
+### https://web.dio.me/track/everis-quality-assurance-beginner-2
 - [Conteudo programatico](../everis_SiteReliabilityEngineerEssentials.Md)
                              
 - ![Certificado](1F7693D1.pdf "Everis : Site Reliability Engineer Essentials")

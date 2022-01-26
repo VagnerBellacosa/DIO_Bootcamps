@@ -14,7 +14,7 @@
 
 ## 2021-09-23
 :trophy: 2021-07-29
-### https://web.digitalinnovation.one/track/everis-new-talents-java?tab=path
+### https://web.dio.me/track/everis-new-talents-java?tab=path
 - [Conteudo programatico](Everis_NewTalents_Java.Md)
                              
 - ![Certificado](6FFF1CF1.pdf "Everis : New Talents Java")

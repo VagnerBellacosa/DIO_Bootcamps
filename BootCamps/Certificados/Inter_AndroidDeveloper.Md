@@ -11,7 +11,7 @@
 ![Certificado](images/Inter_AndroidDeveloper.png "Inter Android Developer")
 
 ## 2021-10-14 
-### https://web.digitalinnovation.one/track/inter-android-developer?tab=path 
+### https://web.dio.me/track/inter-android-developer?tab=path 
 :trophy: 2021-09-20
 - [Conteudo programatico](../Inter_AndroidDeveloper.md)
 

@@ -14,7 +14,7 @@
 
 ## 2021-08-24 
 :trophy: 2021-07-29
-### https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-2
+### https://web.dio.me/track/everis-quality-assurance-beginner-2
 - [Conteudo programatico](../Everis_QualityAssuranceBeginnerNo2.Md)
                              
 - ![Certificado](2C6DA5AB.pdf "Everis: Quality Assurance Beginner Number 2")

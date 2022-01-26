@@ -11,7 +11,7 @@
 ![Certificado](images/everis_NewTalents2Java.png "everis New Talents #2 Java")
 
 ## 2021-11-19 
-### https://web.digitalinnovation.one/track/everis-new-talents-2-java?tab=path
+### https://web.dio.me/track/everis-new-talents-2-java?tab=path
 :trophy: 2021-08-31
 - [Conteudo programatico](../everis_NewTalents2Java.md)
 

@@ -11,7 +11,7 @@
 ![Certificado](images/Everis_QualityAssuranceBeginner3.png "everis Quality Assurance Beginner #3")
 
 ## 2021-11-05 
-### https://web.digitalinnovation.one/track/everis-quality-assurance-beginner-3?tab=path
+### https://web.dio.me/track/everis-quality-assurance-beginner-3?tab=path
 :trophy: 2021-10-23
 - [Conteudo programatico](../Everis_QualityAssuranceBeginner3.md)
 

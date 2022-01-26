@@ -14,14 +14,14 @@
 
 ## 2021-10-27
 :trophy: 2021-10-01
-### https://web.digitalinnovation.one/track/gft-java-aws-developer
+### https://web.dio.me/track/gft-java-aws-developer
 - [Conteudo programatico](../GFT_JavaAwsDeveloper.md)
 
 - ![Certificado](F5F3EBAD.pdf "GFT : Java Aws Developer")
 
 
 #### * DIO - Digital Inovation One *
-######  [Inscreva-se na Dio](https://web.digitalinnovation.one/track/gft-java-aws-developer)  
+######  [Inscreva-se na Dio](https://web.dio.me/track/gft-java-aws-developer)  
 
 ######  [Vagner Bellacosa perfil na Dio](https://web.dio.me/users/vagnerbellacosa?tab=achievements)  
 

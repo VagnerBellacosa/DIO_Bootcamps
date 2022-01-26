@@ -13,7 +13,7 @@
 ![Certificado](images/BecomeRemote.png "Become Remote ")
 
 ## 2021-06-24 
-### https://web.digitalinnovation.one/track/become-remote?tab=path
+### https://web.dio.me/track/become-remote?tab=path
 :trophy: 2021-05-25
 - [Conteudo programatico](../BecomeRemote.md)
 
