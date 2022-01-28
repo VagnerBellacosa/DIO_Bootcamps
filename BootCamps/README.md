@@ -87,8 +87,16 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 <br>
  
+## 2022-03-20
+:trophy: 2022-01-26
+###  https://web.dio.me/track/take-blip-web-developer
+- [Conteudo programatico](TakeBlip_WebDeveloper.md)
 
+- :scroll: [Certificado](./Certificados/TakeBlip_WebDeveloper.md)
+
+<br>
  
+<br>
 
 <br>
  
@@ -108,13 +116,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - [Conteudo programatico](Inter_FrontEndDeveloper.md)
  <br>
  
-## 2022-03-20
-###  https://web.dio.me/track/take-blip-web-developer
-- [Conteudo programatico](TakeBlip_WebDeveloper.md)
- <br>
-
-
-
 ---
 
 #### * DIO - Digital Inovation One *
