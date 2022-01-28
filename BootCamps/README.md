@@ -106,16 +106,24 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
-## 2022-02-28
-### https://web.dio.me/track/localiza-net-developer-2
-- [Conteudo programatico](Localiza_DotNetDeveloper2.md)
- <br>
  
 ## 2022-02-13
 ### https://web.dio.me/track/inter-frontend-developer
 - [Conteudo programatico](Inter_FrontEndDeveloper.md)
  <br>
- 
+
+## 2022-02-28
+### https://web.dio.me/track/localiza-net-developer-2
+- [Conteudo programatico](Localiza_DotNetDeveloper2.md)
+ <br>
+
+## 2022-02-28 
+### Eduzz FullStack Developer #3
+### https://web.dio.me/track/b72e7c1e-174e-48ad-aee5-682a3b0c4338
+- [Conteudo programatico](Eduzz_FullStackDeveloper3.md)
+ <br>
+
+
 ---
 
 #### * DIO - Digital Inovation One *
