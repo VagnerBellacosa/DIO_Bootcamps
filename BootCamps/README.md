@@ -123,7 +123,12 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - [Conteudo programatico](Eduzz_FullStackDeveloper3.md)
  <br>
 
-
+## 2022-03-09
+### GFT Start #4 Dot NET
+### https://web.dio.me/track/gft-start-4-net
+- [Conteudo programatico](GFT_Start3_DotNet.md)
+ <br>
+ 
 ---
 
 #### * DIO - Digital Inovation One *
