@@ -106,6 +106,16 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 <br>
 
+## 2022-03-09
+:trophy: 2022-01-31
+### GFT Start #4 Java
+### https://web.dio.me/track/gft-start-4-java
+- [Conteudo programatico](GFT_Start4_Java.md)
+ 
+- :scroll: [Certificado](./Certificados/GFT_Start4_Java.md)
+ 
+ <br>
+
 <br>
 
 <br>
@@ -132,14 +142,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.dio.me/track/b72e7c1e-174e-48ad-aee5-682a3b0c4338
 - [Conteudo programatico](Eduzz_FullStackDeveloper3.md)
  <br>
- 
-## 2022-03-09
-### GFT Start #4 Java
-### https://web.dio.me/track/gft-start-4-java
-- [Conteudo programatico](GFT_Start4_Java.md)
- <br>
- 
- 
+  
 ---
 
 #### * DIO - Digital Inovation One *
