@@ -95,7 +95,17 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - :scroll: [Certificado](./Certificados/TakeBlip_WebDeveloper.md)
 
 <br>
+
+## 2022-03-09
+:trophy: 2022-01-31
+### GFT Start #4 Dot NET
+### https://web.dio.me/track/gft-start-4-net
+- [Conteudo programatico](GFT_Start4_DotNet.md)
  
+- :scroll: [Certificado](./Certificados/GFT_Start4_DotNet.md)
+
+<br>
+
 <br>
 
 <br>
@@ -121,12 +131,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### Eduzz FullStack Developer #3
 ### https://web.dio.me/track/b72e7c1e-174e-48ad-aee5-682a3b0c4338
 - [Conteudo programatico](Eduzz_FullStackDeveloper3.md)
- <br>
-
-## 2022-03-09
-### GFT Start #4 Dot NET
-### https://web.dio.me/track/gft-start-4-net
-- [Conteudo programatico](GFT_Start3_DotNet.md)
  <br>
  
 ## 2022-03-09
