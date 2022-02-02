@@ -17,6 +17,11 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: Metodologia Waterfall, o que é, para que serve, virtudes e defeitos  <br>
+
+https://web.dio.me/articles/metodologia-waterfall-o-que-e-para-que-serve-virtudes-e-defeitos  <br>
+
+"Informática Básica" "Arquitetura de Sistemas" "Inovação"  <br>
 
 :rocket: Dev descubra sobre PNL - Programaçao Neurolinguistica  <br>
 
