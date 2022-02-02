@@ -17,7 +17,15 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
-👁️‍🗨️ 👁️‍🗨️ 👁️‍🗨️ QA: Vamos falar sobre prioridades e expectativas 👁️‍🗨️ 👁️‍🗨️ 👁️‍🗨️ <br>
+
+:rocket: Dev descubra sobre PNL - Programaçao Neurolinguistica  <br>
+
+https://web.dio.me/articles/dev-descubra-sobre-pnl-programacao-neurolinguistica  <br>
+
+"Desperte o potencial" "Marketing Pessoal" "Soft Skill"  <br>
+
+
+:rocket: 👁️‍🗨️ 👁️‍🗨️ 👁️‍🗨️ QA: Vamos falar sobre prioridades e expectativas 👁️‍🗨️ 👁️‍🗨️ 👁️‍🗨️ <br>
 
 https://web.dio.me/articles/qa-vamos-falar-sobre-prioridades-e-expectativas <br>
 
