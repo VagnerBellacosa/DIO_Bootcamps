@@ -122,7 +122,16 @@ Surfando no estado da arte em Tecnologia da Informaçao
  
 - :scroll: [Certificado](./Certificados/GFT_Start4_Java.Md)
  
- <br>
+<br>
+
+## 2022-03-30
+:trophy: 2022-02-01
+### Sportheca : Mobile Developer
+### https://web.dio.me/track/sportheca-mobile-developer
+- [Conteudo programatico](Sportheca_MobileDeveloper.Md)
+ 
+- :scroll: [Certificado](./Certificados/Sportheca_MobileDeveloper.Md)
+
 
 <br>
 
