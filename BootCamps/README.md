@@ -132,9 +132,18 @@ Surfando no estado da arte em Tecnologia da Informaçao
  
 - :scroll: [Certificado](./Certificados/Sportheca_MobileDeveloper.Md)
 
-
 <br>
 
+## 2022-02-13
+:trophy: 2022-02-02
+### Inter : FrontEnd Developer
+### https://web.dio.me/track/inter-frontend-developer
+- [Conteudo programatico](Inter_FrontEndDeveloper.md)
+
+- :scroll: [Certificado](./Certificados/Inter_FrontEndDeveloper.md)
+
+<br>
+ 
 <br>
  
 ---
@@ -143,12 +152,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
- 
-## 2022-02-13
-### https://web.dio.me/track/inter-frontend-developer
-- [Conteudo programatico](Inter_FrontEndDeveloper.md)
- <br>
-
 ## 2022-02-28
 ### https://web.dio.me/track/localiza-net-developer-2
 - [Conteudo programatico](Localiza_DotNetDeveloper2.md)
