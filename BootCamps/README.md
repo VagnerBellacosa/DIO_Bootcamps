@@ -23,6 +23,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
  
 ## 2022-01-23
 :trophy: 2022-01-07
+### Decola Tech : 2nd Edition
 ### https://web.dio.me/track/decola-tech-2a-edicao
 - [Conteudo programatico](Decola_Tech2aEdicao.md)
  
@@ -34,6 +35,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
  
 ## 2022-01-30
 :trophy: 2022-01-18
+### AMDocs : Java Developer
 ### https://web.dio.me/track/amdocs-java-developer
 - [Conteudo programatico](Amdocs_JavaDeveloper.md)
  
@@ -43,6 +45,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 ## 2022-02-01
 :trophy: 2022-01-19
+### Cognizant : Java Developer
 ### https://web.dio.me/track/cognizant-java-developer
 - [Conteudo programatico](Cognizant_JavaDeveloper.md)
 
@@ -53,6 +56,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
  
 ## 2022-01-30
 :trophy: 2022-01-19
+### GFT Start #3 Java
 ### https://web.dio.me/track/gft-start-3-java?tab=path
 - [Conteudo programatico](GFT_Start3_Java.md)
 
@@ -62,6 +66,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 ## 2022-01-30
 :trophy: 2022-01-20
+### GFT Start #3 Dot Net
 ### https://web.dio.me/track/gft-start-3-net
 - [Conteudo programatico](GFT_Start3_DotNet.md)
 
@@ -71,6 +76,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
  
 ## 2022-03-10
 :trophy: 2022-01-25
+### NTT Data : Android Developer
 ### https://web.dio.me/track/ntt-data-android-developer
 - [Conteudo programatico](NTT_DataAndroidDeveloper.md)
 
@@ -80,6 +86,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 ## 2022-03-10
 :trophy: 2022-01-26
+### MRV : FullStack Developer
 ### https://web.dio.me/track/mrv-fullstack-developer
 - [Conteudo programatico](MRV_FullstackDeveloper.md)
 
@@ -89,6 +96,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
  
 ## 2022-03-20
 :trophy: 2022-01-26
+### Take Blip: Web Developer
 ###  https://web.dio.me/track/take-blip-web-developer
 - [Conteudo programatico](TakeBlip_WebDeveloper.md)
 
@@ -112,12 +120,30 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### https://web.dio.me/track/gft-start-4-java
 - [Conteudo programatico](GFT_Start4_Java.md)
  
-- :scroll: [Certificado](./Certificados/GFT_Start4_Java.md)
+- :scroll: [Certificado](./Certificados/GFT_Start4_Java.Md)
  
- <br>
+<br>
+
+## 2022-03-30
+:trophy: 2022-02-01
+### Sportheca : Mobile Developer
+### https://web.dio.me/track/sportheca-mobile-developer
+- [Conteudo programatico](Sportheca_MobileDeveloper.Md)
+ 
+- :scroll: [Certificado](./Certificados/Sportheca_MobileDeveloper.Md)
 
 <br>
 
+## 2022-02-13
+:trophy: 2022-02-02
+### Inter : FrontEnd Developer
+### https://web.dio.me/track/inter-frontend-developer
+- [Conteudo programatico](Inter_FrontEndDeveloper.md)
+
+- :scroll: [Certificado](./Certificados/Inter_FrontEndDeveloper.md)
+
+<br>
+ 
 <br>
  
 ---
@@ -126,12 +152,6 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
  
- 
-## 2022-02-13
-### https://web.dio.me/track/inter-frontend-developer
-- [Conteudo programatico](Inter_FrontEndDeveloper.md)
- <br>
-
 ## 2022-02-28
 ### https://web.dio.me/track/localiza-net-developer-2
 - [Conteudo programatico](Localiza_DotNetDeveloper2.md)
