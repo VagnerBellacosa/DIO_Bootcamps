@@ -8,14 +8,14 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-![Certificado](images/Inter_AndroidDeveloper.png "Inter Android Developer")
+![Certificado](images/Inter_AndroidDeveloper.png "Inter : Android Developer")
 
-## 2021-10-14 
+## 2021-10-14
 ### https://web.dio.me/track/inter-android-developer?tab=path 
 :trophy: 2021-09-20
 - [Conteudo programatico](../Inter_AndroidDeveloper.md)
 
-- ![Certificado](9960E4C6.pdf "Inter Android Developer")
+- ![Certificado](9960E4C6.pdf "Inter : Android Developer")
 
 
 #### * DIO - Digital Inovation One *
