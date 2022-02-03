@@ -33,7 +33,7 @@ Veja neste link como escrever e temas para ajuda-la nesta atividade. Faça tudo 
 - Dica unica, crie um repositorio no GitHub para armazenar seus artigos e compartilhar com a comunidade	
 	- Se gostou, se foi util e te ajudou, deixe uma estrela no projeto.
 	
-	- ![Deixe sua Estrela](Image\Star.png)
+	- ![Deixe sua Estrela](Image/Star.png "Estrelas e Forks")
 	
 	  
 	
