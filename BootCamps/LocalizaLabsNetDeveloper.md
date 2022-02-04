@@ -6,9 +6,10 @@ Bem-vindo ao bootcamp #LocalizaLabs! O #LocalizaLabs é o laboratório de tecnol
 
 ### :clipboard: Intermediário   :computer: 21 atividades  :clock430: 90 hrs
 
+[Pagina oficial do Bootcamp](https://web.dio.me/track/localizalabs-net-developer?tab=path)
 
-| LocalizaLabs .NET Developer      |
-|-------------------------------------|
+| LocalizaLabs .NET Developer            |
+| :------------------------------------- |
 | 01. Boas-vindas ao Bootcamp LocalizaLabs .NET developer   |
 | 02. Bem-vindo à DIO   |
 | 03. Lógica de programação essencial   |
