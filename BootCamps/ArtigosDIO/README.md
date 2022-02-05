@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: Descubra o que é Software Legado  <br>
+
+https://web.dio.me/articles/descubra-o-que-e-software-legado   <br>
+
+"Informática Básica" "Arquitetura de Sistemas" "QA"  <br>
+
 :rocket: Metodologia Waterfall, o que é, para que serve, virtudes e defeitos  <br>
 
 https://web.dio.me/articles/metodologia-waterfall-o-que-e-para-que-serve-virtudes-e-defeitos  <br>
