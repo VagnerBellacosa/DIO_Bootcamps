@@ -17,6 +17,11 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket:  O Perigo da Síndrome do Impostor e como afeta a carreira de um DEV  <br>
+
+"Desperte o potencial" "Marketing Pessoal" "Equipe Motivada"  <br>
+
+https://web.dio.me/articles/o-perigo-da-sindrome-do-impostor-e-como-afeta-a-carreira-de-um-dev  <br>
 
 :rocket: Precisa de ajuda? Veja dicas para ser salvo, use e abuse do GitHub.  <br>
 
