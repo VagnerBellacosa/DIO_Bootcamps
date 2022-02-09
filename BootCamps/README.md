@@ -155,7 +155,16 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 
 <br>
- 
+
+## 2022-02-28 
+:trophy: 2022-02-09
+### Eduzz FullStack Developer #3
+### https://web.dio.me/track/b72e7c1e-174e-48ad-aee5-682a3b0c4338
+- [Conteudo programatico](Eduzz_FullStackDeveloper3.md)
+
+- :scroll: [Certificado](./Certificados/Eduzz_FullStackDeveloper3.md)
+ <br>
+
 <br>
  
 ---
@@ -163,13 +172,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
- 
-## 2022-02-28 
-### Eduzz FullStack Developer #3
-### https://web.dio.me/track/b72e7c1e-174e-48ad-aee5-682a3b0c4338
-- [Conteudo programatico](Eduzz_FullStackDeveloper3.md)
- <br>
-  
+   
 ---
 
 #### * DIO - Digital Inovation One *
