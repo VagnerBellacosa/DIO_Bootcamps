@@ -17,6 +17,13 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+
+🏴‍☠️ 🏴‍☠️ 🏴‍☠️ Curso gratis em cybersegurança 🏴‍☠️ 🏴‍☠️ 🏴‍☠️  <br>
+
+https://web.dio.me/articles/curso-gratis-em-cyberseguranca    <br>
+
+<br>
+
 :rocket: 🚨 🚨 🚨 Entenda o Ataque cracker à Vodafone 🚨 🚨 🚨  <br>
 
 https://web.dio.me/articles/entenda-o-ataque-cracker-a-vodafone  <br>
