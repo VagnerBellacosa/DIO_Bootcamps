@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 🚨 🚨 🚨 Entenda o Ataque cracker à Vodafone 🚨 🚨 🚨  <br>
+
+https://web.dio.me/articles/entenda-o-ataque-cracker-a-vodafone  <br>
+
+"Segurança no trabalho"  "Spring Security" "Boas práticas"  <br>
+
 :rocket:  O Perigo da Síndrome do Impostor e como afeta a carreira de um DEV  <br>
 
 "Desperte o potencial" "Marketing Pessoal" "Equipe Motivada"  <br>
