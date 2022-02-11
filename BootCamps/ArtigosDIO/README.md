@@ -17,8 +17,13 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket:  🐲 🐲 🐲 Ataque dos Trolls: Conheça FlameWars 🐉 [Você Sabia?] 🐲 🐲 🐲  <br>
 
-🏴‍☠️ 🏴‍☠️ 🏴‍☠️ Curso gratis em cybersegurança 🏴‍☠️ 🏴‍☠️ 🏴‍☠️  <br>
+https://web.dio.me/articles/ataque-dos-trolls-conheca-o-flamewars-voce-sabia  <br>
+
+"Programação para Internet" "Informática Básica"  "Boas práticas"  <br>
+
+:rocket: 🏴‍☠️ 🏴‍☠️ 🏴‍☠️ Curso gratis em cybersegurança 🏴‍☠️ 🏴‍☠️ 🏴‍☠️  <br>
 
 https://web.dio.me/articles/curso-gratis-em-cyberseguranca    <br>
 
