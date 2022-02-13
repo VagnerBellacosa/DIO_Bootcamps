@@ -16,6 +16,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 
 # Indice de Artigos  <br><br>
+ 
+:rocket: 🚸 🚸 🚸 Hells Interfaces 😈 Bugando os usuarios ♻️ ♻️ ♻️ <br>
+
+https://web.dio.me/articles/hells-interfaces-bugando-os-usuarios    <br>
+
+"Boas práticas"  "Arquitetura de Sistemas"  "UI/UX" <br>
 
 :rocket:  🐲 🐲 🐲 Ataque dos Trolls: Conheça FlameWars 🐉 [Você Sabia?] 🐲 🐲 🐲  <br>
 
