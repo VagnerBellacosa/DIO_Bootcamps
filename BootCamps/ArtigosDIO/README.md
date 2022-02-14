@@ -16,9 +16,16 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 
 # Indice de Artigos  <br><br>
- 
+
+:rocket:🐞 🐞 🐞 Despedida ao louco tiozão dos Antivirus 🐞 🐞 🐞
+
+https://web.dio.me/articles/despedida-ao-louco-tiozao-dos-antivirus  <br>
+
 :rocket: 🚸 🚸 🚸 Hells Interfaces 😈 Bugando os usuarios ♻️ ♻️ ♻️ <br>
 
+ "Blockchain"  "Informática Básica"  "Inovação" <br>
+ 
+ 
 https://web.dio.me/articles/hells-interfaces-bugando-os-usuarios    <br>
 
 "Boas práticas"  "Arquitetura de Sistemas"  "UI/UX" <br>
