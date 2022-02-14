@@ -21,11 +21,10 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 https://web.dio.me/articles/despedida-ao-louco-tiozao-dos-antivirus  <br>
 
+"Blockchain"  "Informática Básica"  "Inovação" <br>
+
 :rocket: 🚸 🚸 🚸 Hells Interfaces 😈 Bugando os usuarios ♻️ ♻️ ♻️ <br>
 
- "Blockchain"  "Informática Básica"  "Inovação" <br>
- 
- 
 https://web.dio.me/articles/hells-interfaces-bugando-os-usuarios    <br>
 
 "Boas práticas"  "Arquitetura de Sistemas"  "UI/UX" <br>
