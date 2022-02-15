@@ -173,13 +173,19 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
 
+## 2022-04-04 
+### Banco Carrefour : Woman Developers
+### https://web.dio.me/track/gft-quality-assurance-1?tab=path
+- [Conteudo programatico](GFT_QualityAssurance1.md)
 
-## 2022-02-28 
+
+## 2022-04-14 
 ### Banco Carrefour : Woman Developers
 ### https://web.dio.me/track/banco-carrefour-woman-developer
 - [Conteudo programatico](BancoCarrefour_WomanDevelopers.md)
-- 
-   
+
+
+
 ---
 
 #### * DIO - Digital Inovation One *
