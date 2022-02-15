@@ -17,7 +17,13 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
-:rocket:🐞 🐞 🐞 Despedida ao louco tiozão dos Antivirus 🐞 🐞 🐞
+:rocket:   ☀️ ☀️ ☀️ Curso Gratis: Fundamentos de Gestão de Projetos - FGV ☀️ ☀️ ☀️  <br>
+
+https://web.dio.me/articles/curso-gratis-fundamentos-de-gestao-de-projetos-fgv  <br>
+
+"Negócios Exponenciais" "Arquitetura de Sistemas"  "Inovação"   <br>
+
+:rocket:🐞 🐞 🐞 Despedida ao louco tiozão dos Antivirus 🐞 🐞 🐞   <br>
 
 https://web.dio.me/articles/despedida-ao-louco-tiozao-dos-antivirus  <br>
 
