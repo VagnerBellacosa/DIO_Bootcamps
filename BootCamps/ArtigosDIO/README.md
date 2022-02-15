@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 🏔️ 🐎 👨‍👦 O Velho, o Menino e o Burro, aprimorando Soft Skills 🐎 👨‍👦 🏔️
+
+https://web.dio.me/articles/o-velho-o-menino-e-o-burro-aprimorando-soft-skills?back=%2Farticles&page=1&order=oldest
+
+"Marketing Pessoal" "Liderança de Equipe "Soft Skill"
+
 :rocket:   ☀️ ☀️ ☀️ Curso Gratis: Fundamentos de Gestão de Projetos - FGV ☀️ ☀️ ☀️  <br>
 
 https://web.dio.me/articles/curso-gratis-fundamentos-de-gestao-de-projetos-fgv  <br>
@@ -49,15 +55,15 @@ https://web.dio.me/articles/curso-gratis-em-cyberseguranca    <br>
 
 :rocket: 🚨 🚨 🚨 Entenda o Ataque cracker à Vodafone 🚨 🚨 🚨  <br>
 
-https://web.dio.me/articles/entenda-o-ataque-cracker-a-vodafone  <br>
-
 "Segurança no trabalho"  "Spring Security" "Boas práticas"  <br>
+
+https://web.dio.me/articles/entenda-o-ataque-cracker-a-vodafone  <br>
 
 :rocket:  O Perigo da Síndrome do Impostor e como afeta a carreira de um DEV  <br>
 
-"Desperte o potencial" "Marketing Pessoal" "Equipe Motivada"  <br>
-
 https://web.dio.me/articles/o-perigo-da-sindrome-do-impostor-e-como-afeta-a-carreira-de-um-dev  <br>
+
+"Desperte o potencial" "Marketing Pessoal" "Equipe Motivada"  <br>
 
 :rocket: Precisa de ajuda? Veja dicas para ser salvo, use e abuse do GitHub.  <br>
 
