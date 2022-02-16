@@ -17,11 +17,17 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
-:rocket: 🏔️ 🐎 👨‍👦 O Velho, o Menino e o Burro, aprimorando Soft Skills 🐎 👨‍👦 🏔️
+:rocket: 🤷🏼 🤷🏼 🤷🏼 Como é calculado os Pontos em Habilidade? [Você sabia?] 🤓 🤓 🤓   <br>
 
-https://web.dio.me/articles/o-velho-o-menino-e-o-burro-aprimorando-soft-skills?back=%2Farticles&page=1&order=oldest
+https://web.dio.me/articles/como-e-calculado-os-pontos-em-habilidade-voce-sabia   <br>
 
-"Marketing Pessoal" "Liderança de Equipe "Soft Skill"
+"Jira" "Informática Básica" "Arquitetura de Sistemas"   <br>
+
+:rocket: 🏔️ 🐎 👨‍👦 O Velho, o Menino e o Burro, aprimorando Soft Skills 🐎 👨‍👦 🏔️     <br>
+
+https://web.dio.me/articles/o-velho-o-menino-e-o-burro-aprimorando-soft-skills     <br>
+
+"Marketing Pessoal" "Liderança de Equipe "Soft Skill" <br>
 
 :rocket:   ☀️ ☀️ ☀️ Curso Gratis: Fundamentos de Gestão de Projetos - FGV ☀️ ☀️ ☀️  <br>
 
