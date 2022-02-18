@@ -17,6 +17,11 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 🏁 🏁 🏁 BASECAMP 🎩 Bem-vindo 📖 Aprenda 👨‍🏫 Evolua na DIO 🕷️ [👀]   <br>
+
+https://web.dio.me/articles/basecamp-bem-vindo-aprenda-evolua-na-dio   <br>
+
+"Marketing Pessoal"  "Marketing Digital" "Soft Skill"   <br>
 
 :rocket:  🎉 🎉 🎉 Extra, Extra, Edição comemorativa do 150° Artigo 🎉 🎉 🎉   <br>
 
