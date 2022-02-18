@@ -17,6 +17,13 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+
+:rocket:  🎉 🎉 🎉 Extra, Extra, Edição comemorativa do 150° Artigo 🎉 🎉 🎉   <br>
+
+https://web.dio.me/articles/extra-extra-edicao-comemorativa-do-150-artigo   <br>
+
+"Desperte o potencial"  "Marketing Pessoal" "Soft Skill"   <br>
+
 :rocket: 🤷🏼 🤷🏼 🤷🏼 Como é calculado os Pontos em Habilidade? [Você sabia?] 🤓 🤓 🤓   <br>
 
 https://web.dio.me/articles/como-e-calculado-os-pontos-em-habilidade-voce-sabia   <br>
