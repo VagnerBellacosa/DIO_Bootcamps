@@ -84,6 +84,14 @@ https://web.dio.me/articles/precisa-de-ajuda-veja-dicas-para-ser-salvo-use-e-abu
 
 "GitHub" "Git" "Arquitetura de Sistemas"  <br>
 
+:rocket: 📃 📃 📃 Índice de Artigos na DIO 📃 📃 📃  <br>
+
+Lista Indice Compendio Tabela Arquivo   <br>
+
+https://web.dio.me/articles/precisa-de-ajuda-veja-dicas-para-ser-salvo-use-e-abuse-do-github  <br>
+
+"Marketing Pessoal" "Marketing Digital" "Soft Skill"  <br>
+
 :rocket: Descubra o que é Software Legado  <br>
 
 https://web.dio.me/articles/descubra-o-que-e-software-legado   <br>
