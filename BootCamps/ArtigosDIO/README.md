@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 💲 💱 💸 🤑 O que é Bitcoins para Padawans 💱 💸 🤑 💲  <br>
+
+https://web.dio.me/articles/o-que-e-bitcoins-para-padawans  <br>
+
+"Blockchain" "Ethereum"  "Inovação"  <br>
+
 :rocket: 🏁 🏁 🏁 BASECAMP 🎩 Bem-vindo 📖 Aprenda 👨‍🏫 Evolua na DIO 🕷️ [👀]   <br>
 
 https://web.dio.me/articles/basecamp-bem-vindo-aprenda-evolua-na-dio   <br>
