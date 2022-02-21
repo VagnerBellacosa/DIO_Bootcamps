@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 🕸️ 🕸️ 🕸️ Segredos da DARK WEB para Padawans 🕸️ 🕸️ 🕸️  <br>
+
+https://web.dio.me/articles/segredos-da-dark-web-para-padawans  <br>
+
+"Blockchain" "Ethereum" "Boas práticas"  <br>
+
 :rocket: 💲 💱 💸 🤑 O que é Bitcoins para Padawans 💱 💸 🤑 💲  <br>
 
 https://web.dio.me/articles/o-que-e-bitcoins-para-padawans  <br>
