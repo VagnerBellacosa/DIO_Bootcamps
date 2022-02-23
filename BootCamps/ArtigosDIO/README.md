@@ -17,6 +17,30 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 🚨 🏴‍☠️ 🚨 Estudo do Caso: Ataque Fatal a Americanas Ponto Com 🏴‍☠️ 🏴‍☠️ 🏴‍☠️  <br>
+
+https://web.dio.me/articles/estudo-do-caso-ataque-fatal-a-americanas-ponto-com?back=%2Farticles&page=1&order=oldest  <br>
+
+"Equipe Motivada" "Boas práticas" "Marketing Digital"  <br>
+
+:rocket: 🏆 🏆 🏆 GRATIDAO 🏆 🏆 🏆 Muito obrigado DIO !!!! Dio Awards 2021  <br>
+
+https://web.dio.me/articles/gratidao-muito-obrigado-dio-dio-awards-2021  <br>
+
+"Marketing Pessoal"  "Marketing Digital"  "Soft Skill"  <br>
+
+:rocket: 🕸️ 🕸️ 🕸️ Segredos da DARK WEB para Padawans 🕸️ 🕸️ 🕸️  <br>
+
+https://web.dio.me/articles/segredos-da-dark-web-para-padawans  <br>
+
+"Blockchain" "Ethereum" "Boas práticas"  <br>
+
+:rocket: 💲 💱 💸 🤑 O que é Bitcoins para Padawans 💱 💸 🤑 💲  <br>
+
+https://web.dio.me/articles/o-que-e-bitcoins-para-padawans  <br>
+
+"Blockchain" "Ethereum"  "Inovação"  <br>
+
 :rocket: 🏁 🏁 🏁 BASECAMP 🎩 Bem-vindo 📖 Aprenda 👨‍🏫 Evolua na DIO 🕷️ [👀]   <br>
 
 https://web.dio.me/articles/basecamp-bem-vindo-aprenda-evolua-na-dio   <br>
@@ -73,9 +97,9 @@ https://web.dio.me/articles/curso-gratis-em-cyberseguranca    <br>
 
 :rocket: 🚨 🚨 🚨 Entenda o Ataque cracker à Vodafone 🚨 🚨 🚨  <br>
 
-"Segurança no trabalho"  "Spring Security" "Boas práticas"  <br>
-
 https://web.dio.me/articles/entenda-o-ataque-cracker-a-vodafone  <br>
+
+"Segurança no trabalho"  "Spring Security" "Boas práticas"  <br>
 
 :rocket:  O Perigo da Síndrome do Impostor e como afeta a carreira de um DEV  <br>
 
