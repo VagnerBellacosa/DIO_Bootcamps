@@ -110,7 +110,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ## 2021-09-10 
 :trophy: 2021-07-26
 ### https://web.dio.me/track/1d1fa88f-665b-41d0-b8a8-3820cc7fd6e5?tab=path
-- [Conteudo programatico](Everis_NewTalents_DotNet.md)
+- [Conteudo programatico](Everis_NewTalents_DotNET.Md)
 
 - :scroll: [Certificado](./Certificados/Everis_NewTalents_DotNET.Md)
 <br>
