@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 🚨 🏴‍☠️ 🚨 Estudo do Caso: Ataque Fatal a Americanas Ponto Com 🏴‍☠️ 🏴‍☠️ 🏴‍☠️  <br>
+
+https://web.dio.me/articles/estudo-do-caso-ataque-fatal-a-americanas-ponto-com?back=%2Farticles&page=1&order=oldest  <br>
+
+"Equipe Motivada" "Boas práticas" "Marketing Digital"  <br>
+
 :rocket: 🏆 🏆 🏆 GRATIDAO 🏆 🏆 🏆 Muito obrigado DIO !!!! Dio Awards 2021  <br>
 
 https://web.dio.me/articles/gratidao-muito-obrigado-dio-dio-awards-2021  <br>
