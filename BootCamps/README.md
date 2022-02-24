@@ -179,11 +179,16 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - [Conteudo programatico](GFT_QualityAssurance1.md)
 
 
+## 2022-04-17
+### Cognizante : Cloud Data Engineer #2
+### https://web.dio.me/track/cognizant-cloud-data-engineer-2
+- [Conteudo programatico](Cognizant_CloudDataEngineer2.Md)  
+
+
 ## 2022-04-14 
 ### Banco Carrefour : Woman Developers
 ### https://web.dio.me/track/banco-carrefour-woman-developer
-- [Conteudo programatico](BancoCarrefour_WomanDevelopers.md)
-
+- [Conteudo programatico](BancoCarrefour_WomanDevelopers.md)  
 
 
 ---
