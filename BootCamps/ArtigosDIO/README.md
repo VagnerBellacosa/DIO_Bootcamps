@@ -17,9 +17,15 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 😥 😥 😥 Felipe Neto Morreu???? [👀] [👀] [👀]  <br>
+
+https://web.dio.me/articles/felipe-neto-morreu  <br>
+
+"Marketing Pessoal" "Informática Básica" "Segurança no trabalho"  <br>
+
 :rocket: 🚨 🏴‍☠️ 🚨 Estudo do Caso: Ataque Fatal a Americanas Ponto Com 🏴‍☠️ 🏴‍☠️ 🏴‍☠️  <br>
 
-https://web.dio.me/articles/estudo-do-caso-ataque-fatal-a-americanas-ponto-com?back=%2Farticles&page=1&order=oldest  <br>
+https://web.dio.me/articles/estudo-do-caso-ataque-fatal-a-americanas-ponto-com <br>
 
 "Equipe Motivada" "Boas práticas" "Marketing Digital"  <br>
 
