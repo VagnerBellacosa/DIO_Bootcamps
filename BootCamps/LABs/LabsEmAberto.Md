@@ -47,4 +47,4 @@
 <br><br> <ul> https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/4022d71c-b706-4414-a171-49ee87184452
 <br><br> <ul> https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/fe8f0707-8354-48d3-a6ab-b3d96f24ab62
 
-121 41    156
+133 23    156
