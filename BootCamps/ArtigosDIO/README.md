@@ -23,6 +23,13 @@ https://web.dio.me/articles/felipe-neto-morreu  <br>
 
 "Marketing Pessoal" "Informática Básica" "Segurança no trabalho"  <br>
 
+
+:rocket:  Por que um DEV padawan tem medo do Cobol?  <br>
+
+https://web.dio.me/articles/por-que-um-dev-padawan-tem-medo-do-cobol  <br>
+
+"Informática Básica" "Marketing Digital" "Soft Skill"  <br>
+
 :rocket: 🚨 🏴‍☠️ 🚨 Estudo do Caso: Ataque Fatal a Americanas Ponto Com 🏴‍☠️ 🏴‍☠️ 🏴‍☠️  <br>
 
 https://web.dio.me/articles/estudo-do-caso-ataque-fatal-a-americanas-ponto-com <br>
