@@ -7,8 +7,6 @@
 
 ## LABS
 
-<br><br> <ul> https://web.dio.me/lab/construindo-api-dos-jogos-rodadas-e-classificacao-do-campeonato-brasileiro-de-futebol-com-springboot/learning/c506d9b2-79e1-460d-a94e-dc19632a9892
-<br><br> <ul> https://web.dio.me/lab/construindo-chatbot-no-telegram-com-dialogflow-e-serverless/learning/c1debb75-ac6d-4154-9cf3-debd86856476
 <br><br> <ul> https://web.dio.me/lab/construindo-um-servico-de-processamento-bancario-com-transacoes-concorrentes-em-elixir/learning/6cc2d7e2-04b4-4682-b249-b3282b42205e
 <br><br> <ul> https://web.dio.me/lab/construindo-uma-api-com-laravel-para-cadastro-e-controle-de-usuarios-utilizando-jwt/learning/d534fd8d-5f37-4928-8ee3-53cb3b83c913
 <br><br> <ul> https://web.dio.me/lab/construindo-uma-aplicacao-mvc-com-laravel-7-para-consulta-de-cep/learning/a78f9b42-6a4e-44e1-8379-71719a3812f2
