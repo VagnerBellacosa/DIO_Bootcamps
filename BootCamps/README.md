@@ -173,17 +173,21 @@ Surfando no estado da arte em Tecnologia da Informaçao
 
 - :scroll: [Certificado](./Certificados/GFT_QualityAssurance1.md)
 <br>
- 
+
+## 2022-04-14 
+:trophy: 2022-03-02
+### Banco Carrefour : Woman Developers
+### https://web.dio.me/track/banco-carrefour-woman-developer
+- [Conteudo programatico](BancoCarrefour_WomanDevelopers.md)  
+
+- :scroll: [Certificado](./Certificados/BancoCarrefour_WomanDevelopers.md)
+<br>
+
 ---
 
 <!-- PROJECT LOGO -->
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
-
-## 2022-04-14 
-### Banco Carrefour : Woman Developers
-### https://web.dio.me/track/banco-carrefour-woman-developer
-- [Conteudo programatico](BancoCarrefour_WomanDevelopers.md)  
 
 ## 2022-04-17
 ### Cognizante : Cloud Data Engineer #2
