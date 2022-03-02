@@ -165,6 +165,13 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - :scroll: [Certificado](./Certificados/Eduzz_FullStackDeveloper3.md)
  <br>
 
+## 2022-04-04 
+:trophy: 2022-03-01
+### GFT : Quality Assurance Number 1
+### https://web.dio.me/track/gft-quality-assurance-1?tab=path
+- [Conteudo programatico](GFT_QualityAssurance1.md)
+
+- :scroll: [Certificado](./Certificados/GFT_QualityAssurance1.md)
 <br>
  
 ---
@@ -173,22 +180,15 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ![Tiozao Work In Progress](Images/workInProgress.png "Bootcamps em Treino")
 # Work in progress
 
-## 2022-04-04 
+## 2022-04-14 
 ### Banco Carrefour : Woman Developers
-### https://web.dio.me/track/gft-quality-assurance-1?tab=path
-- [Conteudo programatico](GFT_QualityAssurance1.md)
-
+### https://web.dio.me/track/banco-carrefour-woman-developer
+- [Conteudo programatico](BancoCarrefour_WomanDevelopers.md)  
 
 ## 2022-04-17
 ### Cognizante : Cloud Data Engineer #2
 ### https://web.dio.me/track/cognizant-cloud-data-engineer-2
 - [Conteudo programatico](Cognizant_CloudDataEngineer2.Md)  
-
-
-## 2022-04-14 
-### Banco Carrefour : Woman Developers
-### https://web.dio.me/track/banco-carrefour-woman-developer
-- [Conteudo programatico](BancoCarrefour_WomanDevelopers.md)  
 
 
 ---
