@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 😥 😥 😥 O pior pesadelo de um analista de sistemas 🚓 🚓 🚓  <br>
+
+https://web.dio.me/articles/o-pior-pesadelo-de-um-analista-de-sistemas  <br>
+
+"Estrutura de dados" "Liderança de Equipe" "Arquitetura de Sistemas"  <br>
+
 :rocket: 🗺️ 🗺️ 🗺️ Tutorial use Markdown no Whatsapps 👨‍⚖️ 👨‍⚖️ 👨‍⚖️  <br>
 
 https://web.dio.me/articles/tutorial-use-markdown-no-whatsapps  <br>
