@@ -17,12 +17,17 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 🗺️ 🗺️ 🗺️ Tutorial use Markdown no Whatsapps 👨‍⚖️ 👨‍⚖️ 👨‍⚖️  <br>
+
+https://web.dio.me/articles/tutorial-use-markdown-no-whatsapps  <br>
+
+"Marketing Pessoal" "Informática Básica" "Marketing Digital"  <br>
+
 :rocket: 😥 😥 😥 Felipe Neto Morreu???? [👀] [👀] [👀]  <br>
 
 https://web.dio.me/articles/felipe-neto-morreu  <br>
 
 "Marketing Pessoal" "Informática Básica" "Segurança no trabalho"  <br>
-
 
 :rocket:  Por que um DEV padawan tem medo do Cobol?  <br>
 
