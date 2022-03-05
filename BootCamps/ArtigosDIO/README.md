@@ -17,6 +17,13 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+
+:rocket: ⚔ ⚔ ⚔ Convite aos Dionitos: Participe da Comunidade ⚔ ⚔ ⚔   <br>
+
+https://web.dio.me/articles/convite-aos-dionitos-participe-da-comunidade  <br>
+
+"Marketing Pessoal" "Marketing Digital" "Soft Skill"  <br>
+
 :rocket: 😥 😥 😥 O pior pesadelo de um analista de sistemas 🚓 🚓 🚓  <br>
 
 https://web.dio.me/articles/o-pior-pesadelo-de-um-analista-de-sistemas  <br>
