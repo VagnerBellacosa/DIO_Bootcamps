@@ -7,7 +7,6 @@
 
 ## LABS
 
-<br><br> <ul> https://web.dio.me/lab/construindo-uma-aplicacao-para-leitura-de-documentos-escaneados-com-nodejs-e-google-vision/learning/b3a4b9be-7886-495f-9c7e-f87608ef1414
 <br><br> <ul> https://web.dio.me/lab/criando-microsservicos-e-integracoes-com-nodejs/learning/179a5a75-1f50-41d9-95dc-0c51ed0995d8
 <br><br> <ul> https://web.dio.me/lab/criando-modelos-com-python-e-machine-learning-para-prever-a-evolucao-do-covid-19-no-brasil/learning/14fba55d-a017-4f74-bc4f-e3b43b87d2bb
 <br><br> <ul> https://web.dio.me/lab/criando-o-aplicativo-do-mercado-livre-com-react-native-e-firebase/learning/e1351278-c2de-4abc-b406-7a9f3f58d35a
