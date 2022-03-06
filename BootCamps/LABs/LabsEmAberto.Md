@@ -7,8 +7,6 @@
 
 ## LABS
 
-
-<br><br> <ul> https://web.dio.me/lab/construindo-uma-aplicacao-mvc-com-laravel-7-para-consulta-de-cep/learning/a78f9b42-6a4e-44e1-8379-71719a3812f2
 <br><br> <ul> https://web.dio.me/lab/construindo-uma-aplicacao-para-leitura-de-documentos-escaneados-com-nodejs-e-google-vision/learning/b3a4b9be-7886-495f-9c7e-f87608ef1414
 <br><br> <ul> https://web.dio.me/lab/criando-microsservicos-e-integracoes-com-nodejs/learning/179a5a75-1f50-41d9-95dc-0c51ed0995d8
 <br><br> <ul> https://web.dio.me/lab/criando-modelos-com-python-e-machine-learning-para-prever-a-evolucao-do-covid-19-no-brasil/learning/14fba55d-a017-4f74-bc4f-e3b43b87d2bb
@@ -44,4 +42,4 @@
 <br><br> <ul> https://web.dio.me/lab/utilizando-o-cypress-e2e-para-testar-um-blog-em-angular/learning/4022d71c-b706-4414-a171-49ee87184452
 <br><br> <ul> https://web.dio.me/lab/widget-de-previsao-do-tempo-utilizando-web-component/learning/fe8f0707-8354-48d3-a6ab-b3d96f24ab62
 
-135 21    156
+138 18    156
