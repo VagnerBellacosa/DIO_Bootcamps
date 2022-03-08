@@ -174,7 +174,7 @@ Surfando no estado da arte em Tecnologia da Informaçao
 - :scroll: [Certificado](./Certificados/GFT_QualityAssurance1.md)
 <br>
 
-## 2022-04-14 
+## 2022-04-30 
 :trophy: 2022-03-02
 ### Banco Carrefour : Woman Developers
 ### https://web.dio.me/track/banco-carrefour-woman-developer
@@ -193,6 +193,11 @@ Surfando no estado da arte em Tecnologia da Informaçao
 ### Cognizante : Cloud Data Engineer #2
 ### https://web.dio.me/track/cognizant-cloud-data-engineer-2
 - [Conteudo programatico](Cognizant_CloudDataEngineer2.Md)  
+
+## 2022-06-03
+### Philips Fullstack Developer | You Are You
+### https://web.dio.me/track/philips-fullstack-developer
+- [Conteudo programatico](Philips_FullStackDeveloper.Md)  
 
 
 ---
