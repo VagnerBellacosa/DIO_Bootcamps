@@ -4,7 +4,7 @@
 
 Desenvolva as principais competências aplicadas pelas empresas mais inovadoras do mundo para criar negócios escaláveis e produtos que encantam os clientes.
 
-### Contenudo Programatico
+### Conteúdo Programatico
 
 ![Badge](https://hermes.digitalinnovation.one/courses/badge/ab8e008a-65e7-43ab-bca6-a2c5d8b5a563.png)
 Mentalidade Empreendedora
