@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: ☠️ ☠️ ☠️ Estudo do Caso: Ataque cracker ao Mercado Livre ☠️ ☠️ ☠️    <br>
+
+https://web.dio.me/articles/estudo-do-caso-ataque-cracker-ao-mercado-livre    <br>
+
+"Liderança de Equipe" "Blockchain" "Arquitetura de Sistemas"    <br>
+
 :rocket: 🗽 🗽 🗽 Importante e Necessário: Saiba usar o Linkedin (👀) 🗽 🗽 🗽    <br>
 
 https://web.dio.me/articles/importante-e-necessario-saiba-usar-o-linkedin    <br>
