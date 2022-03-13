@@ -15,7 +15,7 @@
 Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  <br>
 
 
-# Indice de Artigos  <br><br>
+# Indice de Artigos  <br><br> 
 
 :rocket: 🔥 🔥 🔥 Ransomware para padawan. 💣 💣 💣 Saiba que treco é esse? 👀    <br>
 
