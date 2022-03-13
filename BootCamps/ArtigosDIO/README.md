@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br>
 
+:rocket: 🔥 🔥 🔥 Ransomware para padawan. 💣 💣 💣 Saiba que treco é esse? 👀    <br>
+
+https://web.dio.me/articles/ransomware-para-padawan-saiba-o-que-treco-e-isso    <br>
+
+"Informática Básica" "Arquitetura de Sistemas" "QA"    <br>
+
 :rocket: ☠️ ☠️ ☠️ Estudo do Caso: Ataque cracker ao Mercado Livre ☠️ ☠️ ☠️    <br>
 
 https://web.dio.me/articles/estudo-do-caso-ataque-cracker-ao-mercado-livre    <br>
