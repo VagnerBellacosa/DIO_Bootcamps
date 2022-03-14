@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket:  🏴‍☠️ 🏴‍☠️ 🏴‍☠️ Malware para padawans. 💃 💃 Descubra mais. 💃 💃  <br>
+
+https://web.dio.me/articles/malware-para-padawans-descubra-mais  <br>
+
+"Informática Básica"  "Arquitetura de Sistemas"  "Negócios Exponenciais"   <br>
+
 :rocket: 🔥 🔥 🔥 Ransomware para padawan. 💣 💣 💣 Saiba que treco é esse? 👀    <br>
 
 https://web.dio.me/articles/ransomware-para-padawan-saiba-o-que-treco-e-isso    <br>
