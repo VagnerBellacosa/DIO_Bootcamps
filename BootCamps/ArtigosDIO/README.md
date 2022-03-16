@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: 🤸‍♀️ 🤸‍♀️ 🤸‍♀️ Um projecto passo a passo para padawans 🎸 🎸 🎸  <br>
+
+https://web.dio.me/articles/um-projecto-passo-a-passo-para-padawans  <br>
+
+"Desperte o potencial" "Testes unitários" "QA"  <br>
+
 :rocket:  🏴‍☠️ 🏴‍☠️ 🏴‍☠️ Malware para padawans. 💃 💃 Descubra mais. 💃 💃  <br>
 
 https://web.dio.me/articles/malware-para-padawans-descubra-mais  <br>
