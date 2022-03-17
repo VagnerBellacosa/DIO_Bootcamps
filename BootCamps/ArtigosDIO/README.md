@@ -17,6 +17,13 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+
+:rocket: 🥇 🥇 🥇 Por que vale a Pena ser DIO PRO? 🥇 🥇 🥇 [ Você sabia?]  <br>
+
+https://web.dio.me/articles/por-que-vale-a-pena-ser-dio-pro-voce-sabia  <br>
+
+"Informática Básica" "Arquitetura de Sistemas" "Marketing Digital"  <br>
+
 :rocket: 🤸‍♀️ 🤸‍♀️ 🤸‍♀️ Um projecto passo a passo para padawans 🎸 🎸 🎸  <br>
 
 https://web.dio.me/articles/um-projecto-passo-a-passo-para-padawans  <br>
