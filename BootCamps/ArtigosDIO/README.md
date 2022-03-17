@@ -17,6 +17,11 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: 🎰 🎰 🎰 Sorteio grátis de uma ALEXA 🛸 e Lampada 🕯 Inteligente 🎫 🎫 🎟  <br>
+
+https://web.dio.me/articles/sorteio-gratis-de-uma-alexa-e-lampada-inteligente  <br>
+
+"Programação para Internet" "Marketing Digital" "Soft Skill"  <br>
 
 :rocket: 🥇 🥇 🥇 Por que vale a Pena ser DIO PRO? 🥇 🥇 🥇 [ Você sabia?]  <br>
 
