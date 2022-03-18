@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: Maratona de CiberEducação – Concorra a Bolsas de Estudo Gratuitas e transforme sua carreira!  <br>
+
+https://web.dio.me/articles/maratona-de-cibereducacao-concorra-a-bolsas-de-estudo-gratuitas-e-transforme-sua-carreira  <br>
+
+"Desperte o potencial" "Inovação" "QA"  <br>
+
 :rocket: 🎰 🎰 🎰 Sorteio grátis de uma ALEXA 🛸 e Lampada 🕯 Inteligente 🎫 🎫 🎟  <br>
 
 https://web.dio.me/articles/sorteio-gratis-de-uma-alexa-e-lampada-inteligente  <br>
