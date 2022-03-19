@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: Daily Raiz Versus Daily Nutela  <br>
+
+https://web.dio.me/articles/daily-raiz-versus-daily-nutela  <br>
+
+"Desperte o potencial" "Arquitetura de Sistemas" "Design Thinking"  <br>
+
 :rocket: Maratona de CiberEducação – Concorra a Bolsas de Estudo Gratuitas e transforme sua carreira!  <br>
 
 https://web.dio.me/articles/maratona-de-cibereducacao-concorra-a-bolsas-de-estudo-gratuitas-e-transforme-sua-carreira  <br>
