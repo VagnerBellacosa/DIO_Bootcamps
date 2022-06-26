@@ -17,6 +17,12 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: Jornada do Herói derrotando Dragões, um bardo transmitindo velhas historias  <br>
+
+https://web.dio.me/articles/jornada-do-heroi-derrotando-dragoes-um-bardo-transmitindo-velhas-historias <br>
+
+"Marketing Pessoal" "Marketing Digital" "Soft Skill"  <br>
+
 :rocket: Como zerar um Bootcamp e ser um HERO na comunidade <br>
 
 https://web.dio.me/articles/como-zerar-um-bootcamp-e-ser-um-hero-na-comunidade-1TGZ1G  <br>
