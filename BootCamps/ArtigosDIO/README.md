@@ -17,6 +17,34 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: 💥💥💥 Caos na NYSE: Perigos e desafios da Informática. 🖥️🖥️🖥️ <br>
+
+https://web.dio.me/articles/perigos-e-desafios-da-informatica-sistemas-de-desastre-recovery <br>
+
+:rocket: Minha história de 2022 na DIO <br>
+https://web.dio.me/articles/minha-historia-de-2022-na-dio <br>
+
+
+:rocket: 🕰️🕰️ DIO Metaverso: Minha Experiência na DIO jogando Roblox e algumas memorias do Tiozão Gamer 🕰️🕰️   <br>
+https://web.dio.me/articles/dio-metaverso-minha-experiencia-no-dio-no-roblox-e-memorias-do-tiozao  <br>
+
+:rocket: 🔎🔎🔎 Community Talk: Estado da Arte na Resolução dos Desafio de Código 🔎🔎🔎  <br>
+
+https://web.dio.me/articles/community-talk-estado-da-arte-na-resolucao-dos-desafio-de-codigo <br>
+
+:rocket: 🔑🔑🔑 Level 37 e +1k de certificados 🔑🔑🔑 
+Vencendo a procrastinação e sendo resiliente <br>
+
+https://web.dio.me/articles/level-37-e-1k-de-certificados-vencendo-a-procrastinacao-e-sendo-resiliente  <br>
+
+:rocket: 🏆🏆🏆 Uma ajudinha que faz toda a diferença 🏆🏆🏆 DIO Awards 2022 <br>
+
+https://web.dio.me/articles/uma-ajudinha-que-faz-toda-a-diferenca-dio-awards-2022 <br>
+
+:rocket:  # ChallengeCommunityWeek Uma Jornada heroica <br>
+
+https://web.dio.me/articles/challengecommunityweek-ZDZTRJ <br>
+
 :rocket: Jornada do Herói derrotando Dragões, um bardo transmitindo velhas historias  <br>
 
 https://web.dio.me/articles/jornada-do-heroi-derrotando-dragoes-um-bardo-transmitindo-velhas-historias <br>
