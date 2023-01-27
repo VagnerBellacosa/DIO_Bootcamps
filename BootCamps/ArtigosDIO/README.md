@@ -17,6 +17,10 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: 💥💥💥 Caos na NYSE: Perigos e desafios da Informática. 🖥️🖥️🖥️ <br>
+
+https://web.dio.me/articles/perigos-e-desafios-da-informatica-sistemas-de-desastre-recovery <br>
+
 :rocket: Minha história de 2022 na DIO <br>
 https://web.dio.me/articles/minha-historia-de-2022-na-dio <br>
 
