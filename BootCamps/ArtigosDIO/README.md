@@ -17,6 +17,11 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: 🔑🔑🔑 Level 37 e +1k de certificados 🔑🔑🔑 
+Vencendo a procrastinação e sendo resiliente <br>
+
+https://web.dio.me/articles/level-37-e-1k-de-certificados-vencendo-a-procrastinacao-e-sendo-resiliente  <br>
+
 :rocket: 🏆🏆🏆 Uma ajudinha que faz toda a diferença 🏆🏆🏆 DIO Awards 2022 <br>
 
 https://web.dio.me/articles/uma-ajudinha-que-faz-toda-a-diferenca-dio-awards-2022 <br>
