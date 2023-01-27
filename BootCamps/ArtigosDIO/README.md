@@ -17,6 +17,9 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: 🕰️🕰️ DIO Metaverso: Minha Experiência na DIO jogando Roblox e algumas memorias do Tiozão Gamer 🕰️🕰️   <br>
+https://web.dio.me/articles/dio-metaverso-minha-experiencia-no-dio-no-roblox-e-memorias-do-tiozao  <br>
+
 :rocket: 🔎🔎🔎 Community Talk: Estado da Arte na Resolução dos Desafio de Código 🔎🔎🔎  <br>
 
 https://web.dio.me/articles/community-talk-estado-da-arte-na-resolucao-dos-desafio-de-codigo <br>
