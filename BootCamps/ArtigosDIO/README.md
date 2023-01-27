@@ -17,6 +17,10 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: Minha história de 2022 na DIO <br>
+https://web.dio.me/articles/minha-historia-de-2022-na-dio <br>
+
+
 :rocket: 🕰️🕰️ DIO Metaverso: Minha Experiência na DIO jogando Roblox e algumas memorias do Tiozão Gamer 🕰️🕰️   <br>
 https://web.dio.me/articles/dio-metaverso-minha-experiencia-no-dio-no-roblox-e-memorias-do-tiozao  <br>
 
