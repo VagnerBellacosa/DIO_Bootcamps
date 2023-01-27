@@ -17,6 +17,10 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket:  # ChallengeCommunityWeek Uma Jornada heroica <br>
+
+https://web.dio.me/articles/challengecommunityweek-ZDZTRJ <br>
+
 :rocket: Jornada do Herói derrotando Dragões, um bardo transmitindo velhas historias  <br>
 
 https://web.dio.me/articles/jornada-do-heroi-derrotando-dragoes-um-bardo-transmitindo-velhas-historias <br>
