@@ -19,6 +19,8 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 :rocket: 🔎🔎🔎 Community Talk: Estado da Arte na Resolução dos Desafio de Código 🔎🔎🔎  <br>
 
+https://web.dio.me/articles/community-talk-estado-da-arte-na-resolucao-dos-desafio-de-codigo <br>
+
 :rocket: 🔑🔑🔑 Level 37 e +1k de certificados 🔑🔑🔑 
 Vencendo a procrastinação e sendo resiliente <br>
 
