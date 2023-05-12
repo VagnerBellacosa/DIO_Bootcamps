@@ -17,6 +17,11 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+:rocket: COBOL Highlander <br>
+https://web.dio.me/articles/cobol-highlander?back=%2Farticles&page=1&order=oldest <br>
+
+
+
 :rocket: 💥💥💥 Caos na NYSE: Perigos e desafios da Informática. 🖥️🖥️🖥️ <br>
 
 https://web.dio.me/articles/perigos-e-desafios-da-informatica-sistemas-de-desastre-recovery <br>
