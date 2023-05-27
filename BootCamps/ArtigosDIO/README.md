@@ -17,6 +17,11 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+
+Quem é quem no CPD... Developers e lugares que habitam.. . <br>
+#Informática Básica#Arquitetura de Sistemas"
+https://web.dio.me/articles/quem-e-quem-no-cpd-developers-e-lugares-que-habitam <br>
+
 :rocket: Não tenha medo da IA <br>
 "#Inteligência Artificial (IA)"  <br>
 https://web.dio.me/articles/nao-tenha-medo-da-ia <br>
