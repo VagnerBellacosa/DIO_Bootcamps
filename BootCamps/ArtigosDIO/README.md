@@ -17,6 +17,20 @@ Indice de artigos publicados no Forum da Comunidade da Digital Innovation One.  
 
 # Indice de Artigos  <br><br> 
 
+
+Quem é quem no CPD... Developers e lugares que habitam.. . <br>
+#Informática Básica#Arquitetura de Sistemas"
+https://web.dio.me/articles/quem-e-quem-no-cpd-developers-e-lugares-que-habitam <br>
+
+:rocket: Não tenha medo da IA <br>
+"#Inteligência Artificial (IA)"  <br>
+https://web.dio.me/articles/nao-tenha-medo-da-ia <br>
+
+
+:rocket: COBOL Highlander <br>
+https://web.dio.me/articles/cobol-highlander?back=%2Farticles&page=1&order=oldest <br>
+
+
 :rocket: 💥💥💥 Caos na NYSE: Perigos e desafios da Informática. 🖥️🖥️🖥️ <br>
 
 https://web.dio.me/articles/perigos-e-desafios-da-informatica-sistemas-de-desastre-recovery <br>
